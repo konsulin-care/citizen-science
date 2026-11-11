@@ -1,0 +1,23 @@
+---
+metadata-files:
+- _author.yml
+- _abstract.yml
+- _frontmatter.yml
+bibliography: ../references.bib
+---
+
+{{< include blocks/introduction.qmd >}}
+
+{{< include blocks/methods.qmd >}}
+
+{{< include blocks/results.qmd >}}
+
+{{< include blocks/discussion.qmd >}}
+
+{{< include blocks/conclusion.qmd >}}
+
+# References {-}
+
+::: {#refs}
+:::
+
