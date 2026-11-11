@@ -1,0 +1,26 @@
+authors:
+  - name:
+      given: Aly
+      family: Lamuri
+    id: aly-l
+    affiliations:
+      - ref: university-of-indonesia
+      - ref: university-of-groningen
+    corresponding: true
+    email: aly.lamuri@ui.ac.id
+    roles:
+      - conceptualization
+      - formal-analysis
+      - investigation
+      - project-administration
+      - resources
+      - writing-original-draft
+      - writing-review-editing
+affiliations:
+  - id: university-of-indonesia
+    name: University of Indonesia
+    ror: https://ror.org/0116zj450
+  - id: university-of-groningen
+    name: University of Groningen
+    ror: https://ror.org/012p63287
+
