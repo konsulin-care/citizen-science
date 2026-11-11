@@ -1,0 +1,33 @@
+# Methods {#sec-methods .deo-methods}
+
+## Design
+
+We conducted a narrative review of multiple cases using publicly available documents. We chose a narrative rather than a systematic design because the number of relevant cases is small, much of the evidence is grey literature (reports and documents not published in journals), and the aim was to draw lessons rather than to estimate an effect. The review was checked against SANRA, a six-item scale for assessing the quality of narrative reviews [@baethge2019]. No ethical approval was required because only public documents were used.
+ 
+## Definitions
+ 
+A *citizen* was defined as anyone acting outside a paid research or government role. Because this definition includes civil-society professionals who volunteer their expertise, we recorded separately for each case whether leading roles were held by lay members of the public, by patient-researchers, by civil-society experts, or by institutions. The *unit of analysis* was the citizen-data activity rather than the organisation as a whole. For example, in a case where an organisation shared data from its service, we scored the data-sharing programme, not the service.
+ 
+## Case selection
+ 
+Cases were selected purposively. To be included, a case had to (1) concern health, with priority for stress, depression, anxiety, burnout or resilience; (2) give citizens a role beyond being data subjects in at least one stage of research, or, for failure cases, involve data from people with mental-health needs; (3) have documented outcomes, or be clearly identified as ongoing; and (4) be described in at least two independent sources, at least one of which was a peer-reviewed article, preprint or organisational report. We sought a mix of Indonesian and international cases, of successes and failures, and of citizen-led and institution-led projects. Table 1 lists the candidate cases and the reason for including or excluding each.
+ 
+| Case | Setting | Role in review | Decision and reason |
+|---|---|---|---|
+| CoAct for Mental Health | Spain, 2020–2022 | Core mental-health case | Included |
+| HoeGekIsNL | Netherlands, mid-2010s | Core mental-health case | Included |
+| Patient-Led Research Collaborative | International, 2020 | Core case (cognitive and psychological symptoms of Long COVID) | Included |
+| Youth-GEMS | European Union and Australia, 2023 | Core mental-health case, institution-led contrast | Included (ongoing) |
+| LaporCovid-19 | Indonesia, 2020 | Indonesian context case | Included |
+| Community-based surveillance (Indonesian Red Cross) | Indonesia, 2018–2020 | Indonesian context case | Included |
+| Crisis Text Line data sharing | United States, until 2022 | Failure case | Included |
+| Samaritans Radar | United Kingdom, 2014–2015 | Failure case | Included |
+| KawalCOVID19 | Indonesia, 2020 | Indonesian context case | Excluded: evidence almost entirely from news reports [@widianto2020; @nusantara2024] |
+| Hospital mercury monitoring, Denpasar | Indonesia, 2012–2013 | Environmental health | Excluded: outside mental-health focus; measurements taken by NGO staff, with no documented lay participation [@balifokus2013] |
+ 
+: Table 1. Candidate cases and selection decisions
+ 
+## Sources
+ 
+Cases were first identified through scoping searches of the web and the reference lists of known projects. To check for missed cases, we then ran structured searches on 4 November 2026 in PubMed, Scopus and Europe PMC (which also indexes preprints), Google Scholar (first 200 results per query, ranked by relevance), the Indonesian journal index Garuda, and two citizen-science project directories (EU-Citizen.Science and SciStarter), in English and Bahasa Indonesia. Three query sets covered citizen science in mental health, participatory mental-health research in Indonesia, and controversies over the use of mental-health data. Exact queries, filters, numbers of results and screening outcomes are reported in Supplement S4, following the PRISMA-S extension for reporting literature searches [@rethlefsen2021]. For each included case, we then retrieved project websites, organisational reports and the reference lists of retrieved documents. Sources were preferred in the following order: peer-reviewed article, preprint or conference proceedings, organisational report, project website, and news. News was used only where no other source documented a fact, and this is noted in the text.
+
