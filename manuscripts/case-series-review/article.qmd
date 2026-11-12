@@ -6,18 +6,17 @@ metadata-files:
 bibliography: ../references.bib
 ---
 
-{{< include blocks/introduction.qmd >}}
+{{< include blocks/_introduction.qmd >}}
 
-{{< include blocks/methods.qmd >}}
+{{< include blocks/_methods.qmd >}}
 
-{{< include blocks/results.qmd >}}
+{{< include blocks/_results.qmd >}}
 
-{{< include blocks/discussion.qmd >}}
+{{< include blocks/_discussion.qmd >}}
 
-{{< include blocks/conclusion.qmd >}}
+{{< include blocks/_conclusion.qmd >}}
 
 # References {-}
 
 ::: {#refs}
 :::
-

@@ -1,0 +1,37 @@
+name: CI
+on:
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jdx/mise-action@v2
+      - run: mise run lint:md
+
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      manuscripts: ${{ steps.detect.outputs.manuscripts }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - id: detect
+        run: |
+          ids=$(git diff --name-only "${{ github.event.pull_request.base.sha }}"...HEAD | sh src/shell/affected-manuscripts.sh)
+          echo "manuscripts=$ids" >> "$GITHUB_OUTPUT"
+
+  render:
+    needs: changes
+    if: needs.changes.outputs.manuscripts != '[]'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        manuscript: ${{ fromJson(needs.changes.outputs.manuscripts) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jdx/mise-action@v2
+      - run: mise run render "manuscripts/${{ matrix.manuscript }}/article.qmd"

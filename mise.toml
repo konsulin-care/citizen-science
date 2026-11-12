@@ -1,0 +1,20 @@
+[tools]
+"conda:quarto" = "1.11.9" # https://anaconda.org/channels/conda-forge/packages/quarto/overview
+lefthook = "2.2.2"
+rumdl = "0.3.3"
+
+[tasks.hooks]
+description = "Install git hooks"
+run = "lefthook install"
+
+[tasks.lint]
+description = "Run all linters; picks up every lint:* task (lint:py, lint:R when added)"
+depends = ["lint:*"]
+
+[tasks."lint:md"]
+description = "Lint markdown and Quarto markdown with rumdl; pass files or directories to narrow the scope"
+run = "rumdl check"
+
+[tasks.render]
+description = "Render a Quarto manuscript; pass a .qmd path relative to the repo root"
+run = "quarto render"

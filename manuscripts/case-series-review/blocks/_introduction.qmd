@@ -1,0 +1,97 @@
+# Introduction {#sec-introduction .deo-introduction}
+
+Stress, low mood, worry and exhaustion are among the most widely shared human
+experiences. People talk about them with friends, colleagues and online
+communities long before, and often without ever, receiving a diagnosis. When
+many people describe the same experience in similar words, that shared
+description becomes a signal worth studying. Long COVID is the clearest recent
+example: patients named and documented the condition through online
+communities, and within months it moved from social media into clinical and
+policy channels, before most formal studies had begun [@callard2021]. This kind
+of knowledge is easily dismissed. Leaving people out of how knowledge about
+their own experience is produced has been described as a form of epistemic
+injustice, meaning a harm done to someone in their capacity as a knower
+[@okoroji2023]. The starting point of this review is that the collective
+experience of distress is evidence waiting to be given structure.
+
+The scale of that experience is large, and most of it never reaches health
+services. Globally, the COVID-19 pandemic was associated with an estimated 53.2
+million additional cases of major depressive disorder (an increase of 27.6%)
+and 76.2 million additional cases of anxiety disorders (an increase of 25.6%)
+in 2020 alone [@covidmental2021]. In Indonesia, analysis of the 2018 national
+basic health survey found depression in 5.1% of adolescents aged 15 to 17 and
+5.6% of young adults aged 18 to 24 [@suryaputri2022]. The first national
+adolescent mental health survey found that about one in twenty adolescents aged
+10 to 17 had a mental disorder in the previous year, while only about one in
+fifty had used any service for emotional or behavioural problems [@inamhs2022].
+Burnout is similarly widespread. In an online assessment of 4,338 full-time
+employees in Indonesia, Malaysia, the Philippines and Singapore in 2022, 62.9%
+reported high or very high burnout [@abdulaziz2024], and a meta-analysis
+estimated burnout in 39% of the public health workforce worldwide
+[@nagarajan2024]. In Indonesia, a national survey of 3,629 healthcare workers
+likewise found burnout syndrome in 37.5% [@lamuri2023]. Measures of resilience,
+the capacity to cope and recover, are rarely collected alongside these measures
+of distress, so what helps people stay well is even less visible than what
+harms them. Because most distress does not reach services, data drawn from
+services describe only a small, unrepresentative part of it.
+
+Conventional research is poorly placed to fill this gap. Questions are usually
+chosen by researchers or institutions, and members of the public take part
+mainly by filling in forms. In a regional study that included Indonesia,
+community members said they did not know how the information they gave was used
+[@kumar2025]. This matters for the quality of research as well as for fairness.
+In a longitudinal study of mental health research in England, studies with
+greater patient involvement were more likely to reach their recruitment
+targets, although the association does not prove cause [@ennis2013].
+Involvement can also go wrong: when lived-experience roles are filled by a
+small, well-connected group, or when people are asked to share painful
+experience without fair support and pay, involvement risks "elite capture" and
+"epistemic exploitation" [@okoroji2023]. Research done on people, rather than
+with them, therefore risks asking the wrong questions, recruiting the wrong
+people and losing their trust.
+
+Citizen science offers a different arrangement. In this paper, citizen science
+means research in which members of the public take part as partners: choosing
+questions, designing methods, collecting or interpreting data, and sharing
+results. Participation ranges from contributing data (crowdsourcing) to
+defining the problem and leading the research (extreme citizen science)
+[@haklay2013], and the European Citizen Science Association's ten principles
+describe what good practice looks like [@robinson2018]. In mental health
+specifically, a systematic review found that citizen scientists with lived
+experience reported empowerment, social connection and improved wellbeing and
+self-esteem, and that the main cost was the time and energy the work required
+[@todowede2023]. Citizen science can also reach scale: a Dutch crowdsourcing
+study recruited 12,503 members of the public to report both symptoms and
+personal strengths, and gave each participant personalised feedback in return
+[@vanderkrieke2016]. Citizen science therefore has the potential to make
+research on distress and resilience more relevant, larger in scale and more
+reciprocal.
+
+Indonesia appears ready for this approach but is not yet familiar with it. In a
+nine-country study, 82.2% of Indonesian respondents had never heard of citizen
+science, yet 86.3% owned a smartphone and 91.6% had internet access; community
+support, including mental support, stood out as a way Indonesians wanted to
+contribute [@tan2024]. During the COVID-19 pandemic, grassroots groups began
+collecting and publishing health data themselves because official information
+was inadequate [@nadzir2020], and one such group documented health-worker
+deaths that no official source was counting [@ekawati2022]. The conditions for
+phone-based, citizen-centred mental health research exist; the practice does
+not yet.
+
+The evidence base for that practice has three gaps. First, all nine studies in
+the systematic review of citizen science in mental health were conducted in
+high-income countries [@todowede2023]. Second, the same review found that
+studies rarely reported feedback to citizen scientists and none reported making
+their data publicly available, so it is hard to judge how projects were
+actually run [@todowede2023]. Third, failures are rarely written up, which
+biases lessons toward success. This review addresses these gaps by comparing
+successful and failed cases on a single scoring framework. It asks three
+questions: (1) What does citizen involvement look like at each stage of
+research, from choosing the question to acting on findings? (2) Which
+initiatives in Indonesia and elsewhere have done this, and what happened? (3)
+What do these cases teach for building citizen-centred mental health research?
+It is the first paper in a series: its lessons inform a set of principles for
+research-ready health data (Paper 2), an assessment of an open-source research
+platform against those principles (Paper 3), and a baseline study of
+depression, anxiety, burnout, resilience and functioning among adults in three
+Indonesian cities (Paper 4).

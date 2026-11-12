@@ -1,0 +1,12 @@
+glob_matcher: doublestar
+
+pre-commit:
+  jobs:
+    - name: rumdl-staged
+      glob: "**/*.{md,qmd}"
+      run: mise run lint:md {staged_files}
+
+pre-push:
+  jobs:
+    - name: rumdl-markdown
+      run: mise run lint:md

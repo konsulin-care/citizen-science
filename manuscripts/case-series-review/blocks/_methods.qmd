@@ -1,0 +1,262 @@
+# Methods {#sec-methods .deo-methods}
+
+## Design
+
+We conducted a narrative review of multiple cases using publicly available
+documents. We chose a narrative rather than a systematic design because the
+number of relevant cases is small, much of the evidence is grey literature
+(reports and documents not published in journals), and the aim was to draw
+lessons rather than to estimate an effect. The review was checked against
+SANRA, a six-item scale for assessing the quality of narrative reviews
+[@baethge2019]. No ethical approval was required because only public documents
+were used.
+
+## Definitions
+
+A *citizen* was defined as anyone acting outside a paid research or government
+role. Because this definition includes civil-society professionals who
+volunteer their expertise, we recorded separately for each case whether leading
+roles were held by lay members of the public, by patient-researchers, by
+civil-society experts, or by institutions. The *unit of analysis* was the
+citizen-data activity rather than the organisation as a whole. For example, in
+a case where an organisation shared data from its service, we scored the
+data-sharing programme, not the service.
+
+## Sources
+
+Cases were first identified through scoping searches of the web and the
+reference lists of known projects. To check for missed cases, we then ran
+structured searches on 4 November 2026 in PubMed, Scopus and Europe PMC (which
+also indexes preprints), Google Scholar (first 200 results per query, ranked by
+relevance), the Indonesian journal index Garuda, and two citizen-science
+project directories (EU-Citizen.Science and SciStarter), in English and Bahasa
+Indonesia. Three query sets covered citizen science in mental health,
+participatory mental-health research in Indonesia, and controversies over the
+use of mental-health data. Exact queries, filters, numbers of results and
+screening outcomes are reported in Supplement S4, following the PRISMA-S
+extension for reporting literature searches [@rethlefsen2021]. For each
+included case, we then retrieved project websites, organisational reports and
+the reference lists of retrieved documents. Sources were preferred in the
+following order: peer-reviewed article, preprint or conference proceedings,
+organisational report, project website, and news. News was used only where no
+other source documented a fact, and this is noted in the text.
+
+## Case selection
+
+Cases were selected purposively. To be included, a case had to (1) concern
+health, with priority for stress, depression, anxiety, burnout or resilience;
+(2) give citizens a role beyond being data subjects in at least one stage of
+research, or, for failure cases, involve data from people with mental-health
+needs; (3) have documented outcomes, or be clearly identified as ongoing; and
+(4) be described in at least two independent sources, at least one of which was
+a peer-reviewed article, preprint or organisational report. We sought a mix of
+Indonesian and international cases, of successes and failures, and of
+citizen-led and institution-led projects. @tbl-cases lists the candidate cases
+and the reason for including or excluding each.
+
+::: {#tbl-cases .list-table}
+Candidate cases and selection decisions
+
+- - Case
+  - Setting
+  - Role in review
+  - Decision and reason
+
+- - CoAct for Mental Health
+  - Spain, 2020–2022
+  - Core mental-health case
+  - Included
+
+- - HoeGekIsNL
+  - Netherlands, mid-2010s
+  - Core mental-health case
+  - Included
+
+- - Patient-Led Research Collaborative
+  - International, 2020
+  - Core case (cognitive and psychological symptoms of Long COVID)
+  - Included
+
+- - Youth-GEMS
+  - European Union and Australia, 2023
+  - Core mental-health case, institution-led contrast
+  - Included (ongoing)
+
+- - LaporCovid-19
+  - Indonesia, 2020
+  - Indonesian context case
+  - Included
+
+- - Community-based surveillance (Indonesian Red Cross)
+  - Indonesia, 2018–2020
+  - Indonesian context case
+  - Included
+
+- - Crisis Text Line data sharing
+  - United States, until 2022
+  - Failure case
+  - Included
+
+- - Samaritans Radar
+  - United Kingdom, 2014–2015
+  - Failure case
+  - Included
+
+- - KawalCOVID19
+  - Indonesia, 2020
+  - Indonesian context case
+  - Excluded: evidence almost entirely from news reports [@widianto2020; @nusantara2024]
+
+- - Hospital mercury monitoring, Denpasar
+  - Indonesia, 2012–2013
+  - Environmental health
+  - Excluded: outside mental-health focus; measurements taken by NGO staff, with no documented lay participation [@balifokus2013]
+:::
+
+## Scoring framework
+
+Each case was scored on 18 items grouped into four domains [@tbl-scoring]. The items
+were derived from three sources: the stages of the research lifecycle; Haklay's
+typology of participation [@haklay2013]; and the ten principles of citizen
+science of the European Citizen Science Association [@robinson2018]. Principles
+1, 2 and 4 of the ECSA framework are covered by Domains A and C; the remaining
+principles each map to one item in Domain B. A crosswalk between items and
+source frameworks is given in Supplement S1.
+
+Each item was scored on four levels: **●** met; **◐** partly met; **○** not
+met; and **NR**, not reported. A score of ○ required evidence that the practice
+did not happen; where sources were silent, the item was scored NR. This
+distinction matters because the review relies on public documents, and an
+unreported practice may still have taken place.
+
+::: {#tbl-scoring .list-table}
+Scoring framework (full definitions in Supplement S1)
+
+- - Item
+  - Question
+  - ● Met when sources show…
+
+- - []{colspan=3} **C. What changed because citizens took part**
+
+- - C1
+  - Citizens changed the research question
+  - A focus or measure studied because citizens raised it, which researchers or officials were not studying
+
+- - C2
+  - Findings came before the official or usual route
+  - Dated sources show results published before the official or conventional equivalent
+
+- - C3
+  - Findings were trusted and used
+  - Documented use by a government, health service or funder
+
+- - []{colspan=3} **A. Citizens' highest documented role at each stage**
+
+- - A1
+  - Choosing the question
+  - Citizens led or co-decided
+
+- - A2
+  - Designing methods and tools
+  - Citizens led or co-decided
+
+- - A3
+  - Collecting data
+  - Citizens led or co-decided
+
+- - A4
+  - Analysing and interpreting data
+  - Citizens led or co-decided
+
+- - A5
+  - Writing and sharing results
+  - Citizens led or co-decided
+
+- - A6
+  - Acting on findings
+  - Citizens led or co-decided
+
+- - []{colspan=3} **B. How the project was run**
+
+- - B1
+  - Both citizens and science benefited (ECSA 3)
+  - A stated benefit to participants and a scientific output
+
+- - B2
+  - Participants got results back (ECSA 5)
+  - Results returned in a form participants could use
+
+- - B3
+  - Data and results are open (ECSA 7)
+  - Both openly available, or under controlled access for sensitive data
+
+- - B4
+  - Contributions acknowledged in a form contributors chose (ECSA 8)
+  - Acknowledgement, with contributors able to choose named, collective or anonymous credit
+
+- - B5
+  - Data quality checked, limitations stated (ECSA 6)
+  - Both described
+
+- - B6
+  - Ethics and data protection in place (ECSA 10)
+  - Ethics review and a consent or privacy approach
+
+- - B7
+  - Project evaluated itself (ECSA 9)
+  - A formal evaluation published
+
+- - []{colspan=3} **D. Durability and harm**
+
+- - D1
+  - Activity lasted, or ended as planned
+  - Still running, or closed with a hand-over
+
+- - D2
+  - Volunteers and participants protected from harm
+  - Risks foreseen and managed, no harm documented
+:::
+
+In Domain A, ● means citizens led or co-decided a stage, ◐ means they
+contributed or were consulted, and ○ means they had no role. Each stage was
+scored at the highest role documented. People who were sampled as survey
+respondents or who used a service were not counted as contributing to data
+collection; members of the public who enrolled themselves in an open
+crowdsourcing study were counted as contributors (◐).
+
+Two summaries were derived from the item scores rather than scored separately.
+The *level of participation* followed Haklay's typology: crowdsourcing if
+citizens contributed only to data collection; distributed intelligence if they
+also contributed to analysis or interpretation; participatory science if they
+were consulted on or contributed to the question or design; and extreme citizen
+science if they led or co-decided the question. Cases in which citizens had no
+research role were labelled "data subjects only". The *verdict* gave most
+weight to Domain C, reflecting the review's focus on what citizen involvement
+changes. A case was a **success** if findings were documented as used (C3 = ●)
+and the activity lasted or ended as planned (D1 ≥ ◐); a **failure** if findings
+were rejected (C3 = ○), the activity collapsed (D1 = ○), or harm was not
+addressed (D2 = ○); **partial** if neither applied; and **insufficient
+evidence** if C3 or D1 was not reported and no failure criterion was met. These
+rules were fixed before scoring.
+
+## Coding procedure
+
+Two coders scored each case independently. The framework was first piloted on
+two cases, after which definitions were refined; the refinements are listed in
+Supplement S1. Agreement is reported as the percentage of cells on which coders
+agreed [to be completed: XX%]; disagreements were resolved by discussion. Every
+score is supported by a citation and a one-line justification in Supplement S2.
+To limit bias arising from the lead author's role in a research platform (see
+Declarations), the second coder had no ties to that platform and held the final
+decision on disputed cells.
+
+## Synthesis
+
+For each item we counted the number of cases scored ●. Before scoring, we set
+the thresholds for the summary: an item was *done well across cases* if it was
+met in at least six of eight cases, and *consistently lacking* if it was met in
+two or fewer. Consistently lacking items were further divided by whether the
+cases mostly scored ○ (not done) or NR (not reported). We compared cases by
+leadership (citizen-led versus institution-led), setting (Indonesian versus
+international) and verdict (success versus failure), and drew a numbered list
+of lessons, each linked to the cases that support it.
