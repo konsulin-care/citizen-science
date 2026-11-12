@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: jdx/mise-action@v2
-      - run: mise exec -- rumdl check manuscripts/
+      - run: mise run lint:md
 
   changes:
     runs-on: ubuntu-latest

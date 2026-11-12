@@ -6,3 +6,11 @@ rumdl = "0.3.3"
 [tasks.hooks]
 description = "Install git hooks"
 run = "lefthook install"
+
+[tasks.lint]
+description = "Run all linters; picks up every lint:* task (lint:py, lint:R when added)"
+depends = ["lint:*"]
+
+[tasks."lint:md"]
+description = "Lint markdown and Quarto markdown with rumdl; pass files or directories to narrow the scope"
+run = "rumdl check"

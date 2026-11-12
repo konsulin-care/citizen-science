@@ -4,9 +4,9 @@ pre-commit:
   jobs:
     - name: rumdl-staged
       glob: "**/*.{md,qmd}"
-      run: mise x -- rumdl check {staged_files}
+      run: mise run lint:md {staged_files}
 
 pre-push:
   jobs:
-    - name: rumdl-manuscripts
-      run: mise x -- rumdl check manuscripts/
+    - name: rumdl-markdown
+      run: mise run lint:md

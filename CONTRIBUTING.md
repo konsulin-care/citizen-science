@@ -31,21 +31,25 @@ mise run hooks   # runs `lefthook install`
 
 Two hooks are configured in `lefthook.yml`:
 
-- **pre-commit** — runs `rumdl check` on staged `.md` and `.qmd` files; the
-  job is skipped when no markdown is staged. Fix violations before committing,
-  usually with `mise x -- rumdl fmt <file>`.
-- **pre-push** — runs `rumdl check manuscripts/` over the whole manuscript
-  tree, so a dirty manuscript cannot leave your machine.
+- **pre-commit** — runs `mise run lint:md` on the staged `.md` and `.qmd`
+  files; the job is skipped when no markdown is staged. Fix violations before
+  committing, usually with `mise x -- rumdl fmt <file>`.
+- **pre-push** — runs `mise run lint:md` over all repository markdown, so
+  broken markdown cannot leave your machine.
 
-Both hooks resolve tools through `mise x --`, so they work regardless of your
-`PATH`.
+Both hooks run through `mise run`, which loads the toolchain from `mise.toml`,
+so they work regardless of your `PATH`.
 
 ## 3. Lint your writing
 
 ```bash
-mise x -- rumdl check manuscripts/   # the same command CI runs
-mise x -- rumdl fmt manuscripts/     # auto-fix whitespace issues
+mise run lint:md        # lint all markdown and Quarto markdown (what the hooks and CI run)
+mise run lint:md <path> # narrow the scope, e.g. manuscripts/case-series-review
+mise x -- rumdl fmt manuscripts/  # auto-fix whitespace issues
 ```
+
+`mise run lint` runs every `lint:*` task — `lint:md` today, with `lint:py` and
+`lint:R` planned for other sources later.
 
 Configuration lives in `.rumdl.toml`: `.qmd` files are linted with rumdl's
 quarto flavor, while `MD013` (line length), `MD041` (first line heading) and
@@ -65,7 +69,8 @@ rows are official Quarto list-table syntax.
 
 CI runs on every PR (`.github/workflows/ci.yml`):
 
-**Lint** — `rumdl check manuscripts/`, using the toolchain from `mise.toml`.
+**Lint** — `mise run lint:md` (rumdl over all repository markdown), using the
+toolchain from `mise.toml`.
 
 **Render** — every affected manuscript is rendered with
 `quarto render manuscripts/<id>/article.qmd`, as a matrix with
