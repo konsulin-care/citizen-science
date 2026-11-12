@@ -63,7 +63,7 @@ rows are official Quarto list-table syntax.
   Split sections into `blocks/_*.qmd` and include them from `article.qmd`.
 - Cite with `@citekey`; keys live in the shared `manuscripts/references.bib`.
 - Render locally before pushing:
-  `mise x -- quarto render manuscripts/<id>/article.qmd`.
+  `mise run render manuscripts/<id>/article.qmd`.
 
 ## 5. What a pull request must pass
 
@@ -73,7 +73,8 @@ CI runs on every PR (`.github/workflows/ci.yml`):
 toolchain from `mise.toml`.
 
 **Render** — every affected manuscript is rendered with
-`quarto render manuscripts/<id>/article.qmd`, as a matrix with
+`mise run render manuscripts/<id>/article.qmd` (the task wraps `quarto render`),
+as a matrix with
 `fail-fast: false` so one broken paper does not hide another. Rendered output
 is not uploaded. Affected manuscripts are derived from the changed files by
 `src/shell/affected-manuscripts.sh`, following these rules:
