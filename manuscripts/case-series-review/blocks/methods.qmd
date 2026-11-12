@@ -51,27 +51,71 @@ needs; (3) have documented outcomes, or be clearly identified as ongoing; and
 (4) be described in at least two independent sources, at least one of which was
 a peer-reviewed article, preprint or organisational report. We sought a mix of
 Indonesian and international cases, of successes and failures, and of
-citizen-led and institution-led projects. Table 1 lists the candidate cases and
-the reason for including or excluding each.
- 
-| Case | Setting | Role in review | Decision and reason |
-|---|---|---|---|
-| CoAct for Mental Health | Spain, 2020–2022 | Core mental-health case | Included |
-| HoeGekIsNL | Netherlands, mid-2010s | Core mental-health case | Included |
-| Patient-Led Research Collaborative | International, 2020 | Core case (cognitive and psychological symptoms of Long COVID) | Included |
-| Youth-GEMS | European Union and Australia, 2023 | Core mental-health case, institution-led contrast | Included (ongoing) |
-| LaporCovid-19 | Indonesia, 2020 | Indonesian context case | Included |
-| Community-based surveillance (Indonesian Red Cross) | Indonesia, 2018–2020 | Indonesian context case | Included |
-| Crisis Text Line data sharing | United States, until 2022 | Failure case | Included |
-| Samaritans Radar | United Kingdom, 2014–2015 | Failure case | Included |
-| KawalCOVID19 | Indonesia, 2020 | Indonesian context case | Excluded: evidence almost entirely from news reports [@widianto2020; @nusantara2024] |
-| Hospital mercury monitoring, Denpasar | Indonesia, 2012–2013 | Environmental health | Excluded: outside mental-health focus; measurements taken by NGO staff, with no documented lay participation [@balifokus2013] |
- 
-: Candidate cases and selection decisions
+citizen-led and institution-led projects. @tbl-cases lists the candidate cases
+and the reason for including or excluding each.
+
+::: {#tbl-cases .list-table}
+Candidate cases and selection decisions
+
+- - Case
+  - Setting
+  - Role in review
+  - Decision and reason
+
+- - CoAct for Mental Health
+  - Spain, 2020–2022
+  - Core mental-health case
+  - Included
+
+- - HoeGekIsNL
+  - Netherlands, mid-2010s
+  - Core mental-health case
+  - Included
+
+- - Patient-Led Research Collaborative
+  - International, 2020
+  - Core case (cognitive and psychological symptoms of Long COVID)
+  - Included
+
+- - Youth-GEMS
+  - European Union and Australia, 2023
+  - Core mental-health case, institution-led contrast
+  - Included (ongoing)
+
+- - LaporCovid-19
+  - Indonesia, 2020
+  - Indonesian context case
+  - Included
+
+- - Community-based surveillance (Indonesian Red Cross)
+  - Indonesia, 2018–2020
+  - Indonesian context case
+  - Included
+
+- - Crisis Text Line data sharing
+  - United States, until 2022
+  - Failure case
+  - Included
+
+- - Samaritans Radar
+  - United Kingdom, 2014–2015
+  - Failure case
+  - Included
+
+- - KawalCOVID19
+  - Indonesia, 2020
+  - Indonesian context case
+  - Excluded: evidence almost entirely from news reports [@widianto2020; @nusantara2024]
+
+- - Hospital mercury monitoring, Denpasar
+  - Indonesia, 2012–2013
+  - Environmental health
+  - Excluded: outside mental-health focus; measurements taken by NGO staff, with no documented lay participation [@balifokus2013]
+:::
 
 ## Scoring framework
  
-Each case was scored on 18 items grouped into four domains (Table 2). The items
+Each case was scored on 18 items grouped into four domains [@tbl-scoring]. The items
 were derived from three sources: the stages of the research lifecycle; Haklay's
 typology of participation [@haklay2013]; and the ten principles of citizen
 science of the European Citizen Science Association [@robinson2018]. Principles
@@ -85,32 +129,93 @@ did not happen; where sources were silent, the item was scored NR. This
 distinction matters because the review relies on public documents, and an
 unreported practice may still have taken place.
  
-| Item | Question | ● Met when sources show… |
-|---|---|---|
-| **C. What changed because citizens took part** | | |
-| C1 | Citizens changed the research question | A focus or measure studied because citizens raised it, which researchers or officials were not studying |
-| C2 | Findings came before the official or usual route | Dated sources show results published before the official or conventional equivalent |
-| C3 | Findings were trusted and used | Documented use by a government, health service or funder |
-| **A. Citizens' highest documented role at each stage** | | |
-| A1 | Choosing the question | Citizens led or co-decided |
-| A2 | Designing methods and tools | Citizens led or co-decided |
-| A3 | Collecting data | Citizens led or co-decided |
-| A4 | Analysing and interpreting data | Citizens led or co-decided |
-| A5 | Writing and sharing results | Citizens led or co-decided |
-| A6 | Acting on findings | Citizens led or co-decided |
-| **B. How the project was run** | | |
-| B1 | Both citizens and science benefited (ECSA 3) | A stated benefit to participants and a scientific output |
-| B2 | Participants got results back (ECSA 5) | Results returned in a form participants could use |
-| B3 | Data and results are open (ECSA 7) | Both openly available, or under controlled access for sensitive data |
-| B4 | Contributions acknowledged in a form contributors chose (ECSA 8) | Acknowledgement, with contributors able to choose named, collective or anonymous credit |
-| B5 | Data quality checked, limitations stated (ECSA 6) | Both described |
-| B6 | Ethics and data protection in place (ECSA 10) | Ethics review and a consent or privacy approach |
-| B7 | Project evaluated itself (ECSA 9) | A formal evaluation published |
-| **D. Durability and harm** | | |
-| D1 | Activity lasted, or ended as planned | Still running, or closed with a hand-over |
-| D2 | Volunteers and participants protected from harm | Risks foreseen and managed, no harm documented |
- 
-: Scoring framework (full definitions in Supplement S1)
+::: {#tbl-scoring .list-table}
+Scoring framework (full definitions in Supplement S1)
+
+- - Item
+  - Question
+  - ● Met when sources show…
+
+- - []{colspan=3} **C. What changed because citizens took part**
+
+- - C1
+  - Citizens changed the research question
+  - A focus or measure studied because citizens raised it, which researchers or officials were not studying
+
+- - C2
+  - Findings came before the official or usual route
+  - Dated sources show results published before the official or conventional equivalent
+
+- - C3
+  - Findings were trusted and used
+  - Documented use by a government, health service or funder
+
+- - []{colspan=3} **A. Citizens' highest documented role at each stage**
+
+- - A1
+  - Choosing the question
+  - Citizens led or co-decided
+
+- - A2
+  - Designing methods and tools
+  - Citizens led or co-decided
+
+- - A3
+  - Collecting data
+  - Citizens led or co-decided
+
+- - A4
+  - Analysing and interpreting data
+  - Citizens led or co-decided
+
+- - A5
+  - Writing and sharing results
+  - Citizens led or co-decided
+
+- - A6
+  - Acting on findings
+  - Citizens led or co-decided
+
+- - []{colspan=3} **B. How the project was run**
+
+- - B1
+  - Both citizens and science benefited (ECSA 3)
+  - A stated benefit to participants and a scientific output
+
+- - B2
+  - Participants got results back (ECSA 5)
+  - Results returned in a form participants could use
+
+- - B3
+  - Data and results are open (ECSA 7)
+  - Both openly available, or under controlled access for sensitive data
+
+- - B4
+  - Contributions acknowledged in a form contributors chose (ECSA 8)
+  - Acknowledgement, with contributors able to choose named, collective or anonymous credit
+
+- - B5
+  - Data quality checked, limitations stated (ECSA 6)
+  - Both described
+
+- - B6
+  - Ethics and data protection in place (ECSA 10)
+  - Ethics review and a consent or privacy approach
+
+- - B7
+  - Project evaluated itself (ECSA 9)
+  - A formal evaluation published
+
+- - []{colspan=3} **D. Durability and harm**
+
+- - D1
+  - Activity lasted, or ended as planned
+  - Still running, or closed with a hand-over
+
+- - D2
+  - Volunteers and participants protected from harm
+  - Risks foreseen and managed, no harm documented
+:::
  
 In Domain A, ● means citizens led or co-decided a stage, ◐ means they
 contributed or were consulted, and ○ means they had no role. Each stage was
