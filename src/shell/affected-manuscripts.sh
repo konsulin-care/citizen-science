@@ -11,6 +11,16 @@
 # one component after <seg>, emit <seg> when <root>/manuscripts/<seg>/article.qmd
 # exists; otherwise ignore it. Paths not under manuscripts/ are ignored.
 #
+# Render-all rule (T4): if ANY input path triggers render-all, output EVERY id
+# <seg> for which <root>/manuscripts/<seg>/article.qmd exists (sorted, unique,
+# one line), regardless of the other inputs. Triggers:
+#   1. input directly under manuscripts/ with no subdirectory, e.g.
+#      manuscripts/references.bib (shared manuscript file)
+#   2. input manuscripts/<seg>/<rest> where <root>/manuscripts/<seg>/article.qmd
+#      does NOT exist (non-manuscript subtree or vanished manuscript)
+#   3. input equals mise.toml (pins the quarto version used to render)
+#   4. input under .github/workflows/ (changes the render pipeline itself)
+#
 # Exit status: 0.
 
 if [ -n "${1:-}" ]; then
@@ -19,23 +29,49 @@ else
     root=$(dirname "$0")/../..
 fi
 
-ids=$(
-    while IFS= read -r path || [ -n "$path" ]; do
-        case $path in
-        manuscripts/*)
-            seg=${path#manuscripts/}
-            case $seg in
-            */*)
-                seg=${seg%%/*}
-                if [ -f "$root/manuscripts/$seg/article.qmd" ]; then
-                    printf '%s\n' "$seg"
-                fi
-                ;;
-            esac
+input=$(cat)
+
+render_all=0
+segs=''
+
+while IFS= read -r path || [ -n "$path" ]; do
+    case $path in
+    manuscripts/*)
+        seg=${path#manuscripts/}
+        case $seg in
+        */*)
+            seg=${seg%%/*}
+            if [ -f "$root/manuscripts/$seg/article.qmd" ]; then
+                segs="$segs$seg
+"
+            else
+                render_all=1
+            fi
+            ;;
+        *)
+            render_all=1
             ;;
         esac
-    done | sort -u
-)
+        ;;
+    mise.toml|.github/workflows/*)
+        render_all=1
+        ;;
+    esac
+done <<INPUT_EOF
+$input
+INPUT_EOF
+
+if [ "$render_all" -eq 1 ]; then
+    segs=$(
+        for dir in "$root"/manuscripts/*/; do
+            dir=${dir%/}
+            [ -f "$dir/article.qmd" ] || continue
+            printf '%s\n' "${dir##*/}"
+        done
+    )
+fi
+
+ids=$(printf '%s' "$segs" | sort -u)
 
 if [ -z "$ids" ]; then
     printf '[]\n'
@@ -49,9 +85,9 @@ else
         else
             out="$out,\"$id\""
         fi
-    done <<EOF
+    done <<IDS_EOF
 $ids
-EOF
+IDS_EOF
     out="$out]"
     printf '%s\n' "$out"
 fi
