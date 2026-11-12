@@ -10,9 +10,9 @@ lessons rather than to estimate an effect. The review was checked against
 SANRA, a six-item scale for assessing the quality of narrative reviews
 [@baethge2019]. No ethical approval was required because only public documents
 were used.
- 
+
 ## Definitions
- 
+
 A *citizen* was defined as anyone acting outside a paid research or government
 role. Because this definition includes civil-society professionals who
 volunteer their expertise, we recorded separately for each case whether leading
@@ -21,9 +21,9 @@ civil-society experts, or by institutions. The *unit of analysis* was the
 citizen-data activity rather than the organisation as a whole. For example, in
 a case where an organisation shared data from its service, we scored the
 data-sharing programme, not the service.
- 
+
 ## Sources
- 
+
 Cases were first identified through scoping searches of the web and the
 reference lists of known projects. To check for missed cases, we then ran
 structured searches on 4 November 2026 in PubMed, Scopus and Europe PMC (which
@@ -42,7 +42,7 @@ organisational report, project website, and news. News was used only where no
 other source documented a fact, and this is noted in the text.
 
 ## Case selection
- 
+
 Cases were selected purposively. To be included, a case had to (1) concern
 health, with priority for stress, depression, anxiety, burnout or resilience;
 (2) give citizens a role beyond being data subjects in at least one stage of
@@ -114,7 +114,7 @@ Candidate cases and selection decisions
 :::
 
 ## Scoring framework
- 
+
 Each case was scored on 18 items grouped into four domains [@tbl-scoring]. The items
 were derived from three sources: the stages of the research lifecycle; Haklay's
 typology of participation [@haklay2013]; and the ten principles of citizen
@@ -122,13 +122,13 @@ science of the European Citizen Science Association [@robinson2018]. Principles
 1, 2 and 4 of the ECSA framework are covered by Domains A and C; the remaining
 principles each map to one item in Domain B. A crosswalk between items and
 source frameworks is given in Supplement S1.
- 
+
 Each item was scored on four levels: **●** met; **◐** partly met; **○** not
 met; and **NR**, not reported. A score of ○ required evidence that the practice
 did not happen; where sources were silent, the item was scored NR. This
 distinction matters because the review relies on public documents, and an
 unreported practice may still have taken place.
- 
+
 ::: {#tbl-scoring .list-table}
 Scoring framework (full definitions in Supplement S1)
 
@@ -216,14 +216,14 @@ Scoring framework (full definitions in Supplement S1)
   - Volunteers and participants protected from harm
   - Risks foreseen and managed, no harm documented
 :::
- 
+
 In Domain A, ● means citizens led or co-decided a stage, ◐ means they
 contributed or were consulted, and ○ means they had no role. Each stage was
 scored at the highest role documented. People who were sampled as survey
 respondents or who used a service were not counted as contributing to data
 collection; members of the public who enrolled themselves in an open
 crowdsourcing study were counted as contributors (◐).
- 
+
 Two summaries were derived from the item scores rather than scored separately.
 The *level of participation* followed Haklay's typology: crowdsourcing if
 citizens contributed only to data collection; distributed intelligence if they
@@ -238,9 +238,9 @@ were rejected (C3 = ○), the activity collapsed (D1 = ○), or harm was not
 addressed (D2 = ○); **partial** if neither applied; and **insufficient
 evidence** if C3 or D1 was not reported and no failure criterion was met. These
 rules were fixed before scoring.
- 
+
 ## Coding procedure
- 
+
 Two coders scored each case independently. The framework was first piloted on
 two cases, after which definitions were refined; the refinements are listed in
 Supplement S1. Agreement is reported as the percentage of cells on which coders
@@ -249,9 +249,9 @@ score is supported by a citation and a one-line justification in Supplement S2.
 To limit bias arising from the lead author's role in a research platform (see
 Declarations), the second coder had no ties to that platform and held the final
 decision on disputed cells.
- 
+
 ## Synthesis
- 
+
 For each item we counted the number of cases scored ●. Before scoring, we set
 the thresholds for the summary: an item was *done well across cases* if it was
 met in at least six of eight cases, and *consistently lacking* if it was met in
@@ -260,4 +260,3 @@ cases mostly scored ○ (not done) or NR (not reported). We compared cases by
 leadership (citizen-led versus institution-led), setting (Indonesian versus
 international) and verdict (success versus failure), and drew a numbered list
 of lessons, each linked to the cases that support it.
- 

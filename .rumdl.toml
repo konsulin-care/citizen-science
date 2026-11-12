@@ -1,0 +1,9 @@
+[global]
+respect-gitignore = true
+disable = ["MD013"] # prose line length is an authoring choice
+
+[per-file-flavor]
+"**/*.qmd" = "quarto"
+
+[per-file-ignores]
+"**/*.qmd" = ["MD041", "MD069"] # YAML frontmatter/includes; Quarto list-table rows start with "- -"

@@ -20,4 +20,3 @@ bibliography: ../references.bib
 
 ::: {#refs}
 :::
-
