@@ -1,0 +1,29 @@
+{
+  "implement": {
+    "tests": {
+      "scoped": [
+        {
+          "argv": [
+            "sh",
+            "-c",
+            "if [ -f src/shell/affected-manuscripts.test.sh ]; then sh src/shell/affected-manuscripts.test.sh; else echo 'affected-manuscripts test not yet present'; fi"
+          ],
+          "scope": "full"
+        }
+      ],
+      "full": [
+        [
+          "sh",
+          "-c",
+          "if [ -f src/shell/affected-manuscripts.test.sh ]; then sh src/shell/affected-manuscripts.test.sh; else echo 'affected-manuscripts test not yet present'; fi"
+        ]
+      ]
+    },
+    "commands": {
+      "affected-manuscripts": [
+        "sh",
+        "src/shell/affected-manuscripts.test.sh"
+      ]
+    }
+  }
+}
