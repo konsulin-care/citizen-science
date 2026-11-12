@@ -1,0 +1,15 @@
+# Blacklist everything
+*
+
+# Whitelist directory content
+!*/
+
+# Track specific files
+!*bib
+!*md
+!*tex
+!*yml
+!*ignore
+!*spl
+!*bst
+!*cls
