@@ -1,0 +1,80 @@
+::: {.list-table header-rows=1 tbl-colwidths="[18,70,12]" aligns="l,l,r"}
+- - Platform
+  - Query
+  - Results
+
+- - []{colspan=3} **Bibliographic databases**
+
+- - []{rowspan=3} PubMed
+  - [``("citizen science"[tiab] OR "citizen scientist"[tiab] OR "citizen scientists"[tiab] OR "citizen social science"[tiab] OR crowdsourc*[tiab] OR "patient-led"[tiab] OR "people-powered"[tiab]) AND ("Mental Health"[mh] OR "Mental Disorders"[mh] OR "mental health"[tiab] OR depress*[tiab] OR anxiety[tiab] OR burnout[tiab] OR "psychological distress"[tiab] OR "psychological stress"[tiab] OR resilien*[tiab] OR wellbeing[tiab] OR "well-being"[tiab])``](https://pubmed.ncbi.nlm.nih.gov/?term=%28%22citizen+science%22%5Btiab%5D+OR+%22citizen+scientist%22%5Btiab%5D+OR+%22citizen+scientists%22%5Btiab%5D+OR+%22citizen+social+science%22%5Btiab%5D+OR+crowdsourc*%5Btiab%5D+OR+%22patient-led%22%5Btiab%5D+OR+%22people-powered%22%5Btiab%5D%29+AND+%28%22Mental+Health%22%5Bmh%5D+OR+%22Mental+Disorders%22%5Bmh%5D+OR+%22mental+health%22%5Btiab%5D+OR+depress*%5Btiab%5D+OR+anxiety%5Btiab%5D+OR+burnout%5Btiab%5D+OR+%22psychological+distress%22%5Btiab%5D+OR+%22psychological+stress%22%5Btiab%5D+OR+resilien*%5Btiab%5D+OR+wellbeing%5Btiab%5D+OR+%22well-being%22%5Btiab%5D%29&sort=)
+  - 890
+
+- - [``("citizen science"[tiab] OR crowdsourc*[tiab] OR participatory[tiab] OR "community participation"[tiab] OR "community engagement"[tiab] OR "community-based"[tiab] OR "public involvement"[tiab] OR "patient involvement"[tiab] OR "lived experience"[tiab] OR coproduc*[tiab] OR "co-production"[tiab] OR "co-produced"[tiab] OR "co-design"[tiab] OR volunteer*[tiab] OR "Community Participation"[mh] OR "Community-Based Participatory Research"[mh]) AND ("Mental Health"[mh] OR "Mental Disorders"[mh] OR "mental health"[tiab] OR depress*[tiab] OR anxiety[tiab] OR burnout[tiab] OR "psychological distress"[tiab] OR stress[tiab] OR resilien*[tiab]) AND (Indonesia[mh] OR Indonesia*[tiab])``](https://pubmed.ncbi.nlm.nih.gov/?term=%28%22citizen+science%22%5Btiab%5D+OR+crowdsourc*%5Btiab%5D+OR+participatory%5Btiab%5D+OR+%22community+participation%22%5Btiab%5D+OR+%22community+engagement%22%5Btiab%5D+OR+%22community-based%22%5Btiab%5D+OR+%22public+involvement%22%5Btiab%5D+OR+%22patient+involvement%22%5Btiab%5D+OR+%22lived+experience%22%5Btiab%5D+OR+coproduc*%5Btiab%5D+OR+%22co-production%22%5Btiab%5D+OR+%22co-produced%22%5Btiab%5D+OR+%22co-design%22%5Btiab%5D+OR+volunteer*%5Btiab%5D+OR+%22Community+Participation%22%5Bmh%5D+OR+%22Community-Based+Participatory+Research%22%5Bmh%5D%29+AND+%28%22Mental+Health%22%5Bmh%5D+OR+%22Mental+Disorders%22%5Bmh%5D+OR+%22mental+health%22%5Btiab%5D+OR+depress*%5Btiab%5D+OR+anxiety%5Btiab%5D+OR+burnout%5Btiab%5D+OR+%22psychological+distress%22%5Btiab%5D+OR+stress%5Btiab%5D+OR+resilien*%5Btiab%5D%29+AND+%28Indonesia%5Bmh%5D+OR+Indonesia*%5Btiab%5D%29)
+  - 171
+
+- - [``("Mental Health"[mh] OR "mental health"[tiab] OR suicid*[tiab] OR "crisis line"[tiab] OR "crisis text"[tiab] OR helpline*[tiab] OR depress*[tiab]) AND ("data sharing"[tiab] OR "secondary use"[tiab] OR "informed consent"[tiab] OR privacy[tiab] OR "Information Dissemination"[mh]) AND (controvers*[tiab] OR backlash[tiab] OR withdrawn[tiab] OR suspended[tiab] OR "public trust"[tiab] OR "social licence"[tiab] OR "social license"[tiab] OR scandal*[tiab] OR "lessons learned"[tiab])``](https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Mental+Health%22%5Bmh%5D+OR+%22mental+health%22%5Btiab%5D+OR+suicid*%5Btiab%5D+OR+%22crisis+line%22%5Btiab%5D+OR+%22crisis+text%22%5Btiab%5D+OR+helpline*%5Btiab%5D+OR+depress*%5Btiab%5D%29+AND+%28%22data+sharing%22%5Btiab%5D+OR+%22secondary+use%22%5Btiab%5D+OR+%22informed+consent%22%5Btiab%5D+OR+privacy%5Btiab%5D+OR+%22Information+Dissemination%22%5Bmh%5D%29+AND+%28controvers*%5Btiab%5D+OR+backlash%5Btiab%5D+OR+withdrawn%5Btiab%5D+OR+suspended%5Btiab%5D+OR+%22public+trust%22%5Btiab%5D+OR+%22social+licence%22%5Btiab%5D+OR+%22social+license%22%5Btiab%5D+OR+scandal*%5Btiab%5D+OR+%22lessons+learned%22%5Btiab%5D%29)
+  - 142
+
+- - []{rowspan=3} Scopus
+  - ``TITLE-ABS-KEY ( ( "citizen science" OR "citizen scientist*" OR "citizen social science" OR crowdsourc* OR "patient-led" OR "people-powered" ) AND ( "mental health" OR "mental disorder*" OR depress* OR anxiety OR burnout OR "psychological distress" OR "psychological stress" OR resilien* OR wellbeing OR "well-being" ) ) AND PUBYEAR > 1999``
+  - 2,317
+
+- - ``TITLE-ABS-KEY(("citizen science" OR crowdsourc* OR participatory OR "community participation" OR "community engagement" OR "community-based" OR "public involvement" OR "patient involvement" OR "lived experience" OR coproduc* OR "co-production" OR "co-design" OR volunteer*) AND ("mental health" OR "mental disorder*" OR depress* OR anxiety OR burnout OR "psychological distress" OR stress OR resilien*) AND indonesia*) AND PUBYEAR > 1999``
+  - 1,136
+
+- - ``TITLE-ABS-KEY(("mental health" OR suicid* OR "crisis line" OR "crisis text" OR helpline* OR depress*) AND ("data sharing" OR "secondary use" OR "informed consent" OR privacy) AND (controvers* OR backlash OR withdrawn OR suspended OR "public trust" OR "social licence" OR "social license" OR scandal* OR "lessons learned")) AND PUBYEAR > 1999``
+  - 294
+
+- - []{rowspan=2} Europe PMC
+  - [``TITLE_ABS:("citizen science" OR "citizen scientist" OR "citizen scientists" OR "citizen social science" OR crowdsourc* OR "patient-led" OR "people-powered") AND TITLE_ABS:("mental health" OR depress* OR anxiety OR burnout OR "psychological distress" OR "psychological stress" OR resilien* OR wellbeing OR "well-being") AND PUB_YEAR:[2000 TO 2026]``](https://europepmc.org/search?query=TITLE_ABS%3A%28%22citizen%20science%22%20OR%20%22citizen%20scientist%22%20OR%20%22citizen%20scientists%22%20OR%20%22citizen%20social%20science%22%20OR%20crowdsourc%2a%20OR%20%22patient-led%22%20OR%20%22people-powered%22%29%20AND%20TITLE_ABS%3A%28%22mental%20health%22%20OR%20depress%2a%20OR%20anxiety%20OR%20burnout%20OR%20%22psychological%20distress%22%20OR%20%22psychological%20stress%22%20OR%20resilien%2a%20OR%20wellbeing%20OR%20%22well-being%22%29%20AND%20PUB_YEAR%3A%5B2000%20TO%202026%5D)
+  - 729
+
+- - [``TITLE_ABS:("citizen science" OR crowdsourc* OR participatory OR "community participation" OR "community engagement" OR "lived experience" OR coproduc* OR "co-production" OR "co-design" OR volunteer*) AND TITLE_ABS:("mental health" OR depress* OR anxiety OR burnout OR stress OR resilien*) AND TITLE_ABS:(indonesia*) AND PUB_YEAR:[2000 TO 2026]``](https://europepmc.org/search?query=TITLE_ABS%3A%28%22citizen%20science%22%20OR%20crowdsourc%2a%20OR%20participatory%20OR%20%22community%20participation%22%20OR%20%22community%20engagement%22%20OR%20%22lived%20experience%22%20OR%20coproduc%2a%20OR%20%22co-production%22%20OR%20%22co-design%22%20OR%20volunteer%2a%29%20AND%20TITLE_ABS%3A%28%22mental%20health%22%20OR%20depress%2a%20OR%20anxiety%20OR%20burnout%20OR%20stress%20OR%20resilien%2a%29%20AND%20TITLE_ABS%3A%28indonesia%2a%29%20AND%20PUB_YEAR%3A%5B2000%20TO%202026%5D)
+  - 97
+
+- - []{colspan=3} **Academic search engine**
+
+- - []{rowspan=3} Google Scholar
+  - [``"citizen science" ("mental health" OR depression OR anxiety OR burnout OR resilience)``](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22citizen+science%22+%28%22mental+health%22+OR+depression+OR+anxiety+OR+burnout+OR+resilience%29&btnG=)
+  - 62,600
+
+- - [``("citizen science" OR "sains warga") ("kesehatan mental" OR "kesehatan jiwa" OR "mental health") Indonesia``](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%28%22citizen+science%22+OR+%22sains+warga%22%29+%28%22kesehatan+mental%22+OR+%22kesehatan+jiwa%22+OR+%22mental+health%22%29+Indonesia&btnG=)
+  - 2,260
+
+- - [``"mental health" "data sharing" consent controversy app``](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%22mental+health%22+%22data+sharing%22+consent+controversy+app&btnG=)
+  - 16,900
+
+- - []{colspan=3} **Indonesian national index**
+
+- - []{rowspan=6} Garuda
+  - [``sains warga``](https://garuda.kemdiktisaintek.go.id/documents?q=sains+warga)
+  - 7
+
+- - [``citizen science``](https://garuda.kemdiktisaintek.go.id/documents?select=title&q=citizen+science&pub=)
+  - 85
+
+- - [``kesehatan jiwa partisipatif``](https://garuda.kemdiktisaintek.go.id/documents?select=title&q=kesehatan+jiwa+partisipatif&pub=)
+  - 1
+
+- - [``kesehatan mental partisipasi masyarakat``](https://garuda.kemdiktisaintek.go.id/documents?select=title&q=kesehatan+mental+partisipasi+masyarakat&pub=)
+  - 1
+
+- - [``relawan kesehatan jiwa``](https://garuda.kemdiktisaintek.go.id/documents?select=title&q=relawan+kesehatan+jiwa&pub=)
+  - 3
+
+- - [``burnout partisipatif``](https://garuda.kemdiktisaintek.go.id/documents?select=title&q=burnout+partisipatif&pub=)
+  - 0
+
+- - []{colspan=3} **Citizen-science project directories**
+
+- - []{rowspan=2} EU-Citizen.Science (citizenscience.eu)
+  - [``mental health``](https://citizenscience.eu/projects?keywords=mental+health)
+  - 3
+
+- - [``Wellbeing``](https://citizenscience.eu/projects?keywords=Wellbeing)
+  - 1
+
+- - SciStarter
+  - [``mental health``](https://scistarter.org/finder?phrase=mental+health&events=true&projects=true&active=true)
+  - 7
+:::
