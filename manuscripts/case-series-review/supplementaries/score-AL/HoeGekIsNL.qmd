@@ -1,0 +1,91 @@
+## HoeGekIsNL
+
+Scores draw on one peer-reviewed article [@vanderkrieke2016], a project
+description from the research centre [@mindwise2016] and the study website
+[@hoegekis_web]. Only the abstract of the article was read, so data quality
+(B5) was not assessed. Members of the public enrolled themselves and received
+automatically generated personal reports, which met the items on mutual benefit
+and return of results (B1, B2). The questions were set by the research team,
+and no other public role is documented, so the case is classed as
+crowdsourcing. The website still invites participants (D1 = ●), but no source
+documents use of the findings by decision-makers (C3 = NR), so the verdict is
+insufficient evidence. The enrolment of more than 200 minors despite an
+adult-only rule is recorded under D2, where no harm was documented.
+
+::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+- - Item
+  - Score
+  - Justification
+
+- - A1
+  - ○
+  - Questions set by the research team
+
+- - A2
+  - NR
+  - No documentation of public involvement in design
+
+- - A3
+  - ◐
+  - Members of the public enrolled themselves and contributed data
+
+- - A4
+  - NR
+  - Not documented
+
+- - A5
+  - NR
+  - Not documented
+
+- - A6
+  - NR
+  - Not documented
+
+- - B1
+  - ●
+  - Personal feedback for participants and a scientific output
+
+- - B2
+  - ●
+  - Automatically generated personal reports and comparison with others
+
+- - B3
+  - NR
+  - Data availability not documented
+
+- - B4
+  - NR
+  - Not documented
+
+- - B5
+  - NR
+  - Not assessed from the sources read (abstract and project descriptions)
+
+- - B6
+  - ◐
+  - Website states that data are processed anonymously; ethics review not read
+
+- - B7
+  - NR
+  - Not documented
+
+- - C1
+  - ○
+  - Study initiated and designed by an academic research centre
+
+- - C2
+  - NR
+  - No dated comparison
+
+- - C3
+  - NR
+  - Use by decision-makers not documented
+
+- - D1
+  - ●
+  - Website still invites new participants
+
+- - D2
+  - NR
+  - More than 200 minors enrolled despite an adult-only rule; no harm documented
+:::

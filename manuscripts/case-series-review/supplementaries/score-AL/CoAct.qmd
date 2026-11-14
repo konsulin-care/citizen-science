@@ -1,0 +1,91 @@
+## CoAct for Mental Health
+
+All 18 scores rest on a single source, a conference proceedings paper written
+by the project team [@casanovas2026]. Co-researchers with lived experience
+helped formulate the questions and co-designed the chatbot, and a community
+assembly approved 14 recommendations and presented them to Barcelona City
+Council and the regional mental health pact. The research group ran data
+collection and analysis, so the remaining stages were scored as contributed.
+Because citizens took part in choosing the question (A1 = ◐), the case is
+classed as participatory science. The verdict is partial: adoption of the
+recommendations was not documented (C3 = ◐), and the funded project ended in
+2022 without a documented hand-over (D1 = ◐). The scores have not been checked
+against an independent source.
+
+::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+- - Item
+  - Score
+  - Justification
+
+- - A1
+  - ◐
+  - Co-researchers took part in formulating questions, validated by a wider coalition
+
+- - A2
+  - ●
+  - Co-researchers co-designed the chatbot
+
+- - A3
+  - ◐
+  - Co-researchers wrote the micro-stories; data collection run by the research group
+
+- - A4
+  - ◐
+  - Interpretation collective; analysis by the research group
+
+- - A5
+  - ◐
+  - Co-researchers share ownership of dissemination; authorship not documented
+
+- - A6
+  - ●
+  - Community assembly approved recommendations and presented them to authorities
+
+- - B1
+  - ●
+  - Reported sense of agency and belonging; scientific results reported
+
+- - B2
+  - ◐
+  - Results shared with the community assembly; feedback to chatbot participants not described
+
+- - B3
+  - ◐
+  - Policy briefs open on Zenodo; dataset release not documented
+
+- - B4
+  - ◐
+  - Co-researchers acknowledged; choice of credit not documented
+
+- - B5
+  - ◐
+  - Methods described; limitations partly discussed
+
+- - B6
+  - ◐
+  - Anonymous participation by design; ethics review not described
+
+- - B7
+  - ◐
+  - Reflection on engagement; no formal evaluation
+
+- - C1
+  - ◐
+  - Focus on social support matched needs identified by communities, within a mental-health topic set by the funded project
+
+- - C2
+  - NR
+  - No dated comparison with conventional sources
+
+- - C3
+  - ◐
+  - 14 recommendations presented to Barcelona City Council and the regional mental health pact; adoption not documented
+
+- - D1
+  - ◐
+  - Funded project ended in 2022; work described as ongoing; no hand-over documented
+
+- - D2
+  - ●
+  - Emotional safety considered and anonymous participation offered; no harm documented
+:::

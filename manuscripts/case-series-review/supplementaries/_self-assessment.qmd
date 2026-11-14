@@ -1,0 +1,38 @@
+## SANRA self-assessment
+
+Scored by the authors against the six items of SANRA [@baethge2019] (0 = low, 1
+= moderate, 2 = high). Provisional, to be repeated after screening and second
+coding.
+
+::: {.list-table header-rows=1 aligns="l,c,l" tbl-colwidths="[45,10,45]"}
+- - SANRA item
+  - Score
+  - Justification
+
+- - Justification of the article's importance for the readership
+  - 2
+  - Burden, service gap and evidence gap stated with sources (Introduction)
+
+- - Statement of concrete aims or questions
+  - 2
+  - Three research questions stated
+
+- - Description of the literature search
+  - 1
+  - Databases, queries and dates reported (S4); screening counts not yet complete
+
+- - Referencing
+  - 2
+  - Key statements referenced; reliance on news flagged in text
+
+- - Scientific reasoning
+  - 1
+  - Common framework applied to all cases; several cases rest on grey literature
+
+- - Appropriate presentation of data
+  - 2
+  - Scores tabulated per case and per item with justifications
+
+- - **Total**
+  - []{colspan=2 aligns="l"} **10 / 12**
+:::

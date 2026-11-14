@@ -1,0 +1,89 @@
+## Youth-GEMS
+
+Scores draw on the consortium's website and project pages [@prbb2023;
+@youthgems_research; @youthgems_decisions2025; @youthgems_expert2025] and one
+conference abstract [@youthgems_earma2024]; no peer-reviewed output exists yet.
+Young Experts shaped the app's wording and visuals (A2 = ◐) and help create
+social-media content, but the consortium set the research questions and
+explicitly excluded them from building and validating the AI model (A4 = ○).
+With a design role but no role in choosing the question, the case is classed as
+participatory science. The project is ongoing (D1 = ●) and has no results yet
+(C3 = NR), so the verdict is insufficient evidence.
+
+::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+- - Item
+  - Score
+  - Justification
+
+- - A1
+  - ○
+  - Questions set by the consortium
+
+- - A2
+  - ◐
+  - Young Experts shaped the app's wording and visuals
+
+- - A3
+  - NR
+  - Not documented
+
+- - A4
+  - ○
+  - Young Experts explicitly excluded from building and validating the AI model
+
+- - A5
+  - ◐
+  - Young Experts help create social-media content
+
+- - A6
+  - NR
+  - Not documented
+
+- - B1
+  - ◐
+  - Training and vouchers for Young Experts; no scientific output yet
+
+- - B2
+  - NR
+  - Not documented
+
+- - B3
+  - NR
+  - Data-discovery service described; open data not documented
+
+- - B4
+  - ◐
+  - Framework states that contributions are recognised fairly; choice not documented
+
+- - B5
+  - NR
+  - Not documented
+
+- - B6
+  - ◐
+  - Dedicated ethics work package and data-protection framework; approvals not read
+
+- - B7
+  - ◐
+  - Young people's feedback used to assess engagement quality
+
+- - C1
+  - ○
+  - Research questions set by the consortium
+
+- - C2
+  - NR
+  - No results yet
+
+- - C3
+  - NR
+  - No results yet
+
+- - D1
+  - ●
+  - Project ongoing
+
+- - D2
+  - ●
+  - Framework for safe spaces; no harm documented
+:::

@@ -1,0 +1,288 @@
+## S1. Codebook
+
+### S1.1 Purpose and sources
+
+The codebook defines the 18 items used to score each case, the rules for
+assigning scores, and the two summaries derived from the scores. Items were
+derived from three sources: the stages of the research lifecycle, Haklay's
+typology of participation [@haklay2013], and the ten principles of citizen
+science of the European Citizen Science Association (ECSA) [@robinson2018].
+Domain D (durability and harm) was added to capture how failures unfold.
+
+::: {.list-table header-rows=1}
+Crosswalk between items and source frameworks
+
+- - ECSA principle (short form)
+  - Items
+
+- - Citizens are actively involved
+  - A1–A6
+
+- - Genuine science outcome
+  - C1–C3, B1
+
+- - Both scientists and citizens benefit
+  - B1
+
+- - Citizens may take part in multiple stages
+  - A1–A6
+
+- - Citizens receive feedback
+  - B2
+
+- - Approach has limitations and biases that are considered
+  - B5
+
+- - Data and results are made publicly available
+  - B3
+
+- - Citizens are acknowledged
+  - B4
+
+- - Projects are evaluated
+  - B7
+
+- - Legal and ethical issues are considered
+  - B6
+
+- - Haklay's levels of participation
+  - Derived from A1–A6 (S1.4)
+
+- - Research lifecycle
+  - A1–A6
+
+- - Added for this review
+  - D1–D2
+:::
+
+### S1.2 General rules
+
+1. **Unit of analysis.** The citizen-data activity, not the organisation as a
+   whole. Where an organisation runs a service and a separate data activity,
+   the data activity is scored.
+2. **Citizen.** Anyone acting outside a paid research or government role. For
+   each case we also record whether leading roles were held by lay members of
+   the public, patient-researchers, civil-society experts, or institutions.
+3. **Highest documented role.** Each Domain A stage is scored at the highest
+   role documented in any source.
+4. **Not met versus not reported.** ○ requires evidence that the practice did
+   not happen or that the opposite happened. Where sources are silent, the item
+   is scored NR.
+5. **Borderline cases.** When evidence falls between two levels, the lower
+   level is assigned and the reason is noted in S2.
+6. **Conflicting sources.** Independent and peer-reviewed sources take
+   precedence; the conflict is noted in S2.
+7. **Time frame.** Scores reflect the latest source available on 4 November
+   2026.
+8. **Data collection (A3).** People sampled as survey respondents, or who used
+   a service, are not counted as contributing to data collection. Members of
+   the public who enrolled themselves in an open crowdsourcing study are
+   counted as contributors (◐).
+
+### S1.3 Item definitions
+
+Scale: **●** met; **◐** partly met; **○** not met (evidence of absence); **NR**
+not reported.
+
+#### Domain A. Citizens' highest documented role at each stage
+
+Scale for every A item: **●** citizens led or co-decided the stage; **◐**
+citizens contributed (did the work to a plan set by others) or were consulted
+(gave input that others decided on); **○** no role.
+
+::: {.list-table header-rows=1}
+- - Item
+  - Stage
+
+- - A1
+  - Choosing the question
+
+- - A2
+  - Designing methods and tools
+
+- - A3
+  - Collecting data
+
+- - A4
+  - Analysing and interpreting data
+
+- - A5
+  - Writing and sharing results
+
+- - A6
+  - Acting on findings (advocacy, policy, services)
+:::
+
+#### Domain B. How the project was run
+
+::: {.list-table header-rows=1}
+- - Item
+  - Question
+  - ●
+  - ◐
+  - ○
+
+- - B1
+  - Did both citizens and science benefit?
+  - A stated benefit to participants and a scientific output
+  - Only one of the two
+  - Neither
+
+- - B2
+  - Did participants get results back?
+  - Results returned in a form participants could use
+  - Results public, but not returned to participants
+  - Participants not informed
+
+- - B3
+  - Are data and results open?
+  - Both openly available, or data under controlled access where sensitive
+  - One of the two
+  - Neither
+
+- - B4
+  - Were contributions acknowledged in a form contributors chose?
+  - Acknowledged, with contributors able to choose named, collective or anonymous credit
+  - Acknowledged, without documented choice
+  - Citizen work used without acknowledgement
+
+- - B5
+  - Was data quality checked and were limitations stated?
+  - Both described
+  - One of the two
+  - Neither, where the source reports methods
+
+- - B6
+  - Were ethics and data protection in place?
+  - Ethics review and a consent or privacy approach
+  - One of the two, or an approach judged inadequate by an independent source
+  - Documented absence of consent or review
+
+- - B7
+  - Did the project evaluate itself?
+  - A formal evaluation published
+  - Informal reflection only
+  - Documented absence
+:::
+
+#### Domain C. What changed because citizens took part
+
+::: {.list-table header-rows=1}
+- - Item
+  - Question
+  - ●
+  - ◐
+  - ○
+
+- - C1
+  - Did citizens change the research question?
+  - A focus or measure studied because citizens raised it, which researchers or officials were not studying
+  - Citizens shaped priorities, but the topic was already being studied
+  - Question set by researchers or institutions
+
+- - C2
+  - Did findings come before the official or usual route?
+  - Dated sources show results published before the official or conventional equivalent
+  - Results came quickly, but no comparator exists
+  - Results came after official ones, or the project stalled
+
+- - C3
+  - Were findings trusted and used?
+  - Documented use by a government, health service or funder
+  - Media or public attention, or acknowledgement without action
+  - Findings rejected or discredited
+:::
+
+#### Domain D. Durability and harm
+
+::: {.list-table header-rows=1}
+- - Item
+  - Question
+  - ●
+  - ◐
+  - ○
+
+- - D1
+  - Did the activity last, or end as planned?
+  - Still running, or closed with a hand-over
+  - Shrank or paused
+  - Collapsed or abandoned
+
+- - D2
+  - Were volunteers and participants protected from harm?
+  - Risks foreseen and managed, no harm documented
+  - Harm happened and was partly addressed
+  - Harm happened and was not addressed
+:::
+
+### S1.4 Derived summaries
+
+**Level of participation** (after Haklay [@haklay2013]):
+
+::: {.list-table header-rows=1}
+- - Pattern of A scores
+  - Level
+
+- - A1 = ●
+  - Extreme citizen science
+
+- - A1 = ◐, or A2 ≥ ◐
+  - Participatory science
+
+- - A3 > ○ and A4 > ○
+  - Distributed intelligence
+
+- - Only A3 > ○
+  - Crowdsourcing
+
+- - All A items ○ or only A6 > ○
+  - Data subjects only
+:::
+
+Rules are applied from the top of the table down; the first matching row is
+used.
+
+**Verdict** (Domain C weighted most):
+
+::: {.list-table header-rows=1}
+- - Verdict
+  - Rule
+
+- - Failure
+  - C3 = ○, or D1 = ○, or D2 = ○
+
+- - Success
+  - C3 = ● and D1 ≥ ◐
+
+- - Insufficient evidence
+  - C3 or D1 = NR, and no failure criterion met
+
+- - Partial
+  - All other cases
+:::
+
+Failure rules are applied first.
+
+### S1.5 Refinements after the pilot
+
+The framework was piloted on two cases. The following refinements were made
+before scoring the remaining cases:
+
+1. The unit of analysis was fixed as the citizen-data activity (rule 1), so
+   that a failure in data sharing is not masked by a continuing service.
+2. A definition of "citizen" was added (rule 2), with leadership recorded
+   separately, because several Indonesian initiatives were led by civil-society
+   experts.
+3. The A3 rule on self-enrolled contributors was added (rule 8).
+4. B3 was extended to count controlled access for sensitive data as open.
+5. B4 was reworded to ask whether contributors could choose the form of credit,
+   so that anonymous projects can meet it.
+6. The verdict "insufficient evidence" was added for cases where C3 or D1 is
+   not reported.
+
+### S1.6 Coding procedure
+
+Two coders scored each case independently using this codebook. Agreement is
+reported as the percentage of the 144 cells on which coders agreed [to be
+completed]. Disagreements were resolved by discussion, with the second coder,
+who has no ties to the Konsulin platform, holding the final decision.
