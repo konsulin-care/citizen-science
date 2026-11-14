@@ -1,4 +1,4 @@
-## SSANRA self-assessment
+## SANRA self-assessment
 
 Scored by the authors against the six items of SANRA [@baethge2019] (0 = low, 1
 = moderate, 2 = high). Provisional, to be repeated after screening and second
