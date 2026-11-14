@@ -1,0 +1,320 @@
+# Results {#sec-results .deo-results}
+
+## Overview of cases
+
+The eight included cases span 2014 to the present and come from Europe,
+Indonesia, the United States and an international patient network (Table 3).
+Four are mental-health citizen science projects, two are Indonesian citizen
+health-data initiatives that arose during the COVID-19 pandemic, and two are
+failures involving data from people in mental distress. Leading roles were held
+by citizens who founded the initiative in two cases (LaporCovid-19 and the
+Patient-Led Research Collaborative), shared between a university and
+lived-experience co-researchers in one (CoAct), and held by institutions in the
+remaining five. Evidence was strongest for the Patient-Led Research
+Collaborative and LaporCovid-19, each documented in peer-reviewed articles, and
+weakest for Youth-GEMS, which has not yet published results, and Samaritans
+Radar, which is documented in grey literature and news.
+
+::: {#tbl-overview-cases .list-table}
+Overview of included cases
+
+- - Case
+  - Setting
+  - Who led
+  - Scale
+  - Main sources
+  - Level of participation
+  - Verdict
+
+- - CoAct for Mental Health
+  - Barcelona, 2020–2022
+  - University with 32 lived-experience co-researchers
+  - 394 participants analysed
+  - Proceedings
+  - Participatory
+  - Partial
+
+- - HoeGekIsNL
+  - Netherlands
+  - Academic research centre
+  - 12,503 participants
+  - Peer-reviewed article
+  - Crowdsourcing
+  - Insufficient evidence
+
+- - Patient-Led Research Collaborative
+  - International, 2020–
+  - Patient-researchers
+  - 3,762 respondents
+  - Peer-reviewed articles, preprint
+  - Extreme
+  - Partial
+
+- - Youth-GEMS
+  - EU and Australia, 2023–
+  - Academic consortium
+  - Planned ~2,000
+  - Website, conference abstract
+  - Participatory
+  - Insufficient evidence (ongoing)
+
+- - LaporCovid-19
+  - Indonesia, 2020–
+  - Civil-society experts and volunteers
+  - 1,545 deaths documented
+  - Peer-reviewed articles
+  - Extreme
+  - Partial
+
+- - Community-based surveillance
+  - Indonesia, 2018–2020
+  - Indonesian Red Cross
+  - 234 volunteers
+  - Organisational report
+  - Participatory
+  - Success
+
+- - Crisis Text Line data sharing
+  - United States, until 2022
+  - Non-profit organisation
+  - National crisis service
+  - Peer-reviewed editorial
+  - Data subjects only
+  - Failure
+
+- - Samaritans Radar
+  - United Kingdom, 2014–2015
+  - Charity
+  - National app
+  - Grey literature, news
+  - Data subjects only
+  - Failure
+:::
+
+## Cross-case comparison
+
+@tbl-case-comparison shows the scores for all eight cases.
+
+::: {#tbl-case-comparison .list-table}
+Scores by case. ● met; ◐ partly met; ○ not met; NR not reported. Provisional, pending second coder
+
+- - Item
+  - CoAct
+  - HGN[^hgn]
+  - PLRC[^plrc]
+  - YG[^yg]
+  - LC[^lc]
+  - CBS[^cbs]
+  - CTL[^ctl]
+  - SR[^sr]
+  - ● n/8
+
+- - **C1** Citizens changed the research question
+  - ◐
+  - ○
+  - ●
+  - ○
+  - ●
+  - ○
+  - ○
+  - ○
+  - 2
+
+- - **C2** Findings came before the official or usual route
+  - NR
+  - NR
+  - ●
+  - NR
+  - ●
+  - ◐
+  - NR
+  - NR
+  - 2
+
+- - **C3** Findings were trusted and used
+  - ◐
+  - NR
+  - ◐
+  - NR
+  - ◐
+  - ●
+  - ○
+  - ○
+  - 1
+
+- - **A1** Choosing the question
+  - ◐
+  - ○
+  - ●
+  - ○
+  - ●
+  - ○
+  - ○
+  - ○
+  - 2
+
+- - **A2** Designing methods and tools
+  - ●
+  - NR
+  - ●
+  - ◐
+  - ●
+  - ◐
+  - ○
+  - ○
+  - 3
+
+- - **A3** Collecting data
+  - ◐
+  - ◐
+  - ●
+  - NR
+  - ●
+  - ◐
+  - ○
+  - ○
+  - 2
+
+- - **A4** Analysing and interpreting data
+  - ◐
+  - NR
+  - ●
+  - ○
+  - ●
+  - ○
+  - ○
+  - ○
+  - 2
+
+- - **A5** Writing and sharing results
+  - ◐
+  - NR
+  - ●
+  - ◐
+  - ●
+  - ○
+  - ○
+  - ○
+  - 2
+
+- - **A6** Acting on findings
+  - ●
+  - NR
+  - ●
+  - NR
+  - ●
+  - ◐
+  - ○
+  - ◐
+  - 3
+
+- - **B1** Both citizens and science benefited
+  - ●
+  - ●
+  - ●
+  - ◐
+  - ●
+  - ◐
+  - ◐
+  - ◐
+  - 4
+
+- - **B2** Participants got results back
+  - ◐
+  - ●
+  - ◐
+  - NR
+  - NR
+  - ◐
+  - NR
+  - ○
+  - 1
+
+- - **B3** Data and results are open
+  - ◐
+  - NR
+  - ◐
+  - NR
+  - ●
+  - ◐
+  - ◐
+  - NR
+  - 1
+
+- - **B4** Contributions acknowledged in a form contributors chose
+  - ◐
+  - NR
+  - ◐
+  - ◐
+  - ◐
+  - ◐
+  - NR
+  - NR
+  - 0
+
+- - **B5** Data quality checked, limitations stated
+  - ◐
+  - NR
+  - ●
+  - NR
+  - ●
+  - ●
+  - NR
+  - NR
+  - 3
+
+- - **B6** Ethics and data protection in place
+  - ◐
+  - ◐
+  - ●
+  - ◐
+  - ●
+  - ◐
+  - ◐
+  - ○
+  - 2
+
+- - **B7** Project evaluated itself
+  - ◐
+  - NR
+  - NR
+  - ◐
+  - NR
+  - ●
+  - NR
+  - ◐
+  - 1
+
+- - **D1** Activity lasted, or ended as planned
+  - ◐
+  - ●
+  - ●
+  - ●
+  - NR
+  - ●
+  - ○
+  - ○
+  - 4
+
+- - **D2** Volunteers and participants protected from harm
+  - ●
+  - NR
+  - NR
+  - ●
+  - NR
+  - ●
+  - ◐
+  - ◐
+  - 3
+:::
+
+[^hgn]: HoeGekIsNL
+[^plrc]: Patient-Led Research Collaborative
+[^yg]: Youth-GEMS
+[^lc]: LaporCovid-19
+[^cbs]: Community-based surveillance (Indonesian Red Cross)
+[^ctl]: Crisis Text Line
+[^sr]: Samaritans Radar
+
+No item was met in six or more cases, so no practice qualified as done well
+across cases. Twelve of the eighteen items were met in two or fewer cases.
