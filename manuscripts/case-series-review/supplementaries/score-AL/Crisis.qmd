@@ -1,0 +1,77 @@
+## Crisis Text Line data sharing
+
+All scores rest on one peer-reviewed editorial [@eysenbach2025]. Texters who
+contacted the crisis service had no role in the data activity, so all Domain A
+items are ○ and the case is classed as data subjects only. Sharing data with
+academic researchers under controlled access had ethics oversight, but consent
+was judged inadequate for the commercial use of the same data (B6 = ◐). The
+arrangement was discredited and ended under public pressure (C3 and D1 = ○),
+which meets two failure criteria; the verdict is failure.
+
+::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+- - Item
+  - Score
+  - Justification
+
+- - A1
+  - []{rowspan=6} ○
+  - []{rowspan=6} Texters were data subjects only
+
+- - A2
+
+- - A3
+
+- - A4
+
+- - A5
+
+- - A6
+
+- - B1
+  - ◐
+  - Service benefited texters; commercial use did not
+
+- - B2
+  - NR
+  - Not documented
+
+- - B3
+  - ◐
+  - Controlled access for academic researchers under published guidelines
+
+- - B4
+  - NR
+  - Not documented
+
+- - B5
+  - NR
+  - Not documented
+
+- - B6
+  - ◐
+  - Ethics oversight for academic sharing; consent judged inadequate for commercial use
+
+- - B7
+  - NR
+  - Not documented
+
+- - C1
+  - ○
+  - Data use defined by the organisation
+
+- - C2
+  - NR
+  - Not applicable to the data activity
+
+- - C3
+  - ○
+  - Arrangement discredited and ended
+
+- - D1
+  - ○
+  - Data-sharing arrangement ended under public pressure
+
+- - D2
+  - ◐
+  - Breach of trust; data deletion requested
+:::

@@ -1,0 +1,80 @@
+## Samaritans Radar
+
+Scores draw on a grey-literature case study [@responsibledata_radar] and a
+contemporary news report [@irishtimes2014]. People whose tweets were scanned
+had no role and were not informed (A1–A5 and B2 = ○); the only role belonged to
+app users, who were prompted to reach out to the people flagged (A6 = ◐). The
+case is therefore classed as data subjects only. Monitoring was opt-out by
+default with no consent from the people monitored (B6 = ○). The app was
+withdrawn after public objection, suspended after nine days and closed after
+five months (C3 and D1 = ○), so the verdict is failure.
+
+::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+- - Item
+  - Score
+  - Justification
+
+- - A1
+  - []{rowspan=5} ○
+  - []{rowspan=5} People whose tweets were scanned had no role
+
+- - A2
+
+- - A3
+
+- - A4
+
+- - A5
+
+- - A6
+  - ◐
+  - App users were prompted to reach out to the people flagged
+
+- - B1
+  - ◐
+  - Intended benefit for people at risk; no scientific output
+
+- - B2
+  - ○
+  - People monitored were not informed
+
+- - B3
+  - NR
+  - Not documented
+
+- - B4
+  - NR
+  - Not documented
+
+- - B5
+  - NR
+  - Not documented
+
+- - B6
+  - ○
+  - No consent from people monitored; opt-out by default
+
+- - B7
+  - ◐
+  - Charity reflected publicly and ran a later consultation
+
+- - C1
+  - ○
+  - Tool designed by the charity with university research
+
+- - C2
+  - NR
+  - Not applicable
+
+- - C3
+  - ○
+  - Withdrawn after public objection
+
+- - D1
+  - ○
+  - Suspended after nine days, closed after five months
+
+- - D2
+  - ◐
+  - Privacy intrusion; app suspended and data deleted
+:::

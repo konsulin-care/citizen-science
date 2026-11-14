@@ -1,0 +1,90 @@
+## Community-based surveillance (Indonesian Red Cross)
+
+All scores rest on a single case-study report by the International Federation
+of Red Cross and Red Crescent Societies and the Indonesian Red Cross (Palang
+Merah Indonesia) [@ifrc2021], which includes a published, indicator-based
+evaluation (B7 = ●). Volunteers reported priority diseases to a protocol set by
+the programme, and community stakeholders were consulted during the assessment
+(A2 = ◐), so the case is classed as participatory science. Alerts were
+integrated into the national early-warning system and the programme moved to
+local government ownership and budget funding, which met both C3 and D1 (●).
+The verdict is success. The source was written by the implementing organisation
+and has not been checked against an independent evaluation.
+
+::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+- - Item
+  - Score
+  - Justification
+
+- - A1
+  - ○
+  - Not involved
+
+- - A2
+  - ◐
+  - Community stakeholders consulted in the assessment
+
+- - A3
+  - ◐
+  - Volunteers reported to a set protocol
+
+- - A4
+  - ○
+  - Verification and analysis by supervisors and authorities
+
+- - A5
+  - ○
+  - Report written by the programme
+
+- - A6
+  - ◐
+  - Volunteers carried out health promotion and response activities
+
+- - B1
+  - ◐
+  - Community health benefit; programme report rather than scientific output
+
+- - B2
+  - ◐
+  - Advice given to households; feedback from authorities slow
+
+- - B3
+  - ◐
+  - Report public; data not
+
+- - B4
+  - ◐
+  - Volunteers acknowledged generically
+
+- - B5
+  - ●
+  - Alert verification and accuracy reported; limitations stated
+
+- - B6
+  - ◐
+  - Confidentiality measures described; consent and ethics review not described
+
+- - B7
+  - ●
+  - Indicator-based performance evaluation published
+
+- - C1
+  - ○
+  - Priority diseases set by the programme
+
+- - C2
+  - ◐
+  - All alerts answered within 24 hours; no comparator
+
+- - C3
+  - ●
+  - Alerts integrated into the national early-warning system; local budget funding
+
+- - D1
+  - ●
+  - Local government ownership and budget funding
+
+- - D2
+  - ●
+  - Safe-visit rules and confidentiality; no harm documented
+:::

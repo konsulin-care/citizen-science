@@ -1,0 +1,90 @@
+## Patient-Led Research Collaborative
+
+Scores draw on peer-reviewed articles [@davis2021; @mccorkell2021;
+@fitzgerald2024], the original preprint [@davis2020preprint] and the
+collaborative's research-fund page [@plrc_fund]. Patients chose the questions,
+designed and ran the survey, analysed the data and wrote every paper, and a
+patient panel allocated USD 4.8 million in research grants, so every Domain A
+stage was scored as led (●) and the case is classed as extreme citizen science.
+Its first report on Long COVID appeared in 2020, before most clinical studies
+(C2 = ●). The verdict is partial rather than success because, although patients
+influenced definitions and guidance, direct adoption of the collaborative's own
+findings is not documented (C3 = ◐).
+
+::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+- - Item
+  - Score
+  - Justification
+
+- - A1
+  - ●
+  - Patients chose the questions
+
+- - A2
+  - ●
+  - Patients designed the survey and symptom list
+
+- - A3
+  - ●
+  - Patients ran the survey
+
+- - A4
+  - ●
+  - Patients analysed the data
+
+- - A5
+  - ●
+  - All authors were patients
+
+- - A6
+  - ●
+  - Patient panel allocated USD 4.8 million in research grants
+
+- - B1
+  - ●
+  - Recognition of the condition for patients; peer-reviewed outputs
+
+- - B2
+  - ◐
+  - Results public through preprint and article; return to respondents not documented
+
+- - B3
+  - ◐
+  - Results open access; data availability not stated
+
+- - B4
+  - ◐
+  - Patient-researchers named as authors; choice of credit for respondents not documented
+
+- - B5
+  - ●
+  - Methods and sampling bias reported
+
+- - B6
+  - ●
+  - University ethics approval and digital informed consent
+
+- - B7
+  - NR
+  - Not documented
+
+- - C1
+  - ●
+  - Patients defined Long COVID as an object of study
+
+- - C2
+  - ●
+  - First report on Long COVID published in 2020, before most clinical studies
+
+- - C3
+  - ◐
+  - Patients influenced definitions and guidance; direct adoption of the collaborative's findings not documented
+
+- - D1
+  - ●
+  - Collaborative active; research fund running 2022–2026
+
+- - D2
+  - NR
+  - Not documented
+:::

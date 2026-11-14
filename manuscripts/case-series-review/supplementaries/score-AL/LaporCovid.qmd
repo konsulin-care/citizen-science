@@ -1,0 +1,93 @@
+## LaporCovid-19
+
+Scores draw on two peer-reviewed articles [@ekawati2022; @rinaldi2024] and the
+coalition's own report [@laporcovid2021]. A citizen coalition founded the
+initiative, designed the reporting platform, ran the database with volunteers,
+analysed and published the data, and advocated for families of health workers,
+so every Domain A stage was scored as led (●) and the case is classed as
+extreme citizen science. It counted health-worker deaths while no official
+figure was published (C1 and C2 = ●). Its contribution to policy on
+compensation is self-reported (C3 = ◐), and its current status is not
+documented (D1 = NR). Under the verdict rules in S1.4, D1 = NR gives
+insufficient evidence; Table S3 and the main text currently list the verdict as
+partial [to be reconciled before submission].
+
+::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+- - Item
+  - Score
+  - Justification
+
+- - A1
+  - ●
+  - Citizen coalition founded the initiative and set its questions
+
+- - A2
+  - ●
+  - Coalition designed the reporting platform and database
+
+- - A3
+  - ●
+  - Volunteers ran the database
+
+- - A4
+  - ●
+  - Analysis by LaporCovid-19-affiliated authors
+
+- - A5
+  - ●
+  - Group published articles and commentary
+
+- - A6
+  - ●
+  - Group advocated for families of health workers
+
+- - B1
+  - ●
+  - Advocacy benefit for families; peer-reviewed output
+
+- - B2
+  - NR
+  - Return of results to reporters not documented
+
+- - B3
+  - ●
+  - Aggregated data public; article open access
+
+- - B4
+  - ◐
+  - Affiliated contributors named as authors; choice of credit not documented
+
+- - B5
+  - ●
+  - Classification against Ministry of Health definitions; limitations stated
+
+- - B6
+  - ●
+  - National ethics committee approval; justified consent waiver
+
+- - B7
+  - NR
+  - Not documented
+
+- - C1
+  - ●
+  - Counted health-worker deaths when no official count existed
+
+- - C2
+  - ●
+  - Health-worker mortality documented while no official figure was published
+
+- - C3
+  - ◐
+  - Advocacy on compensation; contribution to a policy change self-reported
+
+- - D1
+  - NR
+  - Current status not documented
+
+- - D2
+  - NR
+  - Measures to protect volunteers not documented
+:::
+
+Leadership note: leading roles were held by civil-society experts, journalists and activists; lay members of the public mainly reported data.
