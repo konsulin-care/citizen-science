@@ -3,7 +3,7 @@
 ## Overview of cases
 
 The eight included cases span 2014 to the present and come from Europe,
-Indonesia, the United States and an international patient network (Table 3).
+Indonesia, the United States and an international patient network (@tbl-case-overview).
 Four are mental-health citizen science projects, two are Indonesian citizen
 health-data initiatives that arose during the COVID-19 pandemic, and two are
 failures involving data from people in mental distress. Leading roles were held
@@ -15,7 +15,7 @@ Collaborative and LaporCovid-19, each documented in peer-reviewed articles, and
 weakest for Youth-GEMS, which has not yet published results, and Samaritans
 Radar, which is documented in grey literature and news.
 
-::: {#tbl-overview-cases .list-table}
+::: {#tbl-case-overview .list-table}
 Overview of included cases
 
 - - Case
@@ -90,6 +90,192 @@ Overview of included cases
   - Data subjects only
   - Failure
 :::
+
+## Case narratives
+
+### CoAct for Mental Health
+
+CoAct for Mental Health was part of a European citizen social science project
+funded under Horizon 2020. In 2020, an open call recruited people with lived
+experience of mental health problems and family members as co-researchers,
+recognised as experts in the field [@casanovas2026]. The research focused on
+social support networks, a need identified by the communities themselves.
+Co-researchers took part in formulating the research questions, co-designed a
+chatbot on the messaging app Telegram, and wrote the micro-stories of social
+support that the chatbot shared with participants. The chatbot reached up to
+900 people; the analysed dataset contained 11,002 interactions from 394
+participants responding to 129 stories. Analysis was carried out by the
+research group and interpreted collectively with the co-researchers and a wider
+coalition that included representatives of the mental health system. In
+November 2022, a community assembly approved 14 recommendations, which were
+presented to Barcelona City Council and to the regional mental health pact, and
+published as policy briefs [@casanovas2026]. We found no documentation of
+whether these recommendations were adopted. The chatbot allowed anonymous
+participation on a sensitive topic, and the authors note the need for emotional
+safety. The project won the 2024 European Union Prize for Citizen Science.
+
+*Lesson:* shared governance with people with lived experience produces co-owned
+questions and policy proposals, but whether those proposals are used depends on
+commitments from decision-makers secured before the project ends.
+
+### HoeGekIsNL
+
+HoeGekIsNL ("How crazy is the Netherlands?"; published in English as
+HowNutsAreTheDutch) is a national crowdsourcing study initiated by an academic
+research centre in Groningen to map the mental strengths and vulnerabilities of
+the Dutch population [@vanderkrieke2016; @mindwise2016]. Members of the public
+enrolled themselves through a website and completed questionnaires on both
+psychiatric symptoms and mental strengths and resources; a subgroup also
+reported on their smartphones three times a day for 30 days. In total, 12,503
+people took part [@vanderkrieke2016]. Participants were not paid. Instead, they
+received personalised feedback and could compare themselves with other
+participants; those who completed most of the diary received an automatically
+generated report on patterns in their emotions and behaviour, and on how their
+strengths and vulnerabilities interacted [@mindwise2016]. We found no
+documentation of public involvement in choosing the questions or designing the
+study. Although participation was intended for adults, the study team reported
+that more than 200 minors took part [@mindwise2016], which illustrates a
+safeguarding challenge of open online enrolment. At the time of writing, the
+study website still invited new participants and also offered a COVID-19
+questionnaire [@hoegekis_web].
+
+*Lesson:* personal feedback can be both the incentive that brings people in at
+scale and the means of returning results to them. Measuring strengths alongside
+symptoms is feasible at population scale.
+
+### Patient-Led Research Collaborative
+
+The Patient-Led Research Collaborative was formed in May 2020 by people with
+Long COVID who met in an online support group [@mccorkell2021]. Patients
+designed a survey, drawing on their own and their communities' experience to
+compile the list of symptoms, translated it into eight languages, and analysed
+responses from 3,762 people [@davis2020preprint; @davis2021]. Fatigue,
+post-exertional malaise (worsening after effort) and cognitive dysfunction were
+the most common symptoms, reported by 98.3%, 89.0% and 85.1% of respondents,
+respectively. The study had ethics approval and the authors reported its main
+limitation, a sample drawn from active support-group members. The collaborative
+published the first report on Long COVID [@fitzgerald2024], and its members,
+all patients, were the authors. In 2022, a panel of 15 patient-researchers
+allocated USD 4.8 million in research grants to ten projects [@plrc_fund]. We
+found no documentation of whether survey respondents received results directly,
+or of public access to the dataset.
+
+*Lesson:* when people who live with a condition lead the research, questions
+that conventional research has not yet asked come to light quickly. Credibility
+came from rigorous methods and peer-reviewed publication, not from patient
+status alone.
+
+### Youth-GEMS
+
+Youth-GEMS is a five-year project funded by Horizon Europe with 18 partners in
+ten countries, studying how genetic and environmental factors shape mental
+health in people aged 12 to 24 [@prbb2023]. Its research questions and design
+were set by the consortium. Young Experts, aged 18 to 25 with lived experience
+of mental health problems, are recruited with a partner youth organisation
+[@youthgems_expert2025]. They shaped the wording, tone and visuals of the
+project's mobile app and identified problems that technical teams had not
+considered, but they were explicitly not involved in building or validating the
+artificial-intelligence model, which remained with technical experts and
+psychiatrists [@youthgems_decisions2025]. A framework for regular involvement,
+data protection and safe spaces for sharing experience was established, and
+young people's feedback is used to assess the quality of engagement
+[@youthgems_earma2024]. Young Experts receive training and vouchers rather than
+pay [@youthgems_expert2025]. A clinical study of about 1,000 young people in
+Europe and 1,000 in Australia was under way at the time of writing, and no
+results had been published [@youthgems_research].
+
+*Lesson:* institution-led projects tend to limit citizen roles to consultation
+on selected components. Stating openly where involvement stops, and why, is
+more credible than implying full partnership.
+
+### LaporCovid-19
+
+LaporCovid-19 was founded in March 2020 by a coalition of public health
+experts, scientists, journalists and activists in response to the lack of
+reliable COVID-19 data in Indonesia [@laporcovid2021; @rinaldi2024]. Citizens
+reported cases, deaths, and experiences through a chatbot on WhatsApp and
+Telegram. From September 2020, about 35 volunteers maintained a database of
+health-worker deaths, searching obituaries in online news and social media and
+collecting testimonies from families and colleagues [@ekawati2022]. Using these
+data, an analysis with ethics approval from the Ministry of Health's research
+ethics committee documented 1,545 health-worker deaths and estimated that
+health workers died at 4.92 times the rate of the general population, at a time
+when no official count of health-worker infections or deaths existed
+[@ekawati2022]. Aggregated data were made publicly available. The group
+advocated for compensation for families of health workers, and civil-society
+pressure contributed to the withdrawal of a self-funded vaccination plan
+[@laporcovid2021]. Its relationship with government was contested, as its data
+directly challenged official figures [@laporcovid2021]. We found no
+documentation of the project's current status or of measures to protect
+volunteers.
+
+*Lesson:* citizen data can document what official statistics leave out. A
+critical stance toward government protects independence but may limit uptake.
+
+### Community-based surveillance by the Indonesian Red Cross
+
+The Indonesian Red Cross (*Palang Merah Indonesia*) ran community-based
+surveillance in eight villages across four districts, including Boyolali in
+Central Java, as part of an international epidemic preparedness programme
+[@ifrc2021]. The system was designed by the Red Cross with community and
+government stakeholders. Volunteers recruited from local structures, such as
+community leaders, midwives and teachers, were trained to recognise and report
+signs of priority diseases. Between September 2019 and September 2020, they
+raised 55 alerts, of which 48 were verified as true, and every alert received a
+response within 24 hours. Alerts were fed into the national early-warning
+system, and local governments took ownership; Boyolali prioritised the
+programme in its local budget [@ifrc2021]. Data were protected by recording
+only initials and sending numeric codes by text message. Volunteers reported to
+a protocol designed by others and had no role in analysis. Volunteers were
+unpaid, which the report identifies as a challenge for retention. Of 234
+volunteers trained in surveillance, 171 (73%) remained active.
+
+*Lesson:* building citizen reporting into existing government systems makes it
+last, at the cost of keeping citizens at the reporting stage. Volunteer
+retention needs planning and resources.
+
+### Crisis Text Line data sharing
+
+Crisis Text Line is a free text-message crisis service in the United States,
+staffed by trained volunteer counsellors. It ran a programme sharing anonymised
+conversation data with academic researchers under published guidelines for
+non-commercial use. It also created a for-profit subsidiary, Loris.ai, which
+was licensed Crisis Text Line data to train customer-service software
+[@eysenbach2025]. People texting in crisis had agreed only to a
+terms-of-service link. After the arrangement was reported in the press in
+January 2022 and a commissioner of the US Federal Communications Commission
+called for it to stop, Crisis Text Line ended the relationship within three
+days and asked Loris.ai to delete the data. A former volunteer had raised
+concerns about consent and conflict of interest, and the journal that had
+published the original data-sharing guidelines issued a correction clarifying
+the authors' ties to the commercial and non-commercial entities
+[@eysenbach2025]. Texters had no role in the research beyond being its data
+subjects.
+
+*Lesson:* consent given in a moment of crisis, through a terms-of-service link,
+does not cover a later commercial use. A change of purpose requires new consent
+and new ethical review, and ties to commercial beneficiaries must be disclosed.
+
+### Samaritans Radar
+
+Samaritans Radar was an app launched by the UK suicide-prevention charity
+Samaritans on 29 October 2014 [@responsibledata_radar]. Based on university
+research, it scanned the tweets of accounts that an app user followed for
+language associated with suicidal intent and emailed the user an alert with
+suggested actions. The people whose tweets were scanned were not told.
+Monitoring was on by default; people could ask to be excluded only if they knew
+the app existed. Many in the UK mental health community objected that tweets
+which were technically public were not expected to be monitored, that people
+might stop sharing, and that stalkers or bullies could use the alerts to find
+people at their most vulnerable [@responsibledata_radar]. Samaritans suspended
+the app nine days after launch [@irishtimes2014] and closed it permanently in
+March 2015, deleting all associated data. The charity stated that it should
+have consulted more widely, and it later ran a public consultation on digital
+tools [@responsibledata_radar].
+
+*Lesson:* a post being technically public does not mean its author has agreed
+to be monitored. Tools that use mental-health data should be designed with the
+people being watched, not only the people watching, and should require opt-in.
 
 ## Cross-case comparison
 
