@@ -504,3 +504,58 @@ Scores by case. ● met; ◐ partly met; ○ not met; NR not reported. Provision
 
 No item was met in six or more cases, so no practice qualified as done well
 across cases. Twelve of the eighteen items were met in two or fewer cases.
+
+### What changed because citizens took part
+
+Citizens changed the research question in two cases. In both, citizens founded
+the initiative: patients defined Long COVID as an object of study
+[@mccorkell2021; @fitzgerald2024], and LaporCovid-19 volunteers counted
+health-worker deaths that officials were not counting [@ekawati2022]. The same
+two cases produced findings before official or conventional sources. Documented
+use of findings by decision-makers was rarer, with only community-based
+surveillance met this item, through integration into the national early-warning
+system and local budgets [@ifrc2021]. In three other cases, findings attracted
+attention or were presented to authorities without documented adoption. In both
+failure cases, the activity was discredited and ended.
+
+### Where citizens took part
+
+Design was the stage at which citizens most often had a leading role (three of
+eight cases), followed by acting on findings (three of eight). Citizens led
+every stage only in the two citizen-founded cases. In institution-led cases,
+citizen roles were concentrated in data collection and consultation on specific
+components, such as the wording of an app [@youthgems_decisions2025] or the
+reporting of alerts [@ifrc2021]. In the two failure cases, people whose data
+were used had no research role at all.
+
+### How projects were run
+
+Three items were consistently lacking. Results were returned to participants in
+a usable form in one case, HoeGekIsNL, through personalised reports
+[@vanderkrieke2016; @mindwise2016]. No case documented that contributors could
+choose how they were credited; five cases acknowledged contributors in some
+form, and three did not report how. A formal evaluation was published in one
+case [@ifrc2021]. Openness of both data and results was documented in one case
+[@ekawati2022], and ethics review together with a consent approach in two
+[@ekawati2022; @davis2020preprint]. Across these lacking items, most cases
+scored NR rather than ○: the sources did not say whether the practice took
+place. The exception was consent in the failure cases, where sources documented
+its absence or inadequacy [@eysenbach2025; @responsibledata_radar].
+
+### Durability and harm
+
+Four cases were still running or had ended as planned. The two failures ended
+under public pressure. Protection from harm was documented in three cases,
+through anonymous participation [@casanovas2026], safe spaces for young people
+[@youthgems_earma2024], and risk-aware protocols for volunteers [@ifrc2021]. In
+both failures, the harm was a breach of trust in how mental-health data were
+used, partly addressed by stopping the activity and deleting data.
+
+### Comparing successes and failures
+
+The successful and partly successful cases shared two features that the
+failures lacked: the people whose experience was being studied had some role in
+the research, and their data were used for the purpose they had agreed to. Both
+failures began with an organisation acting on behalf of people in distress
+without asking them, and both ended when those people, or volunteers speaking
+for them, objected publicly.
