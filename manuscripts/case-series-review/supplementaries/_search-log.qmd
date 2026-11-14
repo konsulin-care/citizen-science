@@ -1,4 +1,8 @@
+## S3. Search log
+
 ::: {.list-table header-rows=1 tbl-colwidths="[18,70,12]" aligns="l,l,r"}
+Summary of all structured searches were run on 4 November 2026
+
 - - Platform
   - Query
   - Results
