@@ -1,0 +1,93 @@
+## S2. Case templates
+
+::: {.list-table header-rows=1 header-cols=1}
+- - Field
+  - CoAct
+  - HoeGekIsNL
+  - PLRC
+  - Youth-GEMS
+  - LaporCovid-19
+  - Community-based surveillance
+  - Crisis Text Line
+  - Samaritans Radar
+
+- - Setting and years
+  - Barcelona, 2020–2022
+  - Netherlands, mid-2010s
+  - International, 2020
+  - EU and Australia, 2023
+  - Indonesia, 2020
+  - Indonesia, 2018–2020
+  - United States, until 2022
+  - United Kingdom, 2014–2015
+
+- - Who led
+  - University with lived-experience co-researchers
+  - Academic research centre
+  - Patient-researchers
+  - Academic consortium
+  - Civil-society experts and volunteers
+  - Indonesian Red Cross
+  - Non-profit organisation
+  - Charity
+
+- - Scale
+  - 32 co-researchers; 394 participants analysed
+  - 12,503 participants
+  - 3,762 respondents
+  - Planned ~2,000 participants
+  - 1,545 deaths documented
+  - 234 volunteers
+  - National crisis service
+  - National app
+
+- - Evidence
+  - Proceedings
+  - Peer-reviewed article, project pages
+  - Peer-reviewed articles, preprint
+  - Website, conference abstract
+  - Peer-reviewed articles
+  - Organisational report
+  - Peer-reviewed editorial
+  - Grey literature, news
+
+- - Level of participation
+  - Participatory
+  - Crowdsourcing
+  - Extreme
+  - Participatory
+  - Extreme
+  - Participatory
+  - Data subjects only
+  - Data subjects only
+
+- - Verdict
+  - Partial
+  - Insufficient evidence
+  - Partial
+  - Insufficient evidence
+  - Partial
+  - Success
+  - Failure
+  - Failure
+
+- - Lesson
+  - Secure decision-makers' commitments before the project ends
+  - Personal feedback brings people in and returns results
+  - People who live with a condition surface new questions
+  - State openly where involvement stops
+  - Citizen data documents what official statistics leave out
+  - Integration with government makes a programme last
+  - Consent is specific to a purpose
+  - Opt-in by default for mental-health data
+
+- - Applied in
+  - Paper 4
+  - Paper 4
+  - Paper 4
+  - Papers 3–4
+  - Paper 3
+  - Paper 3
+  - Paper 2
+  - Papers 2–3
+:::
