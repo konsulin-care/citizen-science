@@ -84,6 +84,51 @@ programmes [@fairbank2024]. Taken together, the benchmark suggests that
 influence on research design and on policy discussion is achievable, while
 decision-makers' use of findings is harder to show.
 
+The second condition is legitimacy, and both failures broke down at consent. In
+the Crisis Text Line case, data given in crisis under a terms-of-service link
+were later licensed for a commercial purpose [@eysenbach2025]. In Samaritans
+Radar, people were monitored without knowing it, under an opt-out design
+[@responsibledata_radar]. Both activities were discredited and ended under
+public pressure. A similar loss of public trust ended England's national
+plan to share general-practice records, which proceeded without what has been
+called a "social licence" [@carter2015]. Positive approaches exist. The MindKind
+study asked young people in India, South Africa and the United Kingdom how their
+mental-health data should be governed, and found that they held strong
+preferences about who should access their data and were willing to help design
+more open data-sharing arrangements [@mindkind2022]. In Indonesia, personal data
+protection is regulated by Law 27/2022 [@uupdp2022], and the Health Law of 2023
+contains provisions on health information systems [@uu17_2023]; we cite both at
+a general level and do not analyse their provisions here. Together, these cases
+suggest that consent for mental-health data should be specific to each study,
+recorded so that it can be checked, renewed when the purpose changes, and opt-in
+by default. These requirements are developed as principles in Paper 2 of this
+series.
+
+The third condition is credibility, which depends on being able to see how a
+project was run. Most of the consistently lacking items were unreported rather
+than shown to be absent, so from public sources we cannot tell whether projects
+failed to return results or simply did not write about it. The same gap was
+found in the mental-health citizen science literature [@todowede2023]. Reporting
+guidance already exists: the GRIPP2 checklists describe how to report patient
+and public involvement [@staniszewska2017], and the systematic review proposed
+mental-health-specific reporting recommendations for each ECSA principle
+[@todowede2023]. Our 18 items could serve as a complementary checklist, allowing
+projects to state explicitly which practices they followed, including whether
+they evaluated themselves. Reporting also needs to say whose experience is
+represented. Typologies of participation, from Arnstein's ladder [@arnstein1969]
+to Haklay's levels [@haklay2013], rank projects by how much power citizens hold.
+They do not distinguish which citizens hold it. In LaporCovid-19, the leading
+roles were held by a coalition of experts, journalists and activists while lay
+members of the public mainly reported data [@rinaldi2024; @ekawati2022]; the
+Patient-Led Research Collaborative was led by people with Long COVID who
+describe themselves as patient-researchers [@mccorkell2021; @fitzgerald2024]. If
+participation is dominated by a small or well-connected group, it risks the
+"elite capture" described in lived-experience research [@okoroji2023], and the
+people most affected by distress, who may have the least time, energy and
+confidence to take part, remain unheard. Future frameworks should record not
+only the level of participation but also whose experience is represented at each
+level.
+
 ## Strengths and limitations
 
 This review has three strengths. All cases were scored on a common framework
