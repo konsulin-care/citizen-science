@@ -129,6 +129,50 @@ confidence to take part, remain unheard. Future frameworks should record not
 only the level of participation but also whose experience is represented at each
 level.
 
+For Indonesia, the three conditions translate into a design sequence for
+citizen-centred research on stress, depression, anxiety, burnout and
+resilience. We offer it as a recommendation for future practice to be tested,
+not as something these eight cases have shown to work:
+
+1. Citizens help choose the question. Indonesian respondents named community
+   support, including mental support, as a way they wanted to contribute
+   [@tan2024].
+2. A named institutional counterpart and a pathway for using findings are agreed
+   before data collection starts.
+3. Consent is opt-in, specific to the study and recorded.
+4. Results go back to participants in a usable form.
+5. Volunteers are trained, supported and retained.
+6. The study is evaluated and reported against the 18 items.
+
+Indonesia already has parts of this to learn from, with clear limits. Lay mental
+health cadres (*kader kesehatan jiwa*) work with community health centres; in a
+qualitative study of 71 cadres in four provinces they described sorting
+residents by risk, visiting homes, referring people to care and supporting
+families with medication [@susanti2024]. Evaluations of cadre training report
+gains in cadres' self-efficacy and skills [@sutarjo2016] and in knowledge
+[@marastuti2020], but we found no evaluation that measured outcomes for patients
+or communities. These benchmarks show that a cadre channel exists and can be
+trained, not that it improves health. Volunteer support is the weak point.
+In Sleman, village governments paid community health volunteers IDR 300,000 to
+450,000 per year regardless of performance, and newer programmes, including
+mental health, had no incentive at all [@sitorukmi2025]; in Malang, cadres
+received about IDR 25,000 to 50,000 per month, set by the village government
+[@gadsden2021; @gadsden2022]; and mental health cadres in four provinces reported
+irregular payments [@susanti2024]. These are local examples and not national
+figures, and none of the studies measured retention. The unpaid Red Cross
+volunteers were retained at 73% (171 of 234), and the report names retention as
+a challenge [@ifrc2021]. As a regional comparator for sustaining volunteer
+systems, Thailand's village health volunteer programme is long-running and
+integrated with government [@kowitt2015], and its volunteers carried out
+community surveillance during COVID-19 [@kaweenuttayanon2021]. The wider
+Indonesian context fits steps 2 to 4. Most Indonesian respondents had never heard
+of citizen science, but most owned a smartphone and had internet access
+[@tan2024]; during the pandemic, grassroots groups published data because
+official information was inadequate [@nadzir2020]; and community members said
+they did not know how the information they gave was used [@kumar2025]. A clear
+pathway, specific consent and feedback to participants could help address
+each of these, although that remains to be tested.
+
 ## Strengths and limitations
 
 This review has three strengths. All cases were scored on a common framework
