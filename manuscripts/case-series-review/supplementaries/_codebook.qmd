@@ -279,6 +279,11 @@ before scoring the remaining cases:
    so that anonymous projects can meet it.
 6. The verdict "insufficient evidence" was added for cases where C3 or D1 is
    not reported.
+7. Post hoc, on 16 November 2026: after a follow-up search for post-2022 sources
+   (Supplement S3), D1 for LaporCovid-19 was rescored from NR to ◐, because the
+   organisation was documented as continuing under new names while its original
+   data activity remained undocumented. The verdict rules in S1.4 were applied
+   unchanged and the verdict remains partial (C3 = ◐, D1 = ◐).
 
 ### S1.6 Coding procedure
 
