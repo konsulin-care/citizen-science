@@ -7,10 +7,13 @@ Indonesia, the United States and an international patient network (@tbl-case-ove
 Four are mental-health citizen science projects, two are Indonesian citizen
 health-data initiatives that arose during the COVID-19 pandemic, and two are
 failures involving data from people in mental distress. Leading roles were held
-by citizens who founded the initiative in two cases (LaporCovid-19 and the
-Patient-Led Research Collaborative), shared between a university and
-lived-experience co-researchers in one (CoAct), and held by institutions in the
-remaining five. Evidence was strongest for the Patient-Led Research
+by the group that founded the initiative in two cases: patients in the
+Patient-Led Research Collaborative, and, in LaporCovid-19, a civil-society
+coalition of public health experts, scientists, journalists and activists that
+describes itself as a citizens' coalition [@ekawati2022; @laporcovid2021].
+Leading roles were shared between a university and lived-experience
+co-researchers in one case (CoAct) and held by institutions in the remaining
+five. Evidence was strongest for the Patient-Led Research
 Collaborative and LaporCovid-19, each documented in peer-reviewed articles, and
 weakest for Youth-GEMS, which has not yet published results, and Samaritans
 Radar, which is documented in grey literature and news.
@@ -60,7 +63,7 @@ Overview of included cases
 
 - - LaporCovid-19
   - Indonesia, 2020–
-  - Civil-society experts and volunteers
+  - Civil-society coalition of experts, scientists, journalists and activists
   - 1,545 deaths documented
   - Peer-reviewed articles
   - Extreme
@@ -507,10 +510,11 @@ across cases. Twelve of the eighteen items were met in two or fewer cases.
 
 ### What changed because citizens took part
 
-Citizens changed the research question in two cases. In both, citizens founded
-the initiative: patients defined Long COVID as an object of study
-[@mccorkell2021; @fitzgerald2024], and LaporCovid-19 volunteers counted
-health-worker deaths that officials were not counting [@ekawati2022]. The same
+Citizens changed the research question in two cases. In both, the
+initiative was founded by the group itself: patients defined Long COVID as an
+object of study [@mccorkell2021; @fitzgerald2024], and the LaporCovid-19
+coalition and its volunteers counted health-worker deaths that officials were
+not counting [@ekawati2022]. The same
 two cases produced findings before official or conventional sources. Documented
 use of findings by decision-makers was rarer, with only community-based
 surveillance met this item, through integration into the national early-warning
@@ -521,8 +525,10 @@ failure cases, the activity was discredited and ended.
 ### Where citizens took part
 
 Design was the stage at which citizens most often had a leading role (three of
-eight cases), followed by acting on findings (three of eight). Citizens led
-every stage only in the two citizen-founded cases. In institution-led cases,
+eight cases), followed by acting on findings (three of eight). The founding
+group led every stage only in the two founder-led cases. In LaporCovid-19, lay
+members of the public mainly reported data while the coalition held the leading
+roles [@rinaldi2024; @ekawati2022]. In institution-led cases,
 citizen roles were concentrated in data collection and consultation on specific
 components, such as the wording of an app [@youthgems_decisions2025] or the
 reporting of alerts [@ifrc2021]. In the two failure cases, people whose data
