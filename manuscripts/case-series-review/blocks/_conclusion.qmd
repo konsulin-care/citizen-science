@@ -1,0 +1,11 @@
+# Conclusion {#sec-conclusion .deo-conclusion}
+
+Citizen involvement in health research can change which questions are asked and
+produce evidence before conventional routes do, particularly when the people
+affected lead the work. The weak points are in how projects are run and
+reported: feedback to participants, credit, evaluation and consent are rarely
+documented, and the two failures in this review broke down precisely at consent.
+Citizen-centred research on stress, depression, anxiety, burnout and resilience
+in Indonesia should be designed around these weak points from the start, and
+should report them explicitly so that others can learn from both its successes
+and its failures.
