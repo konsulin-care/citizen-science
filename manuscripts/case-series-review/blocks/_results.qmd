@@ -208,9 +208,11 @@ when no official count of health-worker infections or deaths existed
 advocated for compensation for families of health workers, and civil-society
 pressure contributed to the withdrawal of a self-funded vaccination plan
 [@laporcovid2021]. Its relationship with government was contested, as its data
-directly challenged official figures [@laporcovid2021]. We found no
-documentation of the project's current status or of measures to protect
-volunteers.
+directly challenged official figures [@laporcovid2021]. The
+organisation behind it continued after the emergency phase, renamed LaporSehat
+and LaporIklim [@wargaberdaya2024; @wargaberdaya_web], but we found no
+documentation of whether the health-worker death database is still maintained
+or of measures to protect volunteers.
 
 *Lesson:* citizen data can document what official statistics leave out. A
 critical stance toward government protects independence but may limit uptake.
@@ -479,7 +481,7 @@ Scores by case. ● met; ◐ partly met; ○ not met; NR not reported. Provision
   - ●
   - ●
   - ●
-  - NR
+  - ◐
   - ●
   - ○
   - ○
@@ -550,8 +552,10 @@ its absence or inadequacy [@eysenbach2025; @responsibledata_radar].
 
 ### Durability and harm
 
-Four cases were still running or had ended as planned. The two failures ended
-under public pressure. Protection from harm was documented in three cases,
+Four cases were still running or had ended as planned, and two were partly
+durable: CoAct, and LaporCovid-19, whose organisation continued under new names
+while its original data activity is undocumented. The two failures ended under
+public pressure. Protection from harm was documented in three cases,
 through anonymous participation [@casanovas2026], safe spaces for young people
 [@youthgems_earma2024], and risk-aware protocols for volunteers [@ifrc2021]. In
 both failures, the harm was a breach of trust in how mental-health data were
