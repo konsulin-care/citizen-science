@@ -112,14 +112,20 @@ research group and interpreted collectively with the co-researchers and a wider
 coalition that included representatives of the mental health system. In
 November 2022, a community assembly approved 14 recommendations, which were
 presented to Barcelona City Council and to the regional mental health pact, and
-published as policy briefs [@casanovas2026]. We found no documentation of
-whether these recommendations were adopted. The chatbot allowed anonymous
+published as policy briefs [@casanovas2026]. At the assembly, a city councillor
+said she wanted all validated recommendations included in the new municipal
+mental health plan, and the director of the National Mental Health Pact said
+the Pact would incorporate the proposed actions [@ub2022assembly; @mitats2022].
+We found no later source tracing whether the recommendations were adopted; the
+city's announcement of its Mental Health Plan 2023–2030 does not mention the
+project [@bcn2023plan]. The chatbot allowed anonymous
 participation on a sensitive topic, and the authors note the need for emotional
 safety. The project won the 2024 European Union Prize for Citizen Science.
 
 *Lesson:* shared governance with people with lived experience produces co-owned
 questions and policy proposals, but whether those proposals are used depends on
-commitments from decision-makers secured before the project ends.
+commitments from decision-makers secured before the project ends, and on a way
+to track whether those commitments are kept.
 
 ### HoeGekIsNL
 
