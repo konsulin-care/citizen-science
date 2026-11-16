@@ -173,10 +173,23 @@ they did not know how the information they gave was used [@kumar2025]. A clear
 pathway, specific consent and feedback to participants could help address
 each of these, although that remains to be tested.
 
+The next steps fall into this series and into wider research. Within the series,
+Paper 2 turns the consent and reporting lessons into principles for
+research-ready health data, Paper 3 assesses an open-source research platform
+against those principles, and Paper 4 is a baseline study of depression,
+anxiety, burnout, resilience and functioning among adults in three Indonesian
+cities. Beyond the series, four gaps stand out. The scoring framework needs to
+be validated, including agreement between independent raters. Interviews with
+project teams would show whether the practices scored as not reported took
+place. The cadre programmes need evaluations that measure outcomes for patients
+and communities. And a mental-health pilot in Indonesia, with a pre-agreed
+pathway to a named institution and a way to track commitments, would test
+whether the design sequence above makes findings actionable.
+
 ## Strengths and limitations
 
 This review has three strengths. All cases were scored on a common framework
-with rules fixed before scoring and two independent coders. Failure cases were
+with rules fixed before scoring, by two coders. Failure cases were
 included and scored on the same terms as successes. And the review includes
 cases from a middle-income country, addressing a gap in the existing evidence
 [@todowede2023].
@@ -192,5 +205,9 @@ and definition of a citizen required judgement, particularly for failure cases
 in which people whose data were used had no research role. Finally, the lead
 author founded a company that develops a research platform evaluated later in
 this series; the steps taken to limit bias are described in the Methods and
-Declarations. We found no Indonesian citizen science project focused on mental
-health, which may reflect a true absence or limits of our search.
+Declarations. In addition, the D1 score for LaporCovid-19 was changed from not
+reported to partly met after a follow-up search on 16 November 2026, and rests on
+organisational sources. Finally, we found no Indonesian citizen science project
+focused on mental health, which may reflect a true absence or limits of our
+search; this is why the Indonesian recommendations above draw on benchmarks from
+other fields and countries.
