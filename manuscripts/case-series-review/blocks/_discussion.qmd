@@ -1,0 +1,60 @@
+# Discussion {#sec-discussion .deo-discussion}
+
+This review asked what citizen involvement looks like at each stage of research,
+and which initiatives, in Indonesia and elsewhere, have put it into practice.
+Across eight cases, citizens held leading roles at every stage only where the
+group that founded the initiative led the work: the Patient-Led Research
+Collaborative and LaporCovid-19. In those two cases, involvement changed the
+research question and produced evidence before official or conventional sources
+did. In the other six cases, citizen roles were mostly limited to data
+collection and to consultation on selected components, and in the two failures
+the people whose data were used had no research role at all. No item was met in
+six or more of the eight cases, and twelve of the eighteen items were met in two
+or fewer. The most consistently lacking practices were returning results to
+participants, letting contributors choose their credit, evaluating the project,
+opening data and results, and documenting consent and ethics review, and for
+most of these the sources simply did not say. These findings are consistent with
+the systematic review of citizen science in mental health, which found that
+citizen scientists contributed mostly through data collection and that
+feedback, data availability and attribution were rarely reported
+[@todowede2023].
+
+Citizen leadership and uptake did not go together. The two founder-led cases
+changed which questions were asked, but documented use of their findings by
+decision-makers was partial: LaporCovid-19's data challenged official figures
+and its relationship with government stayed contested [@laporcovid2021], and
+findings from the Patient-Led Research Collaborative drew attention without a
+documented route into decisions in the sources we reviewed. The only case with
+documented uptake, the Indonesian Red Cross community-based surveillance, was
+designed with government stakeholders and built into the national early-warning
+system and local budgets, but its volunteers reported to a protocol designed by
+others and had no role in analysis [@ifrc2021]. Both failures began with an
+organisation acting on behalf of people in distress without asking them. With
+one clear success among eight purposively chosen cases, we cannot say what
+produces uptake. The pattern does raise a practical question: how can citizen
+leadership over the question be combined with the institutional routes through
+which findings become policy or programmes? The next sections set out three
+conditions that the cases point to, and then apply them to Indonesia. They are
+recommendations for future practice, not tested findings.
+
+## Strengths and limitations
+
+This review has three strengths. All cases were scored on a common framework
+with rules fixed before scoring and two independent coders. Failure cases were
+included and scored on the same terms as successes. And the review includes
+cases from a middle-income country, addressing a gap in the existing evidence
+[@todowede2023].
+
+It also has limitations. First, it relies on public documents, so practices
+that were not reported could not be scored; the high number of NR scores
+reflects this. Second, the cases were selected purposively and are not
+representative of citizen science in mental health. Third, the evidence for
+some cases rests on organisational reports, project websites or news, which may
+present projects favourably or selectively. Fourth, the scoring framework is
+new and has not been validated beyond this review. Fifth, the unit of analysis
+and definition of a citizen required judgement, particularly for failure cases
+in which people whose data were used had no research role. Finally, the lead
+author founded a company that develops a research platform evaluated later in
+this series; the steps taken to limit bias are described in the Methods and
+Declarations. We found no Indonesian citizen science project focused on mental
+health, which may reflect a true absence or limits of our search.
