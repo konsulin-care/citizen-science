@@ -2,19 +2,19 @@
 
 All scores rest on one peer-reviewed editorial [@eysenbach2025]. Texters who
 contacted the crisis service had no role in the data activity, so all Domain A
-items are ○ and the case is classed as data subjects only. Sharing data with
+items are `N` and the case is classed as data subjects only. Sharing data with
 academic researchers under controlled access had ethics oversight, but consent
-was judged inadequate for the commercial use of the same data (B6 = ◐). The
-arrangement was discredited and ended under public pressure (C3 and D1 = ○),
+was judged inadequate for the commercial use of the same data (B6 = `P`). The
+arrangement was discredited and ended under public pressure (C3 and D1 = `N`),
 which meets two failure criteria; the verdict is failure.
 
-::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+::: {.list-table header-rows=1 widths="10,10,80" aligns="l,c,l"}
 - - Item
   - Score
   - Justification
 
 - - A1
-  - []{rowspan=6} ○
+  - []{rowspan=6} `N`
   - []{rowspan=6} Texters were data subjects only
 
 - - A2
@@ -28,50 +28,50 @@ which meets two failure criteria; the verdict is failure.
 - - A6
 
 - - B1
-  - ◐
+  - `P`
   - Service benefited texters; commercial use did not
 
 - - B2
-  - NR
+  - `NR`
   - Not documented
 
 - - B3
-  - ◐
+  - `P`
   - Controlled access for academic researchers under published guidelines
 
 - - B4
-  - NR
+  - `NR`
   - Not documented
 
 - - B5
-  - NR
+  - `NR`
   - Not documented
 
 - - B6
-  - ◐
+  - `P`
   - Ethics oversight for academic sharing; consent judged inadequate for commercial use
 
 - - B7
-  - NR
+  - `NR`
   - Not documented
 
 - - C1
-  - ○
+  - `N`
   - Data use defined by the organisation
 
 - - C2
-  - NR
+  - `NR`
   - Not applicable to the data activity
 
 - - C3
-  - ○
+  - `N`
   - Arrangement discredited and ended
 
 - - D1
-  - ○
+  - `N`
   - Data-sharing arrangement ended under public pressure
 
 - - D2
-  - ◐
+  - `P`
   - Breach of trust; data deletion requested
 :::

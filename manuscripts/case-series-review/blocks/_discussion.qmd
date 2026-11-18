@@ -195,7 +195,7 @@ cases from a middle-income country, addressing a gap in the existing evidence
 [@todowede2023].
 
 It also has limitations. First, it relies on public documents, so practices
-that were not reported could not be scored; the high number of NR scores
+that were not reported could not be scored; the high number of `NR` scores
 reflects this. Second, the cases were selected purposively and are not
 representative of citizen science in mental health. Third, the evidence for
 some cases rests on organisational reports, project websites or news, which may
