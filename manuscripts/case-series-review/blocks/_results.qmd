@@ -18,7 +18,7 @@ Collaborative and LaporCovid-19, each documented in peer-reviewed articles, and
 weakest for Youth-GEMS, which has not yet published results, and Samaritans
 Radar, which is documented in grey literature and news.
 
-::: {#tbl-case-overview .list-table}
+::: {#tbl-case-overview .list-table widths="20,12,24,11,13,10,10" aligns="l,l,l,l,l,l,l"}
 Overview of included cases
 
 - - Case
@@ -292,7 +292,7 @@ people being watched, not only the people watching, and should require opt-in.
 
 @tbl-case-comparison shows the scores for all eight cases.
 
-::: {#tbl-case-comparison .list-table}
+::: {#tbl-case-comparison .list-table widths="31,8,8,8,8,8,8,8,8,5" aligns="l,c,c,c,c,c,c,c,c,c"}
 Scores by case. ● met; ◐ partly met; ○ not met; NR not reported. Provisional, pending second coder
 
 - - Item

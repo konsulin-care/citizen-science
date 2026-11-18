@@ -54,7 +54,7 @@ Indonesian and international cases, of successes and failures, and of
 citizen-led and institution-led projects. @tbl-cases lists the candidate cases
 and the reason for including or excluding each.
 
-::: {#tbl-cases .list-table}
+::: {#tbl-cases .list-table widths="18,14,18,50" aligns="l,l,l,l"}
 Candidate cases and selection decisions
 
 - - Case
@@ -129,7 +129,7 @@ did not happen; where sources were silent, the item was scored NR. This
 distinction matters because the review relies on public documents, and an
 unreported practice may still have taken place.
 
-::: {#tbl-scoring .list-table}
+::: {#tbl-scoring .list-table widths="8,32,60" aligns="l,l,l"}
 Scoring framework (full definitions in Supplement S1)
 
 - - Item
