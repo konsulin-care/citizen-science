@@ -92,5 +92,5 @@ Targeted follow-up search run on 16 November 2026, after scoring (post hoc)
 
 - - Web search and organisational websites
   - Current status of LaporCovid-19 and its Pusara Digital database after 2022. Sources found: the 2023/2024 annual report of the Yayasan Warga Berdaya untuk Kemanusiaan [@wargaberdaya2024], the foundation's website [@wargaberdaya_web] and the LaporCovid-19 website [@laporcovid_web]
-  - Organisation continued as LaporSehat and LaporIklim; status of the health-worker death database not documented. D1 for LaporCovid-19 rescored from NR to ◐ (S1.5, note 7)
+  - Organisation continued as LaporSehat and LaporIklim; status of the health-worker death database not documented. D1 for LaporCovid-19 rescored from `NR` to `P` (S1.5, note 7)
 :::
