@@ -9,7 +9,7 @@ typology of participation [@haklay2013], and the ten principles of citizen
 science of the European Citizen Science Association (ECSA) [@robinson2018].
 Domain D (durability and harm) was added to capture how failures unfold.
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="70,30"}
 Crosswalk between items and source frameworks
 
 - - ECSA principle (short form)
@@ -90,7 +90,7 @@ Scale for every A item: **●** citizens led or co-decided the stage; **◐**
 citizens contributed (did the work to a plan set by others) or were consulted
 (gave input that others decided on); **○** no role.
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="15,85"}
 - - Item
   - Stage
 
@@ -115,7 +115,7 @@ citizens contributed (did the work to a plan set by others) or were consulted
 
 #### Domain B. How the project was run
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="8,23,23,23,23"}
 - - Item
   - Question
   - ●
@@ -167,7 +167,7 @@ citizens contributed (did the work to a plan set by others) or were consulted
 
 #### Domain C. What changed because citizens took part
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="8,23,23,23,23"}
 - - Item
   - Question
   - ●
@@ -195,7 +195,7 @@ citizens contributed (did the work to a plan set by others) or were consulted
 
 #### Domain D. Durability and harm
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="8,23,23,23,23"}
 - - Item
   - Question
   - ●
@@ -219,7 +219,7 @@ citizens contributed (did the work to a plan set by others) or were consulted
 
 **Level of participation** (after Haklay [@haklay2013]):
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="40,60"}
 - - Pattern of A scores
   - Level
 
@@ -244,7 +244,7 @@ used.
 
 **Verdict** (Domain C weighted most):
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="20,80"}
 - - Verdict
   - Rule
 

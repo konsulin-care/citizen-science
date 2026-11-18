@@ -1,6 +1,6 @@
 ## S3. Search log
 
-::: {.list-table header-rows=1 tbl-colwidths="[18,70,12]" aligns="l,l,r"}
+::: {.list-table header-rows=1 widths="18,70,12" aligns="l,l,r"}
 Summary of all structured searches were run on 4 November 2026
 
 - - Platform
@@ -83,7 +83,7 @@ Summary of all structured searches were run on 4 November 2026
   - 7
 :::
 
-::: {.list-table header-rows=1 tbl-colwidths="[18,62,20]" aligns="l,l,l"}
+::: {.list-table header-rows=1 widths="18,62,20" aligns="l,l,l"}
 Targeted follow-up search run on 16 November 2026, after scoring (post hoc)
 
 - - Platform
