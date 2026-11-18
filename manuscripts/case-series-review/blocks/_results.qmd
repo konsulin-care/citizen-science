@@ -293,7 +293,7 @@ people being watched, not only the people watching, and should require opt-in.
 @tbl-case-comparison shows the scores for all eight cases.
 
 ::: {#tbl-case-comparison .list-table widths="31,8,8,8,8,8,8,8,8,5" aligns="l,c,c,c,c,c,c,c,c,c"}
-Scores by case. ● met; ◐ partly met; ○ not met; NR not reported. Provisional, pending second coder
+Scores by case. `Y` met; `P` partly met; `N` not met; `NR` not reported. Provisional, pending second coder
 
 - - Item
   - CoAct
@@ -304,204 +304,204 @@ Scores by case. ● met; ◐ partly met; ○ not met; NR not reported. Provision
   - CBS[^cbs]
   - CTL[^ctl]
   - SR[^sr]
-  - ● n/8
+  - `Y` n/8
 
 - - **C1** Citizens changed the research question
-  - ◐
-  - ○
-  - ●
-  - ○
-  - ●
-  - ○
-  - ○
-  - ○
+  - `P`
+  - `N`
+  - `Y`
+  - `N`
+  - `Y`
+  - `N`
+  - `N`
+  - `N`
   - 2
 
 - - **C2** Findings came before the official or usual route
-  - NR
-  - NR
-  - ●
-  - NR
-  - ●
-  - ◐
-  - NR
-  - NR
+  - `NR`
+  - `NR`
+  - `Y`
+  - `NR`
+  - `Y`
+  - `P`
+  - `NR`
+  - `NR`
   - 2
 
 - - **C3** Findings were trusted and used
-  - ◐
-  - NR
-  - ◐
-  - NR
-  - ◐
-  - ●
-  - ○
-  - ○
+  - `P`
+  - `NR`
+  - `P`
+  - `NR`
+  - `P`
+  - `Y`
+  - `N`
+  - `N`
   - 1
 
 - - **A1** Choosing the question
-  - ◐
-  - ○
-  - ●
-  - ○
-  - ●
-  - ○
-  - ○
-  - ○
+  - `P`
+  - `N`
+  - `Y`
+  - `N`
+  - `Y`
+  - `N`
+  - `N`
+  - `N`
   - 2
 
 - - **A2** Designing methods and tools
-  - ●
-  - NR
-  - ●
-  - ◐
-  - ●
-  - ◐
-  - ○
-  - ○
+  - `Y`
+  - `NR`
+  - `Y`
+  - `P`
+  - `Y`
+  - `P`
+  - `N`
+  - `N`
   - 3
 
 - - **A3** Collecting data
-  - ◐
-  - ◐
-  - ●
-  - NR
-  - ●
-  - ◐
-  - ○
-  - ○
+  - `P`
+  - `P`
+  - `Y`
+  - `NR`
+  - `Y`
+  - `P`
+  - `N`
+  - `N`
   - 2
 
 - - **A4** Analysing and interpreting data
-  - ◐
-  - NR
-  - ●
-  - ○
-  - ●
-  - ○
-  - ○
-  - ○
+  - `P`
+  - `NR`
+  - `Y`
+  - `N`
+  - `Y`
+  - `N`
+  - `N`
+  - `N`
   - 2
 
 - - **A5** Writing and sharing results
-  - ◐
-  - NR
-  - ●
-  - ◐
-  - ●
-  - ○
-  - ○
-  - ○
+  - `P`
+  - `NR`
+  - `Y`
+  - `P`
+  - `Y`
+  - `N`
+  - `N`
+  - `N`
   - 2
 
 - - **A6** Acting on findings
-  - ●
-  - NR
-  - ●
-  - NR
-  - ●
-  - ◐
-  - ○
-  - ◐
+  - `Y`
+  - `NR`
+  - `Y`
+  - `NR`
+  - `Y`
+  - `P`
+  - `N`
+  - `P`
   - 3
 
 - - **B1** Both citizens and science benefited
-  - ●
-  - ●
-  - ●
-  - ◐
-  - ●
-  - ◐
-  - ◐
-  - ◐
+  - `Y`
+  - `Y`
+  - `Y`
+  - `P`
+  - `Y`
+  - `P`
+  - `P`
+  - `P`
   - 4
 
 - - **B2** Participants got results back
-  - ◐
-  - ●
-  - ◐
-  - NR
-  - NR
-  - ◐
-  - NR
-  - ○
+  - `P`
+  - `Y`
+  - `P`
+  - `NR`
+  - `NR`
+  - `P`
+  - `NR`
+  - `N`
   - 1
 
 - - **B3** Data and results are open
-  - ◐
-  - NR
-  - ◐
-  - NR
-  - ●
-  - ◐
-  - ◐
-  - NR
+  - `P`
+  - `NR`
+  - `P`
+  - `NR`
+  - `Y`
+  - `P`
+  - `P`
+  - `NR`
   - 1
 
 - - **B4** Contributions acknowledged in a form contributors chose
-  - ◐
-  - NR
-  - ◐
-  - ◐
-  - ◐
-  - ◐
-  - NR
-  - NR
+  - `P`
+  - `NR`
+  - `P`
+  - `P`
+  - `P`
+  - `P`
+  - `NR`
+  - `NR`
   - 0
 
 - - **B5** Data quality checked, limitations stated
-  - ◐
-  - NR
-  - ●
-  - NR
-  - ●
-  - ●
-  - NR
-  - NR
+  - `P`
+  - `NR`
+  - `Y`
+  - `NR`
+  - `Y`
+  - `Y`
+  - `NR`
+  - `NR`
   - 3
 
 - - **B6** Ethics and data protection in place
-  - ◐
-  - ◐
-  - ●
-  - ◐
-  - ●
-  - ◐
-  - ◐
-  - ○
+  - `P`
+  - `P`
+  - `Y`
+  - `P`
+  - `Y`
+  - `P`
+  - `P`
+  - `N`
   - 2
 
 - - **B7** Project evaluated itself
-  - ◐
-  - NR
-  - NR
-  - ◐
-  - NR
-  - ●
-  - NR
-  - ◐
+  - `P`
+  - `NR`
+  - `NR`
+  - `P`
+  - `NR`
+  - `Y`
+  - `NR`
+  - `P`
   - 1
 
 - - **D1** Activity lasted, or ended as planned
-  - ◐
-  - ●
-  - ●
-  - ●
-  - ◐
-  - ●
-  - ○
-  - ○
+  - `P`
+  - `Y`
+  - `Y`
+  - `Y`
+  - `P`
+  - `Y`
+  - `N`
+  - `N`
   - 4
 
 - - **D2** Volunteers and participants protected from harm
-  - ●
-  - NR
-  - NR
-  - ●
-  - NR
-  - ●
-  - ◐
-  - ◐
+  - `Y`
+  - `NR`
+  - `NR`
+  - `Y`
+  - `NR`
+  - `Y`
+  - `P`
+  - `P`
   - 3
 :::
 
@@ -552,7 +552,7 @@ form, and three did not report how. A formal evaluation was published in one
 case [@ifrc2021]. Openness of both data and results was documented in one case
 [@ekawati2022], and ethics review together with a consent approach in two
 [@ekawati2022; @davis2020preprint]. Across these lacking items, most cases
-scored NR rather than ○: the sources did not say whether the practice took
+scored `NR` rather than `N`: the sources did not say whether the practice took
 place. The exception was consent in the failure cases, where sources documented
 its absence or inadequacy [@eysenbach2025; @responsibledata_radar].
 
