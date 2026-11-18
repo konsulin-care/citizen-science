@@ -1,5 +1,4 @@
 ---
-format: pdf
 metadata-files:
 - _author.yml
 - _abstract.yml
