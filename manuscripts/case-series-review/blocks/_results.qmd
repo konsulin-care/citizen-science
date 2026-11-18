@@ -292,18 +292,17 @@ people being watched, not only the people watching, and should require opt-in.
 
 @tbl-case-comparison shows the scores for all eight cases.
 
-::: {#tbl-case-comparison .list-table widths="31,8,8,8,8,8,8,8,8,5" aligns="l,c,c,c,c,c,c,c,c,c"}
-Scores by case. `Y` met; `P` partly met; `N` not met; `NR` not reported. Provisional, pending second coder
-
+:::: {#tbl-case-comparison}
+::: {.list-table widths="31,8,8,8,8,8,8,8,8,5" aligns="l,c,c,c,c,c,c,c,c,c"}
 - - Item
   - CoAct
-  - HGN[^hgn]
-  - PLRC[^plrc]
-  - YG[^yg]
-  - LC[^lc]
-  - CBS[^cbs]
-  - CTL[^ctl]
-  - SR[^sr]
+  - HGN
+  - PLRC
+  - YG
+  - LC
+  - CBS
+  - CTL
+  - SR
   - `Y` n/8
 
 - - **C1** Citizens changed the research question
@@ -505,13 +504,10 @@ Scores by case. `Y` met; `P` partly met; `N` not met; `NR` not reported. Provisi
   - 3
 :::
 
-[^hgn]: HoeGekIsNL
-[^plrc]: Patient-Led Research Collaborative
-[^yg]: Youth-GEMS
-[^lc]: LaporCovid-19
-[^cbs]: Community-based surveillance (Indonesian Red Cross)
-[^ctl]: Crisis Text Line
-[^sr]: Samaritans Radar
+*Note.* `Y` met; `P` partly met; `N` not met; `NR` not reported. HGN, HoeGekIsNL; PLRC, Patient-Led Research Collaborative; YG, Youth-GEMS; LC, LaporCovid-19; CBS, Community-based surveillance (Indonesian Red Cross); CTL, Crisis Text Line; SR, Samaritans Radar. Provisional, pending second coder.
+
+Scores by case
+::::
 
 No item was met in six or more cases, so no practice qualified as done well
 across cases. Twelve of the eighteen items were met in two or fewer cases.

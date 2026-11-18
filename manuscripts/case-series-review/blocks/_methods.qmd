@@ -129,9 +129,8 @@ did not happen; where sources were silent, the item was scored `NR`. This
 distinction matters because the review relies on public documents, and an
 unreported practice may still have taken place.
 
-::: {#tbl-scoring .list-table widths="8,32,60" aligns="l,l,l"}
-Scoring framework (full definitions in Supplement S1)
-
+:::: {#tbl-scoring}
+::: {.list-table widths="8,32,60" aligns="l,l,l"}
 - - Item
   - Question
   - `Y` Met when sources show…
@@ -216,6 +215,11 @@ Scoring framework (full definitions in Supplement S1)
   - Volunteers and participants protected from harm
   - Risks foreseen and managed, no harm documented
 :::
+
+*Note.* Full definitions in Supplement S1.
+
+Scoring framework
+::::
 
 In Domain A, `Y` means citizens led or co-decided a stage, `P` means they
 contributed or were consulted, and `N` means they had no role. Each stage was
