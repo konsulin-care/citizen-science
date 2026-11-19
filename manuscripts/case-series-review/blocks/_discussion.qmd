@@ -43,46 +43,36 @@ counterpart was part of the design: alerts fed into the national early-warning
 system, and local governments took ownership, with Boyolali prioritising the
 programme in its budget [@ifrc2021]. CoAct shows the weaker version. Its
 assembly produced 14 recommendations and public commitments from a city
-councillor and the director of the National Mental Health Pact, yet we could
-trace no adoption [@ub2022assembly; @bcn2023plan], which suggests that
-commitments need to be recorded and followed up. Youth-GEMS states openly where
-young people's involvement stops and why [@youthgems_decisions2025], a clear
-role agreement that institutions can accept. In LaporCovid-19, the health-worker
-database was built with professional associations, a news organisation and a
-research unit, and the analysis had Ministry of Health ethics approval
-[@ekawati2022]. This is a single observation, but it shows that a civil-society
-database can gain institutional standing without being run by an institution.
-Wider evidence points the same way, with caution. A systematic review of 145
-studies found that collaboration and relationships between researchers and
-policymakers were among the most often reported facilitators of evidence use,
-and that poor access to relevant research and research arriving too late were
-the main barriers [@oliver2014]. A scoping review of integrated knowledge
-translation, in which research is done in partnership with decision-makers from
-the outset, found that most evaluated partnerships reported at least one
-positive outcome, but it is not known which partnership strategies lead to which
-outcomes [@gagliardi2016]. In Indonesia, a ministerial regulation already
-defines community-based surveillance and how volunteers are recruited and
-organised at village level, but it covers zoonoses and emerging infectious
-diseases only [@permenkopmk7_2022]. We cite it as an analogy for what a pathway
-could look like, not as a legal basis for mental-health reporting.
-
-A benchmark outside our eight cases is the NIH RECOVER programme on Long COVID.
-The protocol of its adult cohort states that patient representatives give input
-on all study processes, and some were recruited from advocacy groups including
-the Patient-Led Research Collaborative [@horwitz2023]; representatives have
-described the partnership from their side [@kim2023]. Embedding patients in a
-research programme is not the same as institutions using findings that patients
-generated (item C3), and the depth of embedding is open to question. A survey of
-members of RECOVER's clinical-trial protocol working groups found that most
-patient, caregiver and community representatives felt their input was valued,
-but gaps in role clarity, communication and integration of feedback persisted
-[@leverty2026]. We found no peer-reviewed account of the policy influence of the
-Collaborative's survey. A news feature in *Nature*, which is journalism and not
-peer-reviewed evidence, reported that the survey had been mentioned in some 60
-policy statements and that patient-led efforts had helped to shape research
-programmes [@fairbank2024]. Taken together, the benchmark suggests that
-influence on research design and on policy discussion is achievable, while
-decision-makers' use of findings is harder to show.
+councillor and the director of the National Mental Health Pact
+[@ub2022assembly; @bcn2023plan]. We could trace no adoption, which suggests that
+commitments need to be recorded and followed up. In LaporCovid-19, the
+health-worker database was built with professional associations, a news
+organisation and a research unit, and the analysis had Ministry of Health ethics
+approval [@ekawati2022]. This is a single observation, but it shows that a
+civil-society database can gain institutional standing without being run by an
+institution. Wider evidence points the same way, with caution. A systematic
+review of 145 studies found that collaboration and relationships between
+researchers and policymakers were among the most often reported facilitators of
+evidence use [@oliver2014]. Poor access to relevant research, and research
+arriving too late, were the main barriers. A scoping review of integrated
+knowledge translation, in which research is done in partnership with
+decision-makers from the outset, found that most evaluated partnerships reported
+at least one positive outcome [@gagliardi2016]. It is not known which
+partnership strategies lead to which outcomes. A benchmark outside our eight
+cases is the NIH RECOVER programme on Long COVID.
+Its adult-cohort protocol states that patient representatives give input on all
+study processes, and some were recruited from advocacy groups including the
+Patient-Led Research Collaborative [@horwitz2023]. Representatives have described
+the partnership from their side [@kim2023]. A survey of RECOVER's clinical-trial
+protocol working groups found that most patient, caregiver and community
+representatives felt their input was valued, but gaps in role clarity,
+communication and integration of feedback persisted [@leverty2026]. Embedding
+patients in a research programme is not the same as institutions using findings
+that patients generated (item C3). A news feature in *Nature*, which is
+journalism and not peer-reviewed evidence, reported that the survey had been
+mentioned in some 60 policy statements [@fairbank2024]. Taken together, the
+benchmark suggests that influence on research design and on policy discussion is
+achievable, while decision-makers' use of findings is harder to show.
 
 The second condition is legitimacy, and both failures broke down at consent. In
 the Crisis Text Line case, data given in crisis under a terms-of-service link
