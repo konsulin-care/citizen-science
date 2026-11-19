@@ -15,6 +15,11 @@ depends = ["lint:*"]
 description = "Lint markdown and Quarto markdown with rumdl; pass files or directories to narrow the scope"
 run = "rumdl check"
 
+[tasks."setup:tinytex"]
+description = "Ensure a TeX engine is available; install TinyTeX via Quarto when none is found"
+run = "sh src/shell/ensure-tex.sh"
+
 [tasks.render]
 description = "Render a Quarto manuscript; pass a .qmd path relative to the repo root"
+depends = ["setup:tinytex"]
 run = "quarto render"
