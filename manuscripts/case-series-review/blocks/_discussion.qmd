@@ -1,96 +1,87 @@
 # Discussion {#sec-discussion .deo-discussion}
 
-This review asked what citizen involvement looks like at each stage of research,
-and which initiatives, in Indonesia and elsewhere, have put it into practice.
-Across eight cases, citizens held leading roles at every stage only where the
-group that founded the initiative led the work: the Patient-Led Research
-Collaborative and LaporCovid-19. In those two cases, involvement changed the
-research question and produced evidence before official or conventional sources
-did. In the other six cases, citizen roles were mostly limited to data
-collection and to consultation on selected components. In the two failures, the
-people whose data were used had no research role at all. No item was met in
-six or more of the eight cases, and twelve of the eighteen items were met in two
-or fewer. The most consistently lacking practices were returning results to
-participants, letting contributors choose their credit, evaluating the project,
-opening data and results, and documenting consent and ethics review. For most of
-these, the sources simply did not say. These findings are consistent with the
-systematic review of citizen science in mental health. That review found that
-citizen scientists contributed mostly through data collection, and that
-feedback, data availability and attribution were rarely reported
-[@todowede2023].
+Across the eight cases, citizens held leading roles at every stage only where
+the group that founded the initiative kept contributing to the work, as in the
+Patient-Led Research Collaborative and LaporCovid-19. In the institution-led
+cases, citizen involvement was mostly instrumental, limited to tasks that the
+lead institution had already defined, such as data collection or consultation
+on selected components. In the two failures, the people whose data were used had
+no research role at all. This is consistent with the systematic review of
+mental-health citizen science, in which citizens contributed mostly through data
+collection [@todowede2023]. Citizen leadership was rare in these cases. Where it
+occurred, it shaped the research question and produced evidence before official
+or conventional sources did.
 
-Citizen leadership and uptake did not go together. The two founder-led cases
-changed which questions were asked, but documented use of their findings by
-decision-makers was partial. LaporCovid-19's data challenged official figures,
-and its relationship with government stayed contested [@laporcovid2021].
-Findings from the Patient-Led Research Collaborative drew attention, but the
-sources we reviewed document no route into decisions. The only case with
-documented uptake was the Indonesian Red Cross community-based surveillance. It
-was designed with government stakeholders and built into the national
-early-warning system and local budgets [@ifrc2021]. Its volunteers, however,
-reported to a protocol designed by others and had no role in analysis. Both failures began with an
-organisation acting on behalf of people in distress without asking them. With
-one clear success among eight purposively chosen cases, we cannot say what
-produces uptake. The pattern does raise a practical question: how can citizen
-leadership over the question be combined with the institutional routes through
-which findings become policy or programmes? The cases point to three conditions
-that may bear on this question, and we set them out in the next paragraphs. We
-offer them as conditions suggested by the cases, not as tested findings.
+Citizen involvement changed the research more readily than it changed
+decisions. In the sources we reviewed, documented use of findings by
+decision-makers was scarce, even in the two founder-led cases. LaporCovid-19's
+advocacy contributed to the withdrawal of a self-funded vaccination plan, but
+its data challenged official figures [@laporcovid2021]. Findings from the
+Patient-Led Research Collaborative drew attention, but we found no documented
+route into decisions. The only case with documented use was the Indonesian Red
+Cross community-based surveillance, whose alerts were fed into the national
+early-warning system [@ifrc2021]. Its volunteers, however, only reported to a
+protocol designed by others. These cases suggest a trade-off, where working
+inside government systems kept citizens at the reporting stage, while
+independent leadership by the founding group left its relationship with
+government contested. No case clearly combined citizen leadership with
+documented use of findings. The three conditions below are synthesized from the
+cases and have not been tested. They bear on a practical problem: how can
+citizen leadership over the research question be combined with the
+institutional routes through which findings become policy or programmes?
 
-The first condition is a pathway from findings to decisions, agreed at the design
-stage with a named institutional counterpart. In the Red Cross case the
-counterpart was part of the design: alerts fed into the national early-warning
-system, and local governments took ownership, with Boyolali prioritising the
-programme in its budget [@ifrc2021]. CoAct shows the weaker version. Its
-assembly produced 14 recommendations and public commitments from a city
-councillor and the director of the National Mental Health Pact
-[@ub2022assembly; @bcn2023plan]. We could trace no adoption, which suggests that
-commitments need to be recorded and followed up. In LaporCovid-19, the
+The first condition is a pathway from findings to decisions, agreed at the
+design stage with a named institutional collaborator. In the Red Cross case,
+the citizen-contributed alerts were fed into the national early-warning system,
+and local governments took ownership to resolve the issue [@ifrc2021]. On the
+other hand, CoAct produced 14 recommendations and public commitments from a
+city councillor and the director of the National Mental Health Pact
+[@ub2022assembly; @bcn2023plan]. We could trace no adoption, which suggests
+that commitments need to be recorded and followed up. In LaporCovid-19, the
 health-worker database was built with professional associations, a news
-organisation and a research unit, and the analysis had Ministry of Health ethics
-approval [@ekawati2022]. This is a single observation, but it shows that a
-civil-society database can gain institutional standing without being run by an
-institution. Wider evidence points the same way, with caution. A systematic
+organisation and a research unit, and the analysis had Ministry of Health
+ethics approval [@ekawati2022]. This is a single observation, but it shows that
+a civil-society database can gain institutional standing without being run by
+an institution. Wider evidence points the same way, with caution. A systematic
 review of 145 studies found that collaboration and relationships between
 researchers and policymakers were among the most often reported facilitators of
 evidence use [@oliver2014]. Poor access to relevant research, and research
 arriving too late, were the main barriers. A scoping review of integrated
 knowledge translation, in which research is done in partnership with
-decision-makers from the outset, found that most evaluated partnerships reported
-at least one positive outcome [@gagliardi2016]. It is not known which
+decision-makers from the outset, found that most evaluated partnerships
+reported at least one positive outcome [@gagliardi2016]. It is not known which
 partnership strategies lead to which outcomes. A benchmark outside our eight
-cases is the NIH RECOVER programme on Long COVID.
-Its adult-cohort protocol states that patient representatives give input on all
-study processes, and some were recruited from advocacy groups including the
-Patient-Led Research Collaborative [@horwitz2023]. Representatives have described
-the partnership from their side [@kim2023]. A survey of RECOVER's clinical-trial
-protocol working groups found that most patient, caregiver and community
-representatives felt their input was valued, but gaps in role clarity,
-communication and integration of feedback persisted [@leverty2026]. Embedding
-patients in a research programme is not the same as institutions using findings
-that patients generated (item C3). A news feature in *Nature*, which is
-journalism and not peer-reviewed evidence, reported that the survey had been
-mentioned in some 60 policy statements [@fairbank2024]. Taken together, the
-benchmark suggests that influence on research design and on policy discussion is
-achievable, while decision-makers' use of findings is harder to show.
+cases is the NIH RECOVER programme on Long COVID. Its adult-cohort protocol
+states that patient representatives give input on all study processes, and some
+were recruited from advocacy groups including the Patient-Led Research
+Collaborative [@horwitz2023]. Representatives have described the partnership
+from their side [@kim2023]. A survey of RECOVER's clinical-trial protocol
+working groups found that most patient, caregiver and community representatives
+felt their input was valued, but gaps in role clarity, communication and
+integration of feedback persisted [@leverty2026]. Embedding patients in a
+research programme is not the same as institutions using findings that patients
+generated (item C3). A news feature in *Nature* reported that the survey had
+been mentioned in some 60 policy statements [@fairbank2024]. Overall, the
+benchmark suggests that influence on research design and on policy discussion
+is achievable, while decision-makers' use of findings is harder to show.
 
 The second condition is legitimacy, and both failures broke down at consent. In
 the Crisis Text Line case, data given in crisis under a terms-of-service link
 were later licensed for a commercial purpose [@eysenbach2025]. In Samaritans
 Radar, people were monitored without knowing it, under an opt-out design
 [@responsibledata_radar]. Both activities were discredited and ended under
-public pressure. A similar loss of public trust ended England's national plan to
-share general-practice records. That plan proceeded without what has been called
-a "social licence" [@carter2015]. Positive approaches exist. The MindKind study
-asked young people in India, South Africa and the United Kingdom how their
-mental-health data should be governed [@mindkind2022]. It found that they held
-strong preferences about who should access their data. They were also willing to
-help design more open data-sharing arrangements. In Indonesia, personal data
-protection is regulated by Law 27/2022 [@uupdp2022], and the Health Law of 2023
-contains provisions on health information systems [@uu17_2023]. We cite both at
-a general level and do not analyse their provisions here. Together, these cases
-suggest that consent for mental-health data should be specific to each study and
-recorded so that it can be checked. It should be renewed when the purpose
+public pressure. A similar loss of public trust ended England's national plan
+to share general-practice records. That plan proceeded without what has been
+called a "social licence" [@carter2015]. Positive approaches exist. The
+MindKind study asked young people in India, South Africa and the United Kingdom
+how their mental-health data should be governed [@mindkind2022]. It found that
+they held strong preferences about who should access their data. They were also
+willing to help design more open data-sharing arrangements. In Indonesia,
+personal data protection is regulated by Law 27/2022 [@uupdp2022], and the
+Health Law of 2023 contains provisions on health information systems
+[@uu17_2023]. Although we do not analyse their provisions here, these cases
+suggest that consent for mental-health data should be specific to each study
+and recorded so that it can be checked. It should be renewed when the purpose
 changes, and opt-in by default. These requirements are developed as principles
 in Paper 2 of this series.
 

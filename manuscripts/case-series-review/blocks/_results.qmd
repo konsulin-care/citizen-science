@@ -18,6 +18,7 @@ Collaborative and LaporCovid-19, each documented in peer-reviewed articles, and
 weakest for Youth-GEMS, which has not yet published results, and Samaritans
 Radar, which is documented in grey literature and news.
 
+:::: {.landscape}
 ::: {#tbl-case-overview .list-table widths="20,12,24,11,13,10,10" aligns="l,l,l,l,l,l,l"}
 Overview of included cases
 
@@ -93,6 +94,7 @@ Overview of included cases
   - Data subjects only
   - Failure
 :::
+::::
 
 ## Case narratives
 
@@ -290,8 +292,11 @@ people being watched, not only the people watching, and should require opt-in.
 
 ## Cross-case comparison
 
-@tbl-case-comparison shows the scores for all eight cases.
+@tbl-case-comparison shows the scores for all eight cases. No item was met in
+six or more cases, so no practice qualified as done well across cases. Twelve
+of the eighteen items were met in two or fewer cases.
 
+::::: {.landscape}
 :::: {#tbl-case-comparison}
 ::: {.list-table widths="31,8,8,8,8,8,8,8,8,5" aligns="l,c,c,c,c,c,c,c,c,c"}
 - - Item
@@ -504,13 +509,18 @@ people being watched, not only the people watching, and should require opt-in.
   - 3
 :::
 
-*Note.* `Y` met; `P` partly met; `N` not met; `NR` not reported. HGN, HoeGekIsNL; PLRC, Patient-Led Research Collaborative; YG, Youth-GEMS; LC, LaporCovid-19; CBS, Community-based surveillance (Indonesian Red Cross); CTL, Crisis Text Line; SR, Samaritans Radar. Provisional, pending second coder.
+***Note.***  
+`Y` met; `P` partly met; `N` not met; `NR` not reported.  
+HGN, HoeGekIsNL;
+PLRC, Patient-Led Research Collaborative;
+YG, Youth-GEMS;
+LC, LaporCovid-19;
+CBS, Community-based surveillance (Indonesian Red Cross);
+CTL, Crisis Text Line; SR, Samaritans Radar. Provisional, pending second coder.  
 
 Scores by case
 ::::
-
-No item was met in six or more cases, so no practice qualified as done well
-across cases. Twelve of the eighteen items were met in two or fewer cases.
+:::::
 
 ### What changed because citizens took part
 
