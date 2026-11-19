@@ -30,7 +30,8 @@ reading order:
 - `data/` — raw and processed data
 - `src/` — analysis code (`R/`, `python/`, `shell/`)
 - `.github/workflows/` — pull request checks: markdown lint and render of
-  affected manuscripts
+  affected manuscripts (each PDF kept as a 7-day artifact), plus a release
+  workflow that attaches rendered PDFs to a published release
 
 ## A series of papers
 

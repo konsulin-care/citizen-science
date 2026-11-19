@@ -75,8 +75,10 @@ toolchain from `mise.toml`.
 **Render** — every affected manuscript is rendered with
 `mise run render manuscripts/<id>/article.qmd` (the task wraps `quarto render`),
 as a matrix with
-`fail-fast: false` so one broken paper does not hide another. Rendered output
-is not uploaded. Affected manuscripts are derived from the changed files by
+`fail-fast: false` so one broken paper does not hide another. Each rendered
+`article.pdf` is uploaded as an artifact named `<id>-pdf`, kept for 7 days, so
+a reviewer can download the PDF of a pull request without building it locally.
+Affected manuscripts are derived from the changed files by
 `src/shell/affected-manuscripts.sh`, following these rules:
 
 - a change anywhere under `manuscripts/<id>/` (where `article.qmd` exists)
@@ -88,6 +90,34 @@ is not uploaded. Affected manuscripts are derived from the changed files by
 
 The selection logic itself is covered by
 `sh src/shell/affected-manuscripts.test.sh`.
+
+**TeX** — `mise run render` first runs the `setup:tinytex` task
+(`src/shell/ensure-tex.sh`) so a PDF engine is always available. It uses an
+existing TeX installation when `lualatex` is on `PATH`, or when Quarto already
+manages a TinyTeX installation, and otherwise installs TinyTeX through Quarto.
+CI caches `~/.TinyTeX` so the install happens at most once per lockfile change.
+The TinyTeX version is not pinned. The behaviour is covered by
+`sh src/shell/ensure-tex.test.sh`.
+
+## Releases
+
+Publish a release from the GitHub UI while on `main`
+(`.github/workflows/release.yml` runs on `release: published`). The tag decides
+which PDFs are attached to the release you created:
+
+- `v<major>.<minor>.<patch>` (for example `v1.2.3`) attaches the PDFs of every
+  manuscript
+- `<manuscript-id>-v<major>.<minor>.<patch>` (for example
+  `case-series-review-v1.0.0`) attaches that manuscript only, and fails the run
+  when `manuscripts/<id>/article.qmd` does not exist, so a typo cannot publish
+  an empty release silently
+- any other tag (`latest`, `v1.0`, `v1.0.0-rc1`) is ignored and the run ends
+  without changes
+
+PDFs are added to the release you created, so the release notes stay yours; the
+workflow never creates a release. Tag matching is handled by
+`src/shell/resolve-release-manuscripts.sh`, covered by
+`sh src/shell/resolve-release-manuscripts.test.sh`.
 
 ## Commits
 
