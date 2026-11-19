@@ -14,9 +14,11 @@
 #   2. tag `<id>-v<major>.<minor>.<patch>` with <id> matching [a-z0-9][a-z0-9-]*
 #      (for example id-a-v0.1.0) releases that manuscript only.
 #   3. any other tag (latest, v1.0, v1.0.0-rc1) releases nothing.
+#   4. rule 2 with an <id> that has no manuscripts/<id>/article.qmd is an error:
+#      one line on stderr, nothing on stdout, exit 1 (a typo must fail loudly).
 #
 # Output: one compact JSON array line, [] when nothing matches.
-# Exit status: 0.
+# Exit status: 0, or 1 for rule 4.
 
 if [ -n "${2:-}" ]; then
     root=$2
@@ -62,9 +64,14 @@ id=$(
         sed -nE 's/^([a-z0-9][a-z0-9-]*)-v[0-9]+\.[0-9]+\.[0-9]+$/\1/p'
 )
 
-if [ -n "$id" ] && [ -f "$root/manuscripts/$id/article.qmd" ]; then
-    printf '%s\n' "$id" | emit_ids
-    exit 0
+if [ -n "$id" ]; then
+    if [ -f "$root/manuscripts/$id/article.qmd" ]; then
+        printf '%s\n' "$id" | emit_ids
+        exit 0
+    fi
+    printf 'error: manuscripts/%s/article.qmd not found for tag %s\n' \
+        "$id" "$tag" >&2
+    exit 1
 fi
 
 printf '[]\n'

@@ -13,6 +13,17 @@ mkdir -p "$fixture/manuscripts/id-a" "$fixture/manuscripts/id-b" \
 
 fail=0
 
+# check <name> <expected> <actual>
+check() {
+    if [ "$3" = "$2" ]; then
+        printf 'ok - %s\n' "$1"
+    else
+        printf 'not ok - %s\n' "$1"
+        printf '  expected: %s\n  actual:   %s\n' "$2" "$3"
+        fail=1
+    fi
+}
+
 # run_case <name> <tag> <expected-stdout>
 run_case() {
     name=$1
@@ -73,6 +84,16 @@ for tag in v1.2.3 id-a-v0.1.0 latest ""; do
         fail=1
     fi
 done
+
+# A per-manuscript tag whose directory holds no article.qmd fails loudly.
+sh src/shell/resolve-release-manuscripts.sh "no-article-v1.0.0" "$fixture" \
+    > "$fixture/out" 2> "$fixture/err"
+status=$?
+check "missing manuscript exits non-zero" 1 "$status"
+check "missing manuscript prints no stdout" "" "$(cat "$fixture/out")"
+check "missing manuscript explains on stderr" \
+    'error: manuscripts/no-article/article.qmd not found for tag no-article-v1.0.0' \
+    "$(cat "$fixture/err")"
 
 if [ "$fail" -ne 0 ]; then
     printf 'FAILED\n'
