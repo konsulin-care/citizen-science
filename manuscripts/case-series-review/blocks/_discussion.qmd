@@ -7,35 +7,35 @@ group that founded the initiative led the work: the Patient-Led Research
 Collaborative and LaporCovid-19. In those two cases, involvement changed the
 research question and produced evidence before official or conventional sources
 did. In the other six cases, citizen roles were mostly limited to data
-collection and to consultation on selected components, and in the two failures
-the people whose data were used had no research role at all. No item was met in
+collection and to consultation on selected components. In the two failures, the
+people whose data were used had no research role at all. No item was met in
 six or more of the eight cases, and twelve of the eighteen items were met in two
 or fewer. The most consistently lacking practices were returning results to
 participants, letting contributors choose their credit, evaluating the project,
-opening data and results, and documenting consent and ethics review, and for
-most of these the sources simply did not say. These findings are consistent with
-the systematic review of citizen science in mental health, which found that
-citizen scientists contributed mostly through data collection and that
+opening data and results, and documenting consent and ethics review. For most of
+these, the sources simply did not say. These findings are consistent with the
+systematic review of citizen science in mental health. That review found that
+citizen scientists contributed mostly through data collection, and that
 feedback, data availability and attribution were rarely reported
 [@todowede2023].
 
 Citizen leadership and uptake did not go together. The two founder-led cases
 changed which questions were asked, but documented use of their findings by
-decision-makers was partial: LaporCovid-19's data challenged official figures
-and its relationship with government stayed contested [@laporcovid2021], and
-findings from the Patient-Led Research Collaborative drew attention without a
-documented route into decisions in the sources we reviewed. The only case with
-documented uptake, the Indonesian Red Cross community-based surveillance, was
-designed with government stakeholders and built into the national early-warning
-system and local budgets, but its volunteers reported to a protocol designed by
-others and had no role in analysis [@ifrc2021]. Both failures began with an
+decision-makers was partial. LaporCovid-19's data challenged official figures,
+and its relationship with government stayed contested [@laporcovid2021].
+Findings from the Patient-Led Research Collaborative drew attention, but the
+sources we reviewed document no route into decisions. The only case with
+documented uptake was the Indonesian Red Cross community-based surveillance. It
+was designed with government stakeholders and built into the national
+early-warning system and local budgets [@ifrc2021]. Its volunteers, however,
+reported to a protocol designed by others and had no role in analysis. Both failures began with an
 organisation acting on behalf of people in distress without asking them. With
 one clear success among eight purposively chosen cases, we cannot say what
 produces uptake. The pattern does raise a practical question: how can citizen
 leadership over the question be combined with the institutional routes through
-which findings become policy or programmes? The next sections set out three
-conditions that the cases point to, and then apply them to Indonesia. They are
-recommendations for future practice, not tested findings.
+which findings become policy or programmes? The cases point to three conditions
+that may bear on this question, and we set them out in the next paragraphs. We
+offer them as conditions suggested by the cases, not as tested findings.
 
 The first condition is a pathway from findings to decisions, agreed at the design
 stage with a named institutional counterpart. In the Red Cross case the
