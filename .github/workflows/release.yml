@@ -1,0 +1,64 @@
+name: Release
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    outputs:
+      manuscripts: ${{ steps.resolve.outputs.manuscripts }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: resolve
+        env:
+          TAG: ${{ github.event.release.tag_name }}
+        run: |
+          ids=$(sh src/shell/resolve-release-manuscripts.sh "$TAG")
+          echo "manuscripts=$ids" >> "$GITHUB_OUTPUT"
+          echo "release tag $TAG -> $ids"
+
+  render:
+    needs: resolve
+    if: needs.resolve.outputs.manuscripts != '[]'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        manuscript: ${{ fromJson(needs.resolve.outputs.manuscripts) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jdx/mise-action@v2
+      - uses: actions/cache@v4
+        with:
+          path: ~/.TinyTeX
+          key: tinytex-${{ runner.os }}-${{ hashFiles('mise.toml') }}
+      - run: mise run render "manuscripts/${{ matrix.manuscript }}/article.qmd"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Stage PDF under its manuscript id
+        run: cp "manuscripts/${{ matrix.manuscript }}/article.pdf" "${{ matrix.manuscript }}.pdf"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.manuscript }}-pdf
+          path: ${{ matrix.manuscript }}.pdf
+          if-no-files-found: error
+
+  upload:
+    needs: render
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: '*-pdf'
+          merge-multiple: true
+      - name: Attach PDFs to the published release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          TAG: ${{ github.event.release.tag_name }}
+        run: gh release upload "$TAG" ./*.pdf --clobber
