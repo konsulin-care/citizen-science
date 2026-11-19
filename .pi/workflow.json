@@ -6,7 +6,7 @@
           "argv": [
             "sh",
             "-c",
-            "if [ -f src/shell/affected-manuscripts.test.sh ]; then sh src/shell/affected-manuscripts.test.sh; else echo 'affected-manuscripts test not yet present'; fi"
+            "for t in src/shell/*.test.sh; do sh \"$t\" || exit 1; done"
           ],
           "scope": "full"
         }
@@ -15,7 +15,7 @@
         [
           "sh",
           "-c",
-          "if [ -f src/shell/affected-manuscripts.test.sh ]; then sh src/shell/affected-manuscripts.test.sh; else echo 'affected-manuscripts test not yet present'; fi"
+          "for t in src/shell/*.test.sh; do sh \"$t\" || exit 1; done"
         ]
       ]
     },
@@ -23,6 +23,11 @@
       "affected-manuscripts": [
         "sh",
         "src/shell/affected-manuscripts.test.sh"
+      ],
+      "shell-tests": [
+        "sh",
+        "-c",
+        "for t in src/shell/*.test.sh; do sh \"$t\" || exit 1; done"
       ]
     }
   }
