@@ -54,7 +54,7 @@ Indonesian and international cases, of successes and failures, and of
 citizen-led and institution-led projects. @tbl-cases lists the candidate cases
 and the reason for including or excluding each.
 
-::: {#tbl-cases .list-table}
+::: {#tbl-cases .list-table widths="18,14,18,50" aligns="l,l,l,l"}
 Candidate cases and selection decisions
 
 - - Case
@@ -115,7 +115,7 @@ Candidate cases and selection decisions
 
 ## Scoring framework
 
-Each case was scored on 18 items grouped into four domains [@tbl-scoring]. The items
+Each case was scored on 18 items grouped into four domains (@tbl-scoring). The items
 were derived from three sources: the stages of the research lifecycle; Haklay's
 typology of participation [@haklay2013]; and the ten principles of citizen
 science of the European Citizen Science Association [@robinson2018]. Principles
@@ -123,32 +123,17 @@ science of the European Citizen Science Association [@robinson2018]. Principles
 principles each map to one item in Domain B. A crosswalk between items and
 source frameworks is given in Supplement S1.
 
-Each item was scored on four levels: **●** met; **◐** partly met; **○** not
-met; and **NR**, not reported. A score of ○ required evidence that the practice
-did not happen; where sources were silent, the item was scored NR. This
+Each item was scored on four levels: `Y` met; `P` partly met; `N` not met;
+and `NR`, not reported. A score of `N` required evidence that the practice
+did not happen; where sources were silent, the item was scored `NR`. This
 distinction matters because the review relies on public documents, and an
 unreported practice may still have taken place.
 
-::: {#tbl-scoring .list-table}
-Scoring framework (full definitions in Supplement S1)
-
+:::: {#tbl-scoring}
+::: {.list-table widths="8,32,60" aligns="l,l,l"}
 - - Item
   - Question
-  - ● Met when sources show…
-
-- - []{colspan=3} **C. What changed because citizens took part**
-
-- - C1
-  - Citizens changed the research question
-  - A focus or measure studied because citizens raised it, which researchers or officials were not studying
-
-- - C2
-  - Findings came before the official or usual route
-  - Dated sources show results published before the official or conventional equivalent
-
-- - C3
-  - Findings were trusted and used
-  - Documented use by a government, health service or funder
+  - `Y` Met when sources show…
 
 - - []{colspan=3} **A. Citizens' highest documented role at each stage**
 
@@ -206,6 +191,20 @@ Scoring framework (full definitions in Supplement S1)
   - Project evaluated itself (ECSA 9)
   - A formal evaluation published
 
+- - []{colspan=3} **C. What changed because citizens took part**
+
+- - C1
+  - Citizens changed the research question
+  - A focus or measure studied because citizens raised it, which researchers or officials were not studying
+
+- - C2
+  - Findings came before the official or usual route
+  - Dated sources show results published before the official or conventional equivalent
+
+- - C3
+  - Findings were trusted and used
+  - Documented use by a government, health service or funder
+
 - - []{colspan=3} **D. Durability and harm**
 
 - - D1
@@ -217,12 +216,17 @@ Scoring framework (full definitions in Supplement S1)
   - Risks foreseen and managed, no harm documented
 :::
 
-In Domain A, ● means citizens led or co-decided a stage, ◐ means they
-contributed or were consulted, and ○ means they had no role. Each stage was
+*Note.* Full definitions in Supplement S1.
+
+Scoring framework
+::::
+
+In Domain A, `Y` means citizens led or co-decided a stage, `P` means they
+contributed or were consulted, and `N` means they had no role. Each stage was
 scored at the highest role documented. People who were sampled as survey
 respondents or who used a service were not counted as contributing to data
 collection; members of the public who enrolled themselves in an open
-crowdsourcing study were counted as contributors (◐).
+crowdsourcing study were counted as contributors (`P`).
 
 Two summaries were derived from the item scores rather than scored separately.
 The *level of participation* followed Haklay's typology: crowdsourcing if
@@ -232,10 +236,10 @@ were consulted on or contributed to the question or design; and extreme citizen
 science if they led or co-decided the question. Cases in which citizens had no
 research role were labelled "data subjects only". The *verdict* gave most
 weight to Domain C, reflecting the review's focus on what citizen involvement
-changes. A case was a **success** if findings were documented as used (C3 = ●)
-and the activity lasted or ended as planned (D1 ≥ ◐); a **failure** if findings
-were rejected (C3 = ○), the activity collapsed (D1 = ○), or harm was not
-addressed (D2 = ○); **partial** if neither applied; and **insufficient
+changes. A case was a **success** if findings were documented as used (C3 = `Y`)
+and the activity lasted or ended as planned (D1 is `P`/`Y`); a **failure** if findings
+were rejected (C3 = `N`), the activity collapsed (D1 = `N`), or harm was not
+addressed (D2 = `N`); **partial** if neither applied; and **insufficient
 evidence** if C3 or D1 was not reported and no failure criterion was met. These
 rules were fixed before scoring.
 
@@ -252,11 +256,11 @@ decision on disputed cells.
 
 ## Synthesis
 
-For each item we counted the number of cases scored ●. Before scoring, we set
+For each item we counted the number of cases scored `Y`. Before scoring, we set
 the thresholds for the summary: an item was *done well across cases* if it was
 met in at least six of eight cases, and *consistently lacking* if it was met in
 two or fewer. Consistently lacking items were further divided by whether the
-cases mostly scored ○ (not done) or NR (not reported). We compared cases by
+cases mostly scored `N` (not done) or `NR` (not reported). We compared cases by
 leadership (citizen-led versus institution-led), setting (Indonesian versus
 international) and verdict (success versus failure), and drew a numbered list
 of lessons, each linked to the cases that support it.

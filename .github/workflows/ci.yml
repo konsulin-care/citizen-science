@@ -34,4 +34,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: jdx/mise-action@v2
+      - uses: actions/cache@v4
+        with:
+          path: ~/.TinyTeX
+          key: tinytex-${{ runner.os }}-${{ hashFiles('mise.toml') }}
       - run: mise run render "manuscripts/${{ matrix.manuscript }}/article.qmd"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.manuscript }}-pdf
+          path: manuscripts/${{ matrix.manuscript }}/article.pdf
+          retention-days: 7
+          if-no-files-found: error

@@ -1,0 +1,10 @@
+project:
+  type: default
+
+format:
+  elsevier-pdf:
+    keep-tex: true
+    journal:
+      name: SSRN
+      formatting: preprint
+      cite-style: numbername

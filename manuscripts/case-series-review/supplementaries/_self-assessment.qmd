@@ -4,7 +4,7 @@ Scored by the authors against the six items of SANRA [@baethge2019] (0 = low, 1
 = moderate, 2 = high). Provisional, to be repeated after screening and second
 coding.
 
-::: {.list-table header-rows=1 aligns="l,c,l" tbl-colwidths="[45,10,45]"}
+::: {.list-table header-rows=1 aligns="l,c,l" widths="45,10,45"}
 - - SANRA item
   - Score
   - Justification

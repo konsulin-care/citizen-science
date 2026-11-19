@@ -7,15 +7,19 @@ Indonesia, the United States and an international patient network (@tbl-case-ove
 Four are mental-health citizen science projects, two are Indonesian citizen
 health-data initiatives that arose during the COVID-19 pandemic, and two are
 failures involving data from people in mental distress. Leading roles were held
-by citizens who founded the initiative in two cases (LaporCovid-19 and the
-Patient-Led Research Collaborative), shared between a university and
-lived-experience co-researchers in one (CoAct), and held by institutions in the
-remaining five. Evidence was strongest for the Patient-Led Research
+by the group that founded the initiative in two cases: patients in the
+Patient-Led Research Collaborative, and, in LaporCovid-19, a civil-society
+coalition of public health experts, scientists, journalists and activists that
+describes itself as a citizens' coalition [@ekawati2022; @laporcovid2021].
+Leading roles were shared between a university and lived-experience
+co-researchers in one case (CoAct) and held by institutions in the remaining
+five. Evidence was strongest for the Patient-Led Research
 Collaborative and LaporCovid-19, each documented in peer-reviewed articles, and
 weakest for Youth-GEMS, which has not yet published results, and Samaritans
 Radar, which is documented in grey literature and news.
 
-::: {#tbl-case-overview .list-table}
+:::: {.landscape}
+::: {#tbl-case-overview .list-table widths="20,12,24,11,13,10,10" aligns="l,l,l,l,l,l,l"}
 Overview of included cases
 
 - - Case
@@ -60,7 +64,7 @@ Overview of included cases
 
 - - LaporCovid-19
   - Indonesia, 2020–
-  - Civil-society experts and volunteers
+  - Civil-society coalition of experts, scientists, journalists and activists
   - 1,545 deaths documented
   - Peer-reviewed articles
   - Extreme
@@ -90,6 +94,7 @@ Overview of included cases
   - Data subjects only
   - Failure
 :::
+::::
 
 ## Case narratives
 
@@ -109,14 +114,20 @@ research group and interpreted collectively with the co-researchers and a wider
 coalition that included representatives of the mental health system. In
 November 2022, a community assembly approved 14 recommendations, which were
 presented to Barcelona City Council and to the regional mental health pact, and
-published as policy briefs [@casanovas2026]. We found no documentation of
-whether these recommendations were adopted. The chatbot allowed anonymous
+published as policy briefs [@casanovas2026]. At the assembly, a city councillor
+said she wanted all validated recommendations included in the new municipal
+mental health plan, and the director of the National Mental Health Pact said
+the Pact would incorporate the proposed actions [@ub2022assembly; @mitats2022].
+We found no later source tracing whether the recommendations were adopted; the
+city's announcement of its Mental Health Plan 2023–2030 does not mention the
+project [@bcn2023plan]. The chatbot allowed anonymous
 participation on a sensitive topic, and the authors note the need for emotional
 safety. The project won the 2024 European Union Prize for Citizen Science.
 
 *Lesson:* shared governance with people with lived experience produces co-owned
 questions and policy proposals, but whether those proposals are used depends on
-commitments from decision-makers secured before the project ends.
+commitments from decision-makers secured before the project ends, and on a way
+to track whether those commitments are kept.
 
 ### HoeGekIsNL
 
@@ -205,9 +216,11 @@ when no official count of health-worker infections or deaths existed
 advocated for compensation for families of health workers, and civil-society
 pressure contributed to the withdrawal of a self-funded vaccination plan
 [@laporcovid2021]. Its relationship with government was contested, as its data
-directly challenged official figures [@laporcovid2021]. We found no
-documentation of the project's current status or of measures to protect
-volunteers.
+directly challenged official figures [@laporcovid2021]. The
+organisation behind it continued after the emergency phase, renamed LaporSehat
+and LaporIklim [@wargaberdaya2024; @wargaberdaya_web], but we found no
+documentation of whether the health-worker death database is still maintained
+or of measures to protect volunteers.
 
 *Lesson:* citizen data can document what official statistics leave out. A
 critical stance toward government protects independence but may limit uptake.
@@ -279,238 +292,243 @@ people being watched, not only the people watching, and should require opt-in.
 
 ## Cross-case comparison
 
-@tbl-case-comparison shows the scores for all eight cases.
+@tbl-case-comparison shows the scores for all eight cases. No item was met in
+six or more cases, so no practice qualified as done well across cases. Twelve
+of the eighteen items were met in two or fewer cases.
 
-::: {#tbl-case-comparison .list-table}
-Scores by case. ● met; ◐ partly met; ○ not met; NR not reported. Provisional, pending second coder
-
+::::: {.landscape}
+:::: {#tbl-case-comparison}
+::: {.list-table widths="31,8,8,8,8,8,8,8,8,5" aligns="l,c,c,c,c,c,c,c,c,c"}
 - - Item
   - CoAct
-  - HGN[^hgn]
-  - PLRC[^plrc]
-  - YG[^yg]
-  - LC[^lc]
-  - CBS[^cbs]
-  - CTL[^ctl]
-  - SR[^sr]
-  - ● n/8
-
-- - **C1** Citizens changed the research question
-  - ◐
-  - ○
-  - ●
-  - ○
-  - ●
-  - ○
-  - ○
-  - ○
-  - 2
-
-- - **C2** Findings came before the official or usual route
-  - NR
-  - NR
-  - ●
-  - NR
-  - ●
-  - ◐
-  - NR
-  - NR
-  - 2
-
-- - **C3** Findings were trusted and used
-  - ◐
-  - NR
-  - ◐
-  - NR
-  - ◐
-  - ●
-  - ○
-  - ○
-  - 1
+  - HGN
+  - PLRC
+  - YG
+  - LC
+  - CBS
+  - CTL
+  - SR
+  - `Y` n/8
 
 - - **A1** Choosing the question
-  - ◐
-  - ○
-  - ●
-  - ○
-  - ●
-  - ○
-  - ○
-  - ○
+  - `P`
+  - `N`
+  - `Y`
+  - `N`
+  - `Y`
+  - `N`
+  - `N`
+  - `N`
   - 2
 
 - - **A2** Designing methods and tools
-  - ●
-  - NR
-  - ●
-  - ◐
-  - ●
-  - ◐
-  - ○
-  - ○
+  - `Y`
+  - `NR`
+  - `Y`
+  - `P`
+  - `Y`
+  - `P`
+  - `N`
+  - `N`
   - 3
 
 - - **A3** Collecting data
-  - ◐
-  - ◐
-  - ●
-  - NR
-  - ●
-  - ◐
-  - ○
-  - ○
+  - `P`
+  - `P`
+  - `Y`
+  - `NR`
+  - `Y`
+  - `P`
+  - `N`
+  - `N`
   - 2
 
 - - **A4** Analysing and interpreting data
-  - ◐
-  - NR
-  - ●
-  - ○
-  - ●
-  - ○
-  - ○
-  - ○
+  - `P`
+  - `NR`
+  - `Y`
+  - `N`
+  - `Y`
+  - `N`
+  - `N`
+  - `N`
   - 2
 
 - - **A5** Writing and sharing results
-  - ◐
-  - NR
-  - ●
-  - ◐
-  - ●
-  - ○
-  - ○
-  - ○
+  - `P`
+  - `NR`
+  - `Y`
+  - `P`
+  - `Y`
+  - `N`
+  - `N`
+  - `N`
   - 2
 
 - - **A6** Acting on findings
-  - ●
-  - NR
-  - ●
-  - NR
-  - ●
-  - ◐
-  - ○
-  - ◐
+  - `Y`
+  - `NR`
+  - `Y`
+  - `NR`
+  - `Y`
+  - `P`
+  - `N`
+  - `P`
   - 3
 
 - - **B1** Both citizens and science benefited
-  - ●
-  - ●
-  - ●
-  - ◐
-  - ●
-  - ◐
-  - ◐
-  - ◐
+  - `Y`
+  - `Y`
+  - `Y`
+  - `P`
+  - `Y`
+  - `P`
+  - `P`
+  - `P`
   - 4
 
 - - **B2** Participants got results back
-  - ◐
-  - ●
-  - ◐
-  - NR
-  - NR
-  - ◐
-  - NR
-  - ○
+  - `P`
+  - `Y`
+  - `P`
+  - `NR`
+  - `NR`
+  - `P`
+  - `NR`
+  - `N`
   - 1
 
 - - **B3** Data and results are open
-  - ◐
-  - NR
-  - ◐
-  - NR
-  - ●
-  - ◐
-  - ◐
-  - NR
+  - `P`
+  - `NR`
+  - `P`
+  - `NR`
+  - `Y`
+  - `P`
+  - `P`
+  - `NR`
   - 1
 
 - - **B4** Contributions acknowledged in a form contributors chose
-  - ◐
-  - NR
-  - ◐
-  - ◐
-  - ◐
-  - ◐
-  - NR
-  - NR
+  - `P`
+  - `NR`
+  - `P`
+  - `P`
+  - `P`
+  - `P`
+  - `NR`
+  - `NR`
   - 0
 
 - - **B5** Data quality checked, limitations stated
-  - ◐
-  - NR
-  - ●
-  - NR
-  - ●
-  - ●
-  - NR
-  - NR
+  - `P`
+  - `NR`
+  - `Y`
+  - `NR`
+  - `Y`
+  - `Y`
+  - `NR`
+  - `NR`
   - 3
 
 - - **B6** Ethics and data protection in place
-  - ◐
-  - ◐
-  - ●
-  - ◐
-  - ●
-  - ◐
-  - ◐
-  - ○
+  - `P`
+  - `P`
+  - `Y`
+  - `P`
+  - `Y`
+  - `P`
+  - `P`
+  - `N`
   - 2
 
 - - **B7** Project evaluated itself
-  - ◐
-  - NR
-  - NR
-  - ◐
-  - NR
-  - ●
-  - NR
-  - ◐
+  - `P`
+  - `NR`
+  - `NR`
+  - `P`
+  - `NR`
+  - `Y`
+  - `NR`
+  - `P`
+  - 1
+
+- - **C1** Citizens changed the research question
+  - `P`
+  - `N`
+  - `Y`
+  - `N`
+  - `Y`
+  - `N`
+  - `N`
+  - `N`
+  - 2
+
+- - **C2** Findings came before the official or usual route
+  - `NR`
+  - `NR`
+  - `Y`
+  - `NR`
+  - `Y`
+  - `P`
+  - `NR`
+  - `NR`
+  - 2
+
+- - **C3** Findings were trusted and used
+  - `P`
+  - `NR`
+  - `P`
+  - `NR`
+  - `P`
+  - `Y`
+  - `N`
+  - `N`
   - 1
 
 - - **D1** Activity lasted, or ended as planned
-  - ◐
-  - ●
-  - ●
-  - ●
-  - NR
-  - ●
-  - ○
-  - ○
+  - `P`
+  - `Y`
+  - `Y`
+  - `Y`
+  - `P`
+  - `Y`
+  - `N`
+  - `N`
   - 4
 
 - - **D2** Volunteers and participants protected from harm
-  - ●
-  - NR
-  - NR
-  - ●
-  - NR
-  - ●
-  - ◐
-  - ◐
+  - `Y`
+  - `NR`
+  - `NR`
+  - `Y`
+  - `NR`
+  - `Y`
+  - `P`
+  - `P`
   - 3
 :::
 
-[^hgn]: HoeGekIsNL
-[^plrc]: Patient-Led Research Collaborative
-[^yg]: Youth-GEMS
-[^lc]: LaporCovid-19
-[^cbs]: Community-based surveillance (Indonesian Red Cross)
-[^ctl]: Crisis Text Line
-[^sr]: Samaritans Radar
+***Note.***  
+`Y` met; `P` partly met; `N` not met; `NR` not reported.  
+HGN, HoeGekIsNL;
+PLRC, Patient-Led Research Collaborative;
+YG, Youth-GEMS;
+LC, LaporCovid-19;
+CBS, Community-based surveillance (Indonesian Red Cross);
+CTL, Crisis Text Line; SR, Samaritans Radar. Provisional, pending second coder.  
 
-No item was met in six or more cases, so no practice qualified as done well
-across cases. Twelve of the eighteen items were met in two or fewer cases.
+Scores by case
+::::
+:::::
 
 ### What changed because citizens took part
 
-Citizens changed the research question in two cases. In both, citizens founded
-the initiative: patients defined Long COVID as an object of study
-[@mccorkell2021; @fitzgerald2024], and LaporCovid-19 volunteers counted
-health-worker deaths that officials were not counting [@ekawati2022]. The same
+Citizens changed the research question in two cases. In both, the
+initiative was founded by the group itself: patients defined Long COVID as an
+object of study [@mccorkell2021; @fitzgerald2024], and the LaporCovid-19
+coalition and its volunteers counted health-worker deaths that officials were
+not counting [@ekawati2022]. The same
 two cases produced findings before official or conventional sources. Documented
 use of findings by decision-makers was rarer, with only community-based
 surveillance met this item, through integration into the national early-warning
@@ -521,8 +539,10 @@ failure cases, the activity was discredited and ended.
 ### Where citizens took part
 
 Design was the stage at which citizens most often had a leading role (three of
-eight cases), followed by acting on findings (three of eight). Citizens led
-every stage only in the two citizen-founded cases. In institution-led cases,
+eight cases), followed by acting on findings (three of eight). The founding
+group led every stage only in the two founder-led cases. In LaporCovid-19, lay
+members of the public mainly reported data while the coalition held the leading
+roles [@rinaldi2024; @ekawati2022]. In institution-led cases,
 citizen roles were concentrated in data collection and consultation on specific
 components, such as the wording of an app [@youthgems_decisions2025] or the
 reporting of alerts [@ifrc2021]. In the two failure cases, people whose data
@@ -538,14 +558,16 @@ form, and three did not report how. A formal evaluation was published in one
 case [@ifrc2021]. Openness of both data and results was documented in one case
 [@ekawati2022], and ethics review together with a consent approach in two
 [@ekawati2022; @davis2020preprint]. Across these lacking items, most cases
-scored NR rather than ○: the sources did not say whether the practice took
+scored `NR` rather than `N`: the sources did not say whether the practice took
 place. The exception was consent in the failure cases, where sources documented
 its absence or inadequacy [@eysenbach2025; @responsibledata_radar].
 
 ### Durability and harm
 
-Four cases were still running or had ended as planned. The two failures ended
-under public pressure. Protection from harm was documented in three cases,
+Four cases were still running or had ended as planned, and two were partly
+durable: CoAct, and LaporCovid-19, whose organisation continued under new names
+while its original data activity is undocumented. The two failures ended under
+public pressure. Protection from harm was documented in three cases,
 through anonymous participation [@casanovas2026], safe spaces for young people
 [@youthgems_earma2024], and risk-aware protocols for volunteers [@ifrc2021]. In
 both failures, the harm was a breach of trust in how mental-health data were

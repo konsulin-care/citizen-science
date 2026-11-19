@@ -5,86 +5,86 @@ Scores draw on peer-reviewed articles [@davis2021; @mccorkell2021;
 collaborative's research-fund page [@plrc_fund]. Patients chose the questions,
 designed and ran the survey, analysed the data and wrote every paper, and a
 patient panel allocated USD 4.8 million in research grants, so every Domain A
-stage was scored as led (●) and the case is classed as extreme citizen science.
+stage was scored as led (`Y`) and the case is classed as extreme citizen science.
 Its first report on Long COVID appeared in 2020, before most clinical studies
-(C2 = ●). The verdict is partial rather than success because, although patients
+(C2 = `Y`). The verdict is partial rather than success because, although patients
 influenced definitions and guidance, direct adoption of the collaborative's own
-findings is not documented (C3 = ◐).
+findings is not documented (C3 = `P`).
 
-::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+::: {.list-table header-rows=1 widths="10,10,80" aligns="l,c,l"}
 - - Item
   - Score
   - Justification
 
 - - A1
-  - ●
+  - `Y`
   - Patients chose the questions
 
 - - A2
-  - ●
+  - `Y`
   - Patients designed the survey and symptom list
 
 - - A3
-  - ●
+  - `Y`
   - Patients ran the survey
 
 - - A4
-  - ●
+  - `Y`
   - Patients analysed the data
 
 - - A5
-  - ●
+  - `Y`
   - All authors were patients
 
 - - A6
-  - ●
+  - `Y`
   - Patient panel allocated USD 4.8 million in research grants
 
 - - B1
-  - ●
+  - `Y`
   - Recognition of the condition for patients; peer-reviewed outputs
 
 - - B2
-  - ◐
+  - `P`
   - Results public through preprint and article; return to respondents not documented
 
 - - B3
-  - ◐
+  - `P`
   - Results open access; data availability not stated
 
 - - B4
-  - ◐
+  - `P`
   - Patient-researchers named as authors; choice of credit for respondents not documented
 
 - - B5
-  - ●
+  - `Y`
   - Methods and sampling bias reported
 
 - - B6
-  - ●
+  - `Y`
   - University ethics approval and digital informed consent
 
 - - B7
-  - NR
+  - `NR`
   - Not documented
 
 - - C1
-  - ●
+  - `Y`
   - Patients defined Long COVID as an object of study
 
 - - C2
-  - ●
+  - `Y`
   - First report on Long COVID published in 2020, before most clinical studies
 
 - - C3
-  - ◐
+  - `P`
   - Patients influenced definitions and guidance; direct adoption of the collaborative's findings not documented
 
 - - D1
-  - ●
+  - `Y`
   - Collaborative active; research fund running 2022–2026
 
 - - D2
-  - NR
+  - `NR`
   - Not documented
 :::

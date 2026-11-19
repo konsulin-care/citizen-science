@@ -1,92 +1,95 @@
 ## LaporCovid-19
 
 Scores draw on two peer-reviewed articles [@ekawati2022; @rinaldi2024] and the
-coalition's own report [@laporcovid2021]. A citizen coalition founded the
-initiative, designed the reporting platform, ran the database with volunteers,
+coalition's own report [@laporcovid2021]. A civil-society coalition of public
+health experts, scientists, journalists and activists, which describes itself as
+a citizens' coalition, founded the initiative [@ekawati2022; @laporcovid2021].
+The coalition designed the reporting platform, ran the database with volunteers,
 analysed and published the data, and advocated for families of health workers,
-so every Domain A stage was scored as led (●) and the case is classed as
+so every Domain A stage was scored as led (`Y`) and the case is classed as
 extreme citizen science. It counted health-worker deaths while no official
-figure was published (C1 and C2 = ●). Its contribution to policy on
-compensation is self-reported (C3 = ◐), and its current status is not
-documented (D1 = NR). Under the verdict rules in S1.4, D1 = NR gives
-insufficient evidence; Table S3 and the main text currently list the verdict as
-partial [to be reconciled before submission].
+figure was published (C1 and C2 = `Y`). Its contribution to policy on
+compensation is self-reported (C3 = `P`). The organisation continued after the
+emergency phase as LaporSehat and LaporIklim, but the status of the health-worker
+death database is not documented (D1 = `P`; rescored from `NR` after a follow-up
+search on 16 November 2026, see S1.5 and S3). Under the verdict rules in S1.4,
+C3 = `P` and D1 = `P` give the verdict partial.
 
-::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+::: {.list-table header-rows=1 widths="10,10,80" aligns="l,c,l"}
 - - Item
   - Score
   - Justification
 
 - - A1
-  - ●
-  - Citizen coalition founded the initiative and set its questions
+  - `Y`
+  - Civil-society coalition founded the initiative and set its questions
 
 - - A2
-  - ●
+  - `Y`
   - Coalition designed the reporting platform and database
 
 - - A3
-  - ●
+  - `Y`
   - Volunteers ran the database
 
 - - A4
-  - ●
+  - `Y`
   - Analysis by LaporCovid-19-affiliated authors
 
 - - A5
-  - ●
+  - `Y`
   - Group published articles and commentary
 
 - - A6
-  - ●
+  - `Y`
   - Group advocated for families of health workers
 
 - - B1
-  - ●
+  - `Y`
   - Advocacy benefit for families; peer-reviewed output
 
 - - B2
-  - NR
+  - `NR`
   - Return of results to reporters not documented
 
 - - B3
-  - ●
+  - `Y`
   - Aggregated data public; article open access
 
 - - B4
-  - ◐
+  - `P`
   - Affiliated contributors named as authors; choice of credit not documented
 
 - - B5
-  - ●
+  - `Y`
   - Classification against Ministry of Health definitions; limitations stated
 
 - - B6
-  - ●
+  - `Y`
   - National ethics committee approval; justified consent waiver
 
 - - B7
-  - NR
+  - `NR`
   - Not documented
 
 - - C1
-  - ●
+  - `Y`
   - Counted health-worker deaths when no official count existed
 
 - - C2
-  - ●
+  - `Y`
   - Health-worker mortality documented while no official figure was published
 
 - - C3
-  - ◐
+  - `P`
   - Advocacy on compensation; contribution to a policy change self-reported
 
 - - D1
-  - NR
-  - Current status not documented
+  - `P`
+  - Organisation continued as LaporSehat and LaporIklim [@wargaberdaya2024; @wargaberdaya_web]; status of the Pusara Digital database not documented
 
 - - D2
-  - NR
+  - `NR`
   - Measures to protect volunteers not documented
 :::
 

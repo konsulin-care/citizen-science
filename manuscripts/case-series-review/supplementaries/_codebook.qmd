@@ -9,7 +9,7 @@ typology of participation [@haklay2013], and the ten principles of citizen
 science of the European Citizen Science Association (ECSA) [@robinson2018].
 Domain D (durability and harm) was added to capture how failures unfold.
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="70,30"}
 Crosswalk between items and source frameworks
 
 - - ECSA principle (short form)
@@ -65,9 +65,9 @@ Crosswalk between items and source frameworks
    the public, patient-researchers, civil-society experts, or institutions.
 3. **Highest documented role.** Each Domain A stage is scored at the highest
    role documented in any source.
-4. **Not met versus not reported.** ○ requires evidence that the practice did
+4. **Not met versus not reported.** `N` requires evidence that the practice did
    not happen or that the opposite happened. Where sources are silent, the item
-   is scored NR.
+   is scored `NR`.
 5. **Borderline cases.** When evidence falls between two levels, the lower
    level is assigned and the reason is noted in S2.
 6. **Conflicting sources.** Independent and peer-reviewed sources take
@@ -77,20 +77,20 @@ Crosswalk between items and source frameworks
 8. **Data collection (A3).** People sampled as survey respondents, or who used
    a service, are not counted as contributing to data collection. Members of
    the public who enrolled themselves in an open crowdsourcing study are
-   counted as contributors (◐).
+   counted as contributors (`P`).
 
 ### S1.3 Item definitions
 
-Scale: **●** met; **◐** partly met; **○** not met (evidence of absence); **NR**
+Scale: `Y` met; `P` partly met; `N` not met (evidence of absence); `NR`
 not reported.
 
 #### Domain A. Citizens' highest documented role at each stage
 
-Scale for every A item: **●** citizens led or co-decided the stage; **◐**
+Scale for every A item: `Y` citizens led or co-decided the stage; `P`
 citizens contributed (did the work to a plan set by others) or were consulted
-(gave input that others decided on); **○** no role.
+(gave input that others decided on); `N` no role.
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="15,85"}
 - - Item
   - Stage
 
@@ -115,12 +115,12 @@ citizens contributed (did the work to a plan set by others) or were consulted
 
 #### Domain B. How the project was run
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="8,23,23,23,23"}
 - - Item
   - Question
-  - ●
-  - ◐
-  - ○
+  - `Y`
+  - `P`
+  - `N`
 
 - - B1
   - Did both citizens and science benefit?
@@ -167,12 +167,12 @@ citizens contributed (did the work to a plan set by others) or were consulted
 
 #### Domain C. What changed because citizens took part
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="8,23,23,23,23"}
 - - Item
   - Question
-  - ●
-  - ◐
-  - ○
+  - `Y`
+  - `P`
+  - `N`
 
 - - C1
   - Did citizens change the research question?
@@ -195,12 +195,12 @@ citizens contributed (did the work to a plan set by others) or were consulted
 
 #### Domain D. Durability and harm
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="8,23,23,23,23"}
 - - Item
   - Question
-  - ●
-  - ◐
-  - ○
+  - `Y`
+  - `P`
+  - `N`
 
 - - D1
   - Did the activity last, or end as planned?
@@ -219,23 +219,23 @@ citizens contributed (did the work to a plan set by others) or were consulted
 
 **Level of participation** (after Haklay [@haklay2013]):
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="40,60"}
 - - Pattern of A scores
   - Level
 
-- - A1 = ●
+- - A1 = `Y`
   - Extreme citizen science
 
-- - A1 = ◐, or A2 ≥ ◐
+- - A1 = `P`, or A2 is `P`/`Y`
   - Participatory science
 
-- - A3 > ○ and A4 > ○
+- - A3 and A4 are `P`/`Y`
   - Distributed intelligence
 
-- - Only A3 > ○
+- - Only A3 is `P`/`Y`
   - Crowdsourcing
 
-- - All A items ○ or only A6 > ○
+- - All A items `N`, or only A6 is `P`/`Y`
   - Data subjects only
 :::
 
@@ -244,18 +244,18 @@ used.
 
 **Verdict** (Domain C weighted most):
 
-::: {.list-table header-rows=1}
+::: {.list-table header-rows=1 widths="20,80"}
 - - Verdict
   - Rule
 
 - - Failure
-  - C3 = ○, or D1 = ○, or D2 = ○
+  - C3 = `N`, or D1 = `N`, or D2 = `N`
 
 - - Success
-  - C3 = ● and D1 ≥ ◐
+  - C3 = `Y` and D1 is `P`/`Y`
 
 - - Insufficient evidence
-  - C3 or D1 = NR, and no failure criterion met
+  - C3 or D1 = `NR`, and no failure criterion met
 
 - - Partial
   - All other cases
@@ -279,6 +279,11 @@ before scoring the remaining cases:
    so that anonymous projects can meet it.
 6. The verdict "insufficient evidence" was added for cases where C3 or D1 is
    not reported.
+7. Post hoc, on 16 November 2026: after a follow-up search for post-2022 sources
+   (Supplement S3), D1 for LaporCovid-19 was rescored from `NR` to `P`, because the
+   organisation was documented as continuing under new names while its original
+   data activity remained undocumented. The verdict rules in S1.4 were applied
+   unchanged and the verdict remains partial (C3 = `P`, D1 = `P`).
 
 ### S1.6 Coding procedure
 

@@ -1,91 +1,93 @@
 ## CoAct for Mental Health
 
-All 18 scores rest on a single source, a conference proceedings paper written
-by the project team [@casanovas2026]. Co-researchers with lived experience
+The scores rest mainly on a conference proceedings paper written by the project
+team [@casanovas2026]; C3 also draws on a university news item, the project's
+policy brief and a city council announcement [@ub2022assembly; @mitats2022;
+@bcn2023plan]. Co-researchers with lived experience
 helped formulate the questions and co-designed the chatbot, and a community
 assembly approved 14 recommendations and presented them to Barcelona City
 Council and the regional mental health pact. The research group ran data
 collection and analysis, so the remaining stages were scored as contributed.
-Because citizens took part in choosing the question (A1 = ◐), the case is
-classed as participatory science. The verdict is partial: adoption of the
-recommendations was not documented (C3 = ◐), and the funded project ended in
-2022 without a documented hand-over (D1 = ◐). The scores have not been checked
-against an independent source.
+Because citizens took part in choosing the question (A1 = `P`), the case is
+classed as participatory science. The verdict is partial: public commitments were made at the assembly but
+adoption of the recommendations was not documented (C3 = `P`), and the funded project ended in
+2022 without a documented hand-over (D1 = `P`). Except for the C3 follow-up, the scores have not
+been checked against an independent source.
 
-::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+::: {.list-table header-rows=1 widths="10,10,80" aligns="l,c,l"}
 - - Item
   - Score
   - Justification
 
 - - A1
-  - ◐
+  - `P`
   - Co-researchers took part in formulating questions, validated by a wider coalition
 
 - - A2
-  - ●
+  - `Y`
   - Co-researchers co-designed the chatbot
 
 - - A3
-  - ◐
+  - `P`
   - Co-researchers wrote the micro-stories; data collection run by the research group
 
 - - A4
-  - ◐
+  - `P`
   - Interpretation collective; analysis by the research group
 
 - - A5
-  - ◐
+  - `P`
   - Co-researchers share ownership of dissemination; authorship not documented
 
 - - A6
-  - ●
+  - `Y`
   - Community assembly approved recommendations and presented them to authorities
 
 - - B1
-  - ●
+  - `Y`
   - Reported sense of agency and belonging; scientific results reported
 
 - - B2
-  - ◐
+  - `P`
   - Results shared with the community assembly; feedback to chatbot participants not described
 
 - - B3
-  - ◐
+  - `P`
   - Policy briefs open on Zenodo; dataset release not documented
 
 - - B4
-  - ◐
+  - `P`
   - Co-researchers acknowledged; choice of credit not documented
 
 - - B5
-  - ◐
+  - `P`
   - Methods described; limitations partly discussed
 
 - - B6
-  - ◐
+  - `P`
   - Anonymous participation by design; ethics review not described
 
 - - B7
-  - ◐
+  - `P`
   - Reflection on engagement; no formal evaluation
 
 - - C1
-  - ◐
+  - `P`
   - Focus on social support matched needs identified by communities, within a mental-health topic set by the funded project
 
 - - C2
-  - NR
+  - `NR`
   - No dated comparison with conventional sources
 
 - - C3
-  - ◐
-  - 14 recommendations presented to Barcelona City Council and the regional mental health pact; adoption not documented
+  - `P`
+  - 14 recommendations presented to Barcelona City Council and the regional mental health pact; at the 18 November 2022 assembly, the city councillor and the director of the National Mental Health Pact publicly committed to include or incorporate them [@ub2022assembly; @mitats2022]; no later source traces adoption, and the Mental Health Plan 2023–2030 announcement does not mention the project [@bcn2023plan]
 
 - - D1
-  - ◐
+  - `P`
   - Funded project ended in 2022; work described as ongoing; no hand-over documented
 
 - - D2
-  - ●
+  - `Y`
   - Emotional safety considered and anonymous participation offered; no harm documented
 :::

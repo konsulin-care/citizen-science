@@ -17,7 +17,7 @@
 
 /** Detected test suites (label + argv + routing scope/cwd), frozen at generation time. */
 const SUITES = [
-  { "label": "config (sh -c if [ -f src/shell/affected-manuscripts.test.sh ]; then sh src/shell/affected-manuscripts.test.sh; else echo 'affected-manuscripts test not yet present'; fi)", "argv": ["sh","-c","if [ -f src/shell/affected-manuscripts.test.sh ]; then sh src/shell/affected-manuscripts.test.sh; else echo 'affected-manuscripts test not yet present'; fi"], "scope": "full" }
+  { "label": "config (sh -c for t in src/shell/*.test.sh; do sh \"$t\" || exit 1; done)", "argv": ["sh","-c","for t in src/shell/*.test.sh; do sh \"$t\" || exit 1; done"], "scope": "full" }
 ];
 
 /** Per-suite wall clock budget: PI_TEST_TIMEOUT_MS, 300000ms default. */

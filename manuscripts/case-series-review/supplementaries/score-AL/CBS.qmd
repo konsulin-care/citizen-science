@@ -3,88 +3,88 @@
 All scores rest on a single case-study report by the International Federation
 of Red Cross and Red Crescent Societies and the Indonesian Red Cross (Palang
 Merah Indonesia) [@ifrc2021], which includes a published, indicator-based
-evaluation (B7 = ●). Volunteers reported priority diseases to a protocol set by
+evaluation (B7 = `Y`). Volunteers reported priority diseases to a protocol set by
 the programme, and community stakeholders were consulted during the assessment
-(A2 = ◐), so the case is classed as participatory science. Alerts were
+(A2 = `P`), so the case is classed as participatory science. Alerts were
 integrated into the national early-warning system and the programme moved to
-local government ownership and budget funding, which met both C3 and D1 (●).
+local government ownership and budget funding, which met both C3 and D1 (`Y`).
 The verdict is success. The source was written by the implementing organisation
 and has not been checked against an independent evaluation.
 
-::: {.list-table header-rows=1 tbl-colwidths="[10,10,80]" aligns="l,c,l"}
+::: {.list-table header-rows=1 widths="10,10,80" aligns="l,c,l"}
 - - Item
   - Score
   - Justification
 
 - - A1
-  - ○
+  - `N`
   - Not involved
 
 - - A2
-  - ◐
+  - `P`
   - Community stakeholders consulted in the assessment
 
 - - A3
-  - ◐
+  - `P`
   - Volunteers reported to a set protocol
 
 - - A4
-  - ○
+  - `N`
   - Verification and analysis by supervisors and authorities
 
 - - A5
-  - ○
+  - `N`
   - Report written by the programme
 
 - - A6
-  - ◐
+  - `P`
   - Volunteers carried out health promotion and response activities
 
 - - B1
-  - ◐
+  - `P`
   - Community health benefit; programme report rather than scientific output
 
 - - B2
-  - ◐
+  - `P`
   - Advice given to households; feedback from authorities slow
 
 - - B3
-  - ◐
+  - `P`
   - Report public; data not
 
 - - B4
-  - ◐
+  - `P`
   - Volunteers acknowledged generically
 
 - - B5
-  - ●
+  - `Y`
   - Alert verification and accuracy reported; limitations stated
 
 - - B6
-  - ◐
+  - `P`
   - Confidentiality measures described; consent and ethics review not described
 
 - - B7
-  - ●
+  - `Y`
   - Indicator-based performance evaluation published
 
 - - C1
-  - ○
+  - `N`
   - Priority diseases set by the programme
 
 - - C2
-  - ◐
+  - `P`
   - All alerts answered within 24 hours; no comparator
 
 - - C3
-  - ●
+  - `Y`
   - Alerts integrated into the national early-warning system; local budget funding
 
 - - D1
-  - ●
+  - `Y`
   - Local government ownership and budget funding
 
 - - D2
-  - ●
+  - `Y`
   - Safe-visit rules and confidentiality; no harm documented
 :::

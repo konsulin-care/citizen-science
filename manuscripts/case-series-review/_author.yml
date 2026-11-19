@@ -4,8 +4,8 @@ authors:
       family: Lamuri
     id: aly-l
     affiliations:
-      - ref: university-of-indonesia
-      - ref: university-of-groningen
+      - ref: ui
+      - ref: rug
     corresponding: true
     email: aly.lamuri@ui.ac.id
     roles:
@@ -16,11 +16,70 @@ authors:
       - resources
       - writing-original-draft
       - writing-review-editing
+  - name:
+      given: Feri
+      family: Setiawan
+    id: feri
+    affiliations:
+      - ref: binus
+    roles:
+      - writing-review-editing
+  - name:
+      given: Haykal Hafidzul
+      family: Arifin
+    id: haykal
+    affiliations:
+      - ref: ui
+      - ref: attentive
+    roles:
+      - writing-review-editing
+  - name:
+      given: Firas Farisi
+      family: Alkaff
+    id: firas
+    affiliations:
+      - ref: umcg
+    roles:
+      - writing-review-editing
+  - name:
+      given: Novika Purnama
+      family: Sari
+    id: novika
+    affiliations:
+      - ref: rug
+    roles:
+      - writing-review-editing
+  - name:
+      given: Nur Afny Catur
+      family: Andryani
+    id: afny
+    affiliations:
+      - ref: binus
+    roles:
+      - writing-review-editing
 affiliations:
-  - id: university-of-indonesia
+  - id: ui
     name: University of Indonesia
     ror: https://ror.org/0116zj450
-  - id: university-of-groningen
+    city: Depok
+    country: ID
+  - id: rug
     name: University of Groningen
     ror: https://ror.org/012p63287
+    city: Groningen
+    country: Netherlands
+  - id: binus
+    name: Binus University
+    ror: https://ror.org/03zmf4s77
+    city: Jakarta
+    country: ID
+  - id: umcg
+    name: University Medical Center Groningen
+    ror: https://ror.org/03cv38k47
+    city: Groningen
+    country: NL
+  - id: attentive
+    name: PT Atensi Kini
+    city: Jakarta
+    country: ID
 
