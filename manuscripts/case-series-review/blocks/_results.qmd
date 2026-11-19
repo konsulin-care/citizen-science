@@ -310,39 +310,6 @@ of the eighteen items were met in two or fewer cases.
   - SR
   - `Y` n/8
 
-- - **C1** Citizens changed the research question
-  - `P`
-  - `N`
-  - `Y`
-  - `N`
-  - `Y`
-  - `N`
-  - `N`
-  - `N`
-  - 2
-
-- - **C2** Findings came before the official or usual route
-  - `NR`
-  - `NR`
-  - `Y`
-  - `NR`
-  - `Y`
-  - `P`
-  - `NR`
-  - `NR`
-  - 2
-
-- - **C3** Findings were trusted and used
-  - `P`
-  - `NR`
-  - `P`
-  - `NR`
-  - `P`
-  - `Y`
-  - `N`
-  - `N`
-  - 1
-
 - - **A1** Choosing the question
   - `P`
   - `N`
@@ -484,6 +451,39 @@ of the eighteen items were met in two or fewer cases.
   - `Y`
   - `NR`
   - `P`
+  - 1
+
+- - **C1** Citizens changed the research question
+  - `P`
+  - `N`
+  - `Y`
+  - `N`
+  - `Y`
+  - `N`
+  - `N`
+  - `N`
+  - 2
+
+- - **C2** Findings came before the official or usual route
+  - `NR`
+  - `NR`
+  - `Y`
+  - `NR`
+  - `Y`
+  - `P`
+  - `NR`
+  - `NR`
+  - 2
+
+- - **C3** Findings were trusted and used
+  - `P`
+  - `NR`
+  - `P`
+  - `NR`
+  - `P`
+  - `Y`
+  - `N`
+  - `N`
   - 1
 
 - - **D1** Activity lasted, or ended as planned

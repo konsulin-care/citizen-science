@@ -135,20 +135,6 @@ unreported practice may still have taken place.
   - Question
   - `Y` Met when sources show…
 
-- - []{colspan=3} **C. What changed because citizens took part**
-
-- - C1
-  - Citizens changed the research question
-  - A focus or measure studied because citizens raised it, which researchers or officials were not studying
-
-- - C2
-  - Findings came before the official or usual route
-  - Dated sources show results published before the official or conventional equivalent
-
-- - C3
-  - Findings were trusted and used
-  - Documented use by a government, health service or funder
-
 - - []{colspan=3} **A. Citizens' highest documented role at each stage**
 
 - - A1
@@ -204,6 +190,20 @@ unreported practice may still have taken place.
 - - B7
   - Project evaluated itself (ECSA 9)
   - A formal evaluation published
+
+- - []{colspan=3} **C. What changed because citizens took part**
+
+- - C1
+  - Citizens changed the research question
+  - A focus or measure studied because citizens raised it, which researchers or officials were not studying
+
+- - C2
+  - Findings came before the official or usual route
+  - Dated sources show results published before the official or conventional equivalent
+
+- - C3
+  - Findings were trusted and used
+  - Documented use by a government, health service or funder
 
 - - []{colspan=3} **D. Durability and harm**
 
