@@ -118,62 +118,34 @@ affected by distress, who may have the least time, energy and confidence to take
 part, remain unheard. Future frameworks should record not only the level of
 participation but also whose experience is represented at each level.
 
-For Indonesia, the three conditions translate into a design sequence for
-citizen-centred research on stress, depression, anxiety, burnout and
-resilience. We offer it as a recommendation for future practice to be tested,
-not as something these eight cases have shown to work:
+## Recommendations for future research and practice
 
-1. Citizens help choose the question. Indonesian respondents named community
-   support, including mental support, as a way they wanted to contribute
-   [@tan2024].
-2. A named institutional counterpart and a pathway for using findings are agreed
-   before data collection starts.
-3. Consent is opt-in, specific to the study and recorded.
-4. Results go back to participants in a usable form.
-5. Volunteers are trained, supported and retained.
-6. The study is evaluated and reported against the 18 items.
-
-Indonesia already has parts of this to learn from, with clear limits. Lay mental
-health cadres (*kader kesehatan jiwa*) work with community health centres; in a
-qualitative study of 71 cadres in four provinces they described sorting
-residents by risk, visiting homes, referring people to care and supporting
-families with medication [@susanti2024]. Evaluations of cadre training report
-gains in cadres' self-efficacy and skills [@sutarjo2016] and in knowledge
-[@marastuti2020], but we found no evaluation that measured outcomes for patients
-or communities. These benchmarks show that a cadre channel exists and can be
-trained, not that it improves health. Volunteer support is the weak point.
-In Sleman, village governments paid community health volunteers IDR 300,000 to
-450,000 per year regardless of performance, and newer programmes, including
-mental health, had no incentive at all [@sitorukmi2025]; in Malang, cadres
-received about IDR 25,000 to 50,000 per month, set by the village government
-[@gadsden2021; @gadsden2022]; and mental health cadres in four provinces reported
-irregular payments [@susanti2024]. These are local examples and not national
-figures, and none of the studies measured retention. The unpaid Red Cross
-volunteers were retained at 73% (171 of 234), and the report names retention as
-a challenge [@ifrc2021]. As a regional comparator for sustaining volunteer
-systems, Thailand's village health volunteer programme is long-running and
-integrated with government [@kowitt2015], and its volunteers carried out
-community surveillance during COVID-19 [@kaweenuttayanon2021]. The wider
-Indonesian context fits steps 2 to 4. Most Indonesian respondents had never heard
-of citizen science, but most owned a smartphone and had internet access
-[@tan2024]; during the pandemic, grassroots groups published data because
-official information was inadequate [@nadzir2020]; and community members said
-they did not know how the information they gave was used [@kumar2025]. A clear
-pathway, specific consent and feedback to participants could help address
-each of these, although that remains to be tested.
-
-The next steps fall into this series and into wider research. Within the series,
-Paper 2 turns the consent and reporting lessons into principles for
-research-ready health data, Paper 3 assesses an open-source research platform
-against those principles, and Paper 4 is a baseline study of depression,
-anxiety, burnout, resilience and functioning among adults in three Indonesian
-cities. Beyond the series, four gaps stand out. The scoring framework needs to
-be validated, including agreement between independent raters. Interviews with
-project teams would show whether the practices scored as not reported took
-place. The cadre programmes need evaluations that measure outcomes for patients
-and communities. And a mental-health pilot in Indonesia, with a pre-agreed
-pathway to a named institution and a way to track commitments, would test
-whether the design sequence above makes findings actionable.
+Drawing on the reviewed cases, we propose a design sequence for citizen-centred
+research on stress, depression, anxiety, burnout and resilience. The sequence
+begins with citizens helping to formulate and sharpen the research question, so
+that the study addresses what matters to the people affected. In the two
+founder-led cases, this produced evidence that official or conventional sources
+had not, such as the health-worker deaths that no official source was counting
+[@ekawati2022]. In the two failures, by contrast, organisations acted on behalf
+of people in distress without asking them. In a nine-country study, Indonesian
+respondents identified community support, including mental support, as a way they
+wanted to contribute [@tan2024]. Before data collection, projects should obtain
+opt-in, study-specific consent. Where feasible, they should also agree with a
+named institutional counterpart how the findings might be used. Results should
+then be returned to participants in a usable form. The study should be evaluated
+and reported against the 18 items, so that readers can judge how it was run and
+whose experience it represents. Indonesia has a channel to build on in lay
+mental health cadres. Evaluations of their training, however, have not measured
+outcomes for patients or communities, and support for volunteers appears uneven
+[@susanti2024; @sitorukmi2025]. Within this series, Paper 2 develops the consent
+and reporting lessons into principles for research-ready health data. Paper 3
+assesses an open-source research platform against those principles. Paper 4 is a
+baseline study of depression, anxiety, burnout, resilience and functioning among
+adults in three Indonesian cities. Beyond the series, the scoring framework
+needs validation, and interviews with project teams could show whether
+unreported practices took place. A pilot mental-health study in Indonesia, with
+a pre-agreed pathway to a named institution, would test whether the sequence
+makes findings actionable.
 
 ## Strengths and limitations
 
