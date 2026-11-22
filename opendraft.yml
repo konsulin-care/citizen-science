@@ -1,0 +1,9 @@
+protocol:
+  name: opendraft
+  version: 2bdfb86592d0adfea9db8afececc8b3491fd014c
+  repository: https://github.com/konsulin-care/opendraft
+  commit: 2bdfb86592d0adfea9db8afececc8b3491fd014c
+  compatibleSince: ed768fe9db8b357494a08b11871dfd1315d11833
+manuscripts:
+  - id: citizen-science
+    path: manuscripts/citizen-science

@@ -1,0 +1,10 @@
+---
+metadata-files:
+- _author.yml
+- _abstract.yml
+- _frontmatter.yml
+bibliography: ../references.bib
+---
+
+::: {#refs}
+:::
