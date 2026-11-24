@@ -43,7 +43,7 @@ community members said they did not know how the information they gave was used
 In a longitudinal study of mental health research in England, studies with
 greater patient involvement were more likely to reach their recruitment
 targets, although the association does not prove cause [@ennis2013].
-Involvement can also go wrong: when lived-experience roles are filled by a
+Involvement can also go wrong, for instance when lived-experience roles are filled by a
 small, well-connected group, or when people are asked to share painful
 experience without fair support and pay, involvement risks "elite capture" and
 "epistemic exploitation" [@okoroji2023]. Research done on people, rather than
@@ -51,7 +51,7 @@ with them, therefore risks asking the wrong questions, recruiting the wrong
 people and losing their trust.
 
 Citizen science offers a different arrangement. In this paper, citizen science
-means research in which members of the public take part as partners: choosing
+means research in which members of the public take part as partners by choosing
 questions, designing methods, collecting or interpreting data, and sharing
 results. Participation ranges from contributing data (crowdsourcing) to
 defining the problem and leading the research (extreme citizen science)
