@@ -17,6 +17,14 @@ authors:
       - writing-original-draft
       - writing-review-editing
   - name:
+      given: Nur Afny Catur
+      family: Andryani
+    id: afny
+    affiliations:
+      - ref: binus
+    roles:
+      - writing-review-editing
+  - name:
       given: Feri
       family: Setiawan
     id: feri
@@ -47,14 +55,6 @@ authors:
     id: novika
     affiliations:
       - ref: rug
-    roles:
-      - writing-review-editing
-  - name:
-      given: Nur Afny Catur
-      family: Andryani
-    id: afny
-    affiliations:
-      - ref: binus
     roles:
       - writing-review-editing
 affiliations:
